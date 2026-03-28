@@ -1,0 +1,26 @@
+Hi, I am Anup Pal.
+
+I am a software engineer and a tech enthusiast with a strong interest in
+artificial intelligence and modern technologies. I enjoy learning about
+new tools and platforms and experimenting with them in real-world
+scenarios.
+
+In my work, I use technologies like Kubernetes for deployment and SQL
+for storing and managing data. I also frequently work with Java,
+especially Java streams, filtering operations, counting elements, and
+solving data structure related problems.
+
+I like exploring AI APIs and developer platforms such as OpenAI, Groq,
+and Gemini. I often experiment with both Python and Java to understand
+how different systems and APIs work.
+
+My approach to problem solving is practical and implementation focused.
+I prefer clear and simple solutions that can be directly applied in real
+systems and backend services.
+
+Outside of core development topics, I also explore areas related to
+health, nutrition, and occasional travel around Bangalore.
+
+One notable experience was during an interview where I proposed a system
+design for storing service logs that automatically delete after 12
+hours. The interviewers appreciated the approach and solution.

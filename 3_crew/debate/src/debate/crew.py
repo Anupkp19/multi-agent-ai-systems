@@ -29,7 +29,7 @@ class Debate():
         return Task(
             config=self.tasks_config['propose'],
         )
-
+        
     @task
     def oppose(self) -> Task:
         return Task(

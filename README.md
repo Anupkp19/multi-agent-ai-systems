@@ -1,36 +1,29 @@
+# ⚙️ Setup Instructions (Designed to Be Straightforward)
 
-### The not-so-dreaded setup instructions
+I’ve put together these steps to keep the setup process as smooth and predictable as possible.
 
-Perhaps famous last words: but I really, truly hope that I've put together an environment that will be not too horrific to set up!
+## 🖥️ Choose Your Platform
 
-- Windows people, your instructions are [here](setup/SETUP-PC.md)
-- Mac people, yours are [here](setup/SETUP-mac.md)
-- Linux people, yours are [here](setup/SETUP-linux.md)
+- **Windows:** [Setup Guide](setup/SETUP-PC.md)  
+- **Mac:** [Setup Guide](setup/SETUP-mac.md)  
+- **Linux:** [Setup Guide](setup/SETUP-linux.md)  
 
-Any problems, please do contact me.
+If you run into any issues, feel free to reach out.
 
-Windows PC users: you will need to have checked the "gotcha #4" at the top of the [SETUP-PC](setup/SETUP-PC.md) instructions -- installing Microsoft Build Tools.  
-If you don't do this, then CrewAI will fail with an obscure error involving Chroma..
+---
 
+### ⚠️ Important Note for Windows Users
 
-Then, you will need to run this command in a Cursor Terminal in the project root directory in order to run the Crew commands:  
-`uv tool install crewai==0.130.0 --python 3.12`   
-And in case you've used Crew before, it might be worth doing this to make sure you have the latest:  
-`uv tool upgrade crewai==0.130.0 --python 3.12`  
+Before anything else, make sure you’ve completed **“Gotcha #4”** in the Windows setup guide:  
+👉 Installing **Microsoft Build Tools**
 
-This command pins Crew to the same version that I use on the course. If you have any problems with Crew, you could try using the latest version instead, by running this command:  
-`uv tool upgrade crewai --python 3.12`  
+If you skip this, CrewAI may fail with a confusing **Chroma-related error**.
 
-At any point, you can see which version of Crew you have installed with this:  
-`uv tool list`
+---
 
+## 🚀 Installing CrewAI
 
+Run the following command in your **Cursor terminal** from the project root directory:
 
-
-### API costs - please read me!
-
-This course does involve making calls to OpenAI and other frontier models, requiring an API key and a small spend, which we set up in the SETUP instructions. If you'd prefer not to spend on API calls, there are cheaper alternatives like DeepSeek and free alternatives like using Ollama!
-
-Details are [here](guides/09_ai_apis_and_ollama.ipynb).
-
-Be sure to monitor your API costs to ensure you are totally happy with any spend. For OpenAI, the dashboard is [here](https://platform.openai.com/usage).
+```bash
+uv tool install crewai==0.130.0 --python 3.12

@@ -1,5 +1,8 @@
 from crewai import Agent, Crew, Process, Task
 from crewai.project import CrewBase, agent, crew, task
+from crewai.memory import LongTermMemory, ShortTermMemory, EntityMemory, storage
+from crewai.memory.storage.rag_storage import RAGStorage
+from crewai.memory.storage.ltm_sqlite_storage import LTMSQLiteStorage
 
 
 
@@ -18,10 +21,23 @@ class Coder():
         return Agent(
             config=self.agents_config['coder'],
             verbose=True,
+            short_term_memory = ShortTermMemory(
+                        storage = RAGStorage(
+                             embedder_config={
+                            "provider": "openai",
+                            "config": {
+                                "model": 'text-embedding-3-small'
+                            }
+                        },
+                        type="short_term",
+                        path="./memory/"
+                        )
+            ),
             allow_code_execution=True,
             code_execution_mode="safe",  # Uses Docker for safety
             max_execution_time=30, 
-            max_retry_limit=3 
+            max_retry_limit=3, 
+        
     )
 
 
