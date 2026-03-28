@@ -1,4 +1,4 @@
-# ⚙️ Setup Instructions (Designed to Be Straightforward)
+# ⚙️ Setup Instructions
 
 I’ve put together these steps to keep the setup process as smooth and predictable as possible.
 
