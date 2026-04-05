@@ -1,0 +1,849 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - link "Skip to content" [ref=e3] [cursor=pointer]:
+      - /url: "#main"
+    - banner [ref=e4]:
+      - generic [ref=e8]:
+        - generic [ref=e12]:
+          - paragraph [ref=e17]:
+            - text: Deliver Recipes In Your Inbox -
+            - strong [ref=e18]:
+              - link "Sign Up" [ref=e19] [cursor=pointer]:
+                - /url: https://www.spiceupthecurry.com/subscribe/
+          - generic [ref=e20]:
+            - navigation "Secondary" [ref=e22]:
+              - list [ref=e24]:
+                - listitem [ref=e25]:
+                  - link "About" [ref=e26] [cursor=pointer]:
+                    - /url: https://www.spiceupthecurry.com/about/
+                - listitem [ref=e27]:
+                  - link "Shop our store" [ref=e28] [cursor=pointer]:
+                    - /url: https://www.amazon.com/shop/spiceupthecurry
+                - listitem [ref=e29]:
+                  - link "Contact" [ref=e30] [cursor=pointer]:
+                    - /url: https://www.spiceupthecurry.com/contact/
+            - generic [ref=e33]:
+              - link "Instagram" [ref=e34] [cursor=pointer]:
+                - /url: https://www.instagram.com/spice.up.the.curry/
+                - img "Instagram" [ref=e36]
+              - link "Pinterest" [ref=e38] [cursor=pointer]:
+                - /url: https://www.pinterest.com/spiceupthecurry/
+                - img "Pinterest" [ref=e40]
+              - link "Facebook" [ref=e42] [cursor=pointer]:
+                - /url: https://www.facebook.com/spiceupthecurry/
+                - img "Facebook" [ref=e44]
+              - link "YouTube" [ref=e46] [cursor=pointer]:
+                - /url: https://www.youtube.com/spiceupthecurry
+                - img "YouTube" [ref=e48]
+            - link "Explore more in The Recipe Index" [ref=e53] [cursor=pointer]:
+              - /url: https://www.spiceupthecurry.com/recipe-index/
+        - generic [ref=e57]:
+          - link "Spice Up The Curry" [ref=e61] [cursor=pointer]:
+            - /url: https://www.spiceupthecurry.com/
+            - img "Spice Up The Curry" [ref=e62]
+          - generic [ref=e63]:
+            - navigation "Primary" [ref=e65]:
+              - list [ref=e67]:
+                - listitem [ref=e68]:
+                  - link "Recipe Index" [ref=e69] [cursor=pointer]:
+                    - /url: https://www.spiceupthecurry.com/recipe-index/
+                - listitem [ref=e70]:
+                  - link "Instant Pot" [ref=e71] [cursor=pointer]:
+                    - /url: https://www.spiceupthecurry.com/category/instant-pot-recipes/
+                - listitem [ref=e72]:
+                  - link "Eggless" [ref=e73] [cursor=pointer]:
+                    - /url: https://www.spiceupthecurry.com/category/baked-recipes/
+                - listitem [ref=e74]:
+                  - link "Freezer-Friendly" [ref=e75] [cursor=pointer]:
+                    - /url: https://www.spiceupthecurry.com/indian-freezer-meals/
+            - search [ref=e77]:
+              - generic [ref=e78]:
+                - generic [ref=e79]: "Search for:"
+                - searchbox "Search for:" [ref=e80]
+              - button "Search" [ref=e81] [cursor=pointer]
+              - generic:
+                - generic:
+                  - img
+    - main [ref=e82]:
+      - generic [ref=e84]:
+        - generic [ref=e86]:
+          - article [ref=e87]:
+            - generic [ref=e88]:
+              - generic [ref=e89]:
+                - img
+                - generic [ref=e90]:
+                  - button "Rate this recipe 1 out of 5 stars" [ref=e91] [cursor=pointer]:
+                    - img [ref=e92]
+                  - button "Rate this recipe 2 out of 5 stars" [ref=e94] [cursor=pointer]:
+                    - img [ref=e95]
+                  - button "Rate this recipe 3 out of 5 stars" [ref=e97] [cursor=pointer]:
+                    - img [ref=e98]
+                  - button "Rate this recipe 4 out of 5 stars" [ref=e100] [cursor=pointer]:
+                    - img [ref=e101]
+                  - button "Rate this recipe 5 out of 5 stars" [ref=e103] [cursor=pointer]:
+                    - img [ref=e104]
+                - navigation "Breadcrumbs" [ref=e106]:
+                  - generic [ref=e107]:
+                    - link "Home" [ref=e109] [cursor=pointer]:
+                      - /url: https://www.spiceupthecurry.com/
+                    - text: /
+                    - link "Cuisine" [ref=e111] [cursor=pointer]:
+                      - /url: https://www.spiceupthecurry.com/category/fusion/
+                    - text: /
+                    - link "Indo-Chinese" [ref=e113] [cursor=pointer]:
+                      - /url: https://www.spiceupthecurry.com/category/fusion/indo-chinese-fusion/
+                    - text: / Veg Fried Rice (Indian Chinese Style)
+                - heading "Veg Fried Rice (Indian Chinese Style)" [level=1] [ref=e114]
+                - generic [ref=e115]:
+                  - generic [ref=e116]:
+                    - generic [ref=e119]: By
+                    - generic [ref=e120]: Kanan Patel
+                    - text: "|"
+                  - generic [ref=e121]:
+                    - generic [ref=e122]: Updated on
+                    - time [ref=e123]: March 6, 2024
+                    - text: "|"
+                  - link "8 Comments" [ref=e125] [cursor=pointer]:
+                    - /url: "#comments"
+              - generic [ref=e126]:
+                - generic [ref=e127]:
+                  - link "Jump to Recipe" [ref=e128] [cursor=pointer]:
+                    - /url: "#recipe"
+                    - img [ref=e130]
+                    - text: Jump to Recipe
+                  - button "Pin Recipe" [ref=e134] [cursor=pointer]:
+                    - img [ref=e136]
+                    - text: Pin Recipe
+                  - link [ref=e139] [cursor=pointer]:
+                    - /url: https://www.google.com/preferences/source?q=https://www.spiceupthecurry.com
+                    - img [ref=e140]:
+                      - img [ref=e143]
+                      - generic [ref=e149]:
+                        - generic [ref=e150]: Add as a preferred
+                        - generic [ref=e151]: source on Google
+                - paragraph [ref=e152]:
+                  - text: Try this classic
+                  - strong [ref=e153]: Indian Chinese style veg fried rice recipe
+                  - text: that is much better than your favorite restaurant. Using leftover rice, this dish comes together in
+                  - strong [ref=e154]: under 30 minutes
+                  - text: ", making it perfect for busy weeknights or last-minute cravings."
+                - figure [ref=e156]:
+                  - img "Indian Veg fried rice served with manchurian, extra spring onions and napkin, forks on the side." [ref=e157]
+                - heading "❤️ About This Recipe" [level=2] [ref=e159]
+                - paragraph [ref=e160]: Indo-Chinese veg fried rice is a fusion dish that combines elements of Indian and Chinese cuisines. It typically consists of cooked basmati rice stir-fried with a variety of vegetables, and aromatics like ginger and garlic, and flavored with soy sauce and other seasonings. This dish is known for its bold flavors, vibrant colors, and hearty textures.
+                - paragraph [ref=e161]:
+                  - text: It is often served as a standalone main course or as a side dish alongside other Indo-Chinese dishes such as
+                  - link "veg manchurian" [ref=e162] [cursor=pointer]:
+                    - /url: https://www.spiceupthecurry.com/veg-manchurian-dry-recipe/
+                  - text: ","
+                  - link "chilli paneer" [ref=e163] [cursor=pointer]:
+                    - /url: https://www.spiceupthecurry.com/chilli-paneer-dry-recipe/
+                  - text: ", or"
+                  - link "vegetable hakka noodles" [ref=e164] [cursor=pointer]:
+                    - /url: https://www.spiceupthecurry.com/hakka-noodles-recipe/
+                  - text: .
+                - generic [ref=e167]:
+                  - paragraph [ref=e168]:
+                    - strong [ref=e169]: You’ll Love This Veg Fried Rice Recipe
+                  - list [ref=e170]:
+                    - listitem [ref=e171]:
+                      - strong [ref=e172]: Quick and Easy
+                      - text: ": Ready in under 30 minutes, perfect for busy weeknights."
+                    - listitem [ref=e173]:
+                      - strong [ref=e174]: Ideal for Lunchboxes
+                      - text: ": Pack it for school or work lunches, it’s delicious both hot and room temperature."
+                    - listitem [ref=e175]:
+                      - strong [ref=e176]: Customizable
+                      - text: ": Use your favorite veggies or protein like tofu or paneer in this versatile dish."
+                    - listitem [ref=e177]:
+                      - strong [ref=e178]: Restaurant-Style Flavor
+                      - text: ": Tastes just like your favorite Indo-Chinese restaurant or I would say better than restaurant."
+                    - listitem [ref=e179]:
+                      - strong [ref=e180]: Vegan
+                      - text: ": This recipe is entirely plant-based, making it suitable for vegans and those looking for meat-free options."
+                - heading "🧾 Ingredient Notes" [level=2] [ref=e182]
+                - figure [ref=e184]:
+                  - img "Veg fried rice recipe ingredients in bowls and spoons with labels." [ref=e185]
+                - list [ref=e187]:
+                  - listitem [ref=e188]:
+                    - strong [ref=e189]: Basmati Rice
+                    - text: ": Cook the rice until it’s fluffy and each grain is separate. Leftover rice works perfectly for this recipe."
+                  - listitem [ref=e190]:
+                    - strong [ref=e191]: Oil
+                    - text: ": Always use oil that has a high smoke point as we are cooking on medium-high heat. e.g. peanut oil, safflower oil, avocado oil, etc."
+                  - listitem [ref=e192]:
+                    - strong [ref=e193]: "Ginger, Garlic:"
+                    - text: I usually crush these into using
+                    - link "a wet jar of my spice grinder" [ref=e194] [cursor=pointer]:
+                      - /url: https://www.spiceupthecurry.com/recommends/spice-grinder/
+                    - text: . Or you can mince them using a knife.
+                  - listitem [ref=e195]:
+                    - strong [ref=e196]: Veggies
+                    - text: ": I have used onion, carrot, cabbage, green pepper, and green beans. Check out the variations section below for more ideas."
+                    - list [ref=e197]:
+                      - listitem [ref=e198]: I prefer to use fresh veggies as they give the best crisp texture.
+                      - listitem [ref=e199]:
+                        - emphasis [ref=e200]: You can use frozen veggies
+                        - text: if short on time. But keep in mind that frozen veggies may turn out soft and stay crunchy like fresh ones.
+                  - listitem [ref=e201]:
+                    - strong [ref=e202]: Soy sauce
+                    - text: ": Adds a savory umami flavor. I’ve used regular soy sauce, but you can opt for dark or light soy sauce according to your preference."
+                  - listitem [ref=e203]:
+                    - strong [ref=e204]: Vinegar
+                    - text: ": I have used white vinegar here. Any other vinegar like rice vinegar, apple cider vinegar, chili vinegar, etc works too."
+                  - listitem [ref=e205]:
+                    - strong [ref=e206]: Spring Onion Greens
+                    - text: ": Use the green part of spring onions as a garnish for a fresh touch."
+                - heading "👩‍🍳 How To Make Veg Fried Rice? (Pics)" [level=2] [ref=e208]
+                - paragraph [ref=e209]:
+                  - strong [ref=e210]: "Prep:"
+                - paragraph [ref=e211]:
+                  - strong [ref=e212]: For the best results, cook the basmati rice a day before or a few hours ahead.
+                  - text: You can follow any of the two methods
+                  - text: –
+                  - link "Cook basmati rice in instant pot" [ref=e213] [cursor=pointer]:
+                    - /url: https://www.spiceupthecurry.com/instant-pot-basmati-rice/
+                  - text: –
+                  - link "Cook basmati rice on stovetop" [ref=e214] [cursor=pointer]:
+                    - /url: https://www.spiceupthecurry.com/basmati-rice-recipe/
+                - list [ref=e215]:
+                  - listitem [ref=e216]:
+                    - emphasis [ref=e217]: If you’re using leftover rice
+                    - text: from the fridge, make sure to bring it to room temperature before using it.
+                  - listitem [ref=e218]:
+                    - emphasis [ref=e219]: If you’re cooking the rice fresh
+                    - text: ", spread it out on a large plate or tray to cool down quickly. This step ensures that the rice maintains its texture and doesn’t clump together when added to the fried rice later on."
+                - paragraph [ref=e220]:
+                  - strong [ref=e221]: "Make Vegetable Fried Rice Recipe:"
+                - paragraph [ref=e222]:
+                  - text: 1, 2) Heat oil in a pan over
+                  - strong [ref=e223]: medium-high heat
+                  - text: . Once hot, add minced ginger and garlic, and sauté for about a minute until fragrant.
+                - paragraph [ref=e224]: 3, 4) Add diced onion and cook for another minute until translucent.
+                - paragraph [ref=e225]:
+                  - text: 5, 6) Next, add the remaining vegetables (cabbage, green pepper, carrot, green beans). Add salt and cook for
+                  - strong [ref=e226]: 4-5 minutes until they are tender-crisp
+                  - text: (not mushy or completely tender soft).
+                - figure [ref=e228]:
+                  - img "Collage of 6 image showing sauteing ginger, garlic and stir frying veggies." [ref=e229]
+                - paragraph [ref=e231]: 7, 8 , 9, 10) Season with black pepper, soy sauce, and vinegar. Stir to combine.
+                - paragraph [ref=e232]: 11, 12) Add the cooked rice and spring onion greens to the pan. Toss everything together and cook for 2 minutes or until heated through.
+                - figure [ref=e234]:
+                  - img "Collage of 6 image showing adding sauce, vinegar, pepper and tossing rice and spring onions." [ref=e235]
+                - heading "💭 Expert Tips" [level=2] [ref=e237]
+                - list [ref=e238]:
+                  - listitem [ref=e239]:
+                    - strong [ref=e240]: "Leftover or Cooled Rice:"
+                    - text: Use day-old rice or let freshly cooked rice cool completely to prevent it from becoming mushy when stir-fried.
+                  - listitem [ref=e241]:
+                    - strong [ref=e242]: "Same Size Veggies:"
+                    - text: Make sure to dice all the veggies into even-sized pieces so they cook at the same time.
+                  - listitem [ref=e243]:
+                    - strong [ref=e244]: "Medium-High Heat:"
+                    - text: Always stir fry veggies and toss rice on medium-high heat to ensure that the veggies and rice get nicely cooked without becoming mushy or overly dry.
+                  - listitem [ref=e245]:
+                    - strong [ref=e246]: "Smokey Flavor:"
+                    - list [ref=e247]:
+                      - listitem [ref=e248]:
+                        - text: Ensure the
+                        - strong [ref=e249]:
+                          - emphasis [ref=e250]: wok or pan is hot
+                        - text: before adding the ingredients to achieve that signature smoky flavor.
+                      - listitem [ref=e251]:
+                        - text: Using a
+                        - strong [ref=e252]:
+                          - emphasis [ref=e253]: cast iron pan
+                        - text: (if the wok is not available) adds a delicious smoky flavor and helps achieve the perfect texture by evenly distributing heat throughout the rice and vegetables.
+                  - listitem [ref=e254]:
+                    - strong [ref=e255]: "Avoid Mushy Rice:"
+                    - text: Always gently stir and toss it rather than vigorously mixing it.
+                - heading "📖 Variations" [level=2] [ref=e256]
+                - list [ref=e257]:
+                  - listitem [ref=e258]:
+                    - strong [ref=e259]: Veggies
+                    - text: ": You can use a variety of vegetables like mushrooms, broccoli, cauliflower, snow peas, baby corn, sweet corn, green peas, zucchini, spinach, etc."
+                  - listitem [ref=e260]:
+                    - strong [ref=e261]: Protein
+                    - text: ": You can add various vegetarian protein sources such as tofu or paneer cubes, edamame beans, tempeh, bean sprouts, etc."
+                  - listitem [ref=e262]:
+                    - strong [ref=e263]: Rice
+                    - text: ": This recipe calls for basmati rice as this is an Indian fried rice recipe. But you can try Jasmine rice (fragrant and slightly sticky) or long-rain white rice such as Carolina, American long-grain rice."
+                  - listitem [ref=e264]:
+                    - strong [ref=e265]: Sauce
+                    - text: ": For different flavor profiles, you can add chili sauce, schezwan sauce, green chili sauce, etc. Note these sauces will add some heat to your veg fried rice."
+                  - listitem [ref=e266]:
+                    - strong [ref=e267]: Extra flavor
+                    - text: ": You can drizzle some toasted sesame oil at the end of cooking."
+                - heading "🥣 Storage Instructions" [level=2] [ref=e269]
+                - list [ref=e270]:
+                  - listitem [ref=e271]:
+                    - strong [ref=e272]: To Refrigerate,
+                    - text: store leftover veg fried rice (if made from freshly cooked rice) in an airtight container for up to 2 days.
+                    - list [ref=e273]:
+                      - listitem [ref=e274]:
+                        - strong [ref=e275]:
+                          - emphasis [ref=e276]: "Note: It’s not recommended to store fried rice made from leftover rice again in the fridge. Consume it fresh."
+                  - listitem [ref=e277]:
+                    - strong [ref=e278]: Reheating
+                    - text: ": sprinkle a little water over the rice before microwaving to prevent it from drying out."
+                - heading "🍽 Serving Ideas" [level=2] [ref=e279]
+                - list [ref=e280]:
+                  - listitem [ref=e281]:
+                    - strong [ref=e282]: "Indian Chinese fusion:"
+                    - text: Pair Veg Fried Rice with manchurian (eg.
+                    - link "veg manchurian" [ref=e283] [cursor=pointer]:
+                      - /url: https://www.spiceupthecurry.com/veg-manchurian-dry-recipe/
+                    - text: ","
+                    - link "gobi manchurian" [ref=e284] [cursor=pointer]:
+                      - /url: https://www.spiceupthecurry.com/gobi-manchurian-recipe-dry/
+                    - text: ","
+                    - link "paneer manchurian" [ref=e285] [cursor=pointer]:
+                      - /url: https://www.spiceupthecurry.com/paneer-manchurian-recipe/
+                    - text: ","
+                    - link "mushroom manchurian" [ref=e286] [cursor=pointer]:
+                      - /url: https://www.spiceupthecurry.com/mushroom-manchurian-dry-recipe/
+                    - text: ) or
+                    - link "chilli paneer" [ref=e287] [cursor=pointer]:
+                      - /url: https://www.spiceupthecurry.com/chilli-paneer-dry-recipe/
+                    - text: for an authentic Indo-Chinese experience.
+                  - listitem [ref=e288]:
+                    - strong [ref=e289]: "Grilled paneer/tofu:"
+                    - text: Serve alongside grilled tofu or paneer for a protein-packed vegetarian meal.
+                - figure [ref=e291]:
+                  - img "A bowl of veg fried rice with napkin, forks on the side." [ref=e292]
+                - generic [ref=e295]:
+                  - paragraph [ref=e296]:
+                    - strong [ref=e297]: Check Out Other Fried Rice Recipes
+                  - list [ref=e298]:
+                    - listitem [ref=e299]:
+                      - link "Schezwan fried rice" [ref=e300] [cursor=pointer]:
+                        - /url: https://www.spiceupthecurry.com/schezwan-fried-rice/
+                    - listitem [ref=e301]:
+                      - link "Paneer fried rice" [ref=e302] [cursor=pointer]:
+                        - /url: https://www.spiceupthecurry.com/paneer-fried-rice-recipe/
+                    - listitem [ref=e303]:
+                      - link "Mushroom fried rice" [ref=e304] [cursor=pointer]:
+                        - /url: https://www.spiceupthecurry.com/mushroom-fried-rice-recipe/
+                - paragraph [ref=e305]:
+                  - strong [ref=e306]:
+                    - text: Did you try this veg fried rice recipe? I’d love to hear about it! Leave a review
+                    - link "in the comment section" [ref=e307] [cursor=pointer]:
+                      - /url: "#respond"
+                    - text: below.
+                - generic [ref=e309]:
+                  - generic [ref=e310]:
+                    - heading "Veg Fried Rice (Indian Chinese Style)" [level=2] [ref=e311]
+                    - img
+                    - generic [ref=e312]:
+                      - button "Rate this recipe 1 out of 5 stars" [ref=e313] [cursor=pointer]:
+                        - img [ref=e314]
+                      - button "Rate this recipe 2 out of 5 stars" [ref=e316] [cursor=pointer]:
+                        - img [ref=e317]
+                      - button "Rate this recipe 3 out of 5 stars" [ref=e319] [cursor=pointer]:
+                        - img [ref=e320]
+                      - button "Rate this recipe 4 out of 5 stars" [ref=e322] [cursor=pointer]:
+                        - img [ref=e323]
+                      - button "Rate this recipe 5 out of 5 stars" [ref=e325] [cursor=pointer]:
+                        - img [ref=e326]
+                      - generic [ref=e328]: 4.43 from 7 votes
+                  - generic [ref=e329]:
+                    - link "Print" [ref=e331] [cursor=pointer]:
+                      - /url: https://www.spiceupthecurry.com/wprm_print/veg-fried-rice-indian-chinese-style
+                      - img [ref=e333]
+                      - text: Print
+                    - button "Pin" [ref=e339] [cursor=pointer]:
+                      - img [ref=e341]
+                      - text: Pin
+                    - link "Rate" [ref=e346] [cursor=pointer]:
+                      - /url: "#commentform"
+                      - img [ref=e348]
+                      - text: Rate
+                  - generic [ref=e352]:
+                    - img "A bowl of veg fried rice with napkin, forks on the side." [ref=e355]
+                    - generic [ref=e356]:
+                      - generic [ref=e357]: Try this classic Indian Chinese style veg fried rice recipe that is much better than your favorite restaurant. Using leftover rice, this dish comes together in under 30 minutes, making it perfect for busy weeknights or last-minute cravings.
+                      - link "Kanan" [ref=e359] [cursor=pointer]:
+                        - /url: https://www.spiceupthecurry.com/about/
+                  - generic [ref=e361]:
+                    - generic [ref=e362]:
+                      - generic [ref=e363]:
+                        - text: Prep Time
+                        - generic [ref=e364]:
+                          - generic [ref=e365]:
+                            - text: "10"
+                            - generic [ref=e366]: minutes
+                          - text: mins
+                      - generic [ref=e367]:
+                        - text: Cook Time
+                        - generic [ref=e368]:
+                          - generic [ref=e369]:
+                            - text: "15"
+                            - generic [ref=e370]: minutes
+                          - text: mins
+                      - generic [ref=e371]:
+                        - text: Total Time
+                        - generic [ref=e372]:
+                          - generic [ref=e373]:
+                            - text: "25"
+                            - generic [ref=e374]: minutes
+                          - text: mins
+                    - generic [ref=e375]:
+                      - text: Serving Size
+                      - link "Adjust recipe servings" [ref=e376] [cursor=pointer]:
+                        - /url: "#"
+                        - text: "4"
+                  - generic [ref=e378]:
+                    - paragraph [ref=e380]: US measuring cups are used (1 cup = 240 ml)
+                    - generic [ref=e382]:
+                      - generic [ref=e383] [cursor=pointer]:
+                        - checkbox "Cook Mode"
+                        - generic [ref=e385]: Cook Mode
+                      - generic [ref=e386]: Prevent your screen from going dark
+                    - generic [ref=e388]:
+                      - heading "Ingredients" [level=3] [ref=e389]
+                      - list [ref=e391]:
+                        - listitem [ref=e393]: 1 cup Basmati rice, around 3 – 3 ½ cups cooked rice, or use leftover rice
+                        - listitem [ref=e394]: 3 tablespoons Oil
+                        - listitem [ref=e395]: 1 tablespoon Garlic, minced
+                        - listitem [ref=e396]: 2 teaspoon Ginger, minced
+                        - listitem [ref=e397]: ½ cup Red onion, finely diced
+                        - listitem [ref=e398]: ½ cup Carrots, finely diced
+                        - listitem [ref=e399]: ½ cup Capsicum (Green bell pepper), finely diced
+                        - listitem [ref=e400]: ½ cup Cabbage, chopped
+                        - listitem [ref=e401]: ½ cup Green beans (French beans), finely chopped
+                        - listitem [ref=e402]: 1 teaspoon Salt, or to taste
+                        - listitem [ref=e403]: ½ teaspoon Black pepper powder
+                        - listitem [ref=e404]: 1 tablespoon Soy sauce
+                        - listitem [ref=e405]: 1 teaspoon Vinegar
+                        - listitem [ref=e406]: ½ cup Spring onion greens
+                    - generic [ref=e408]:
+                      - heading "Instructions" [level=3] [ref=e409]
+                      - list [ref=e411]:
+                        - listitem [ref=e413]:
+                          - generic [ref=e415]:
+                            - text: Heat oil in a pan over
+                            - strong [ref=e416]: medium-high heat
+                            - text: . Once hot, add minced ginger and garlic, and sauté for about a minute until fragrant.
+                        - listitem [ref=e417]:
+                          - generic [ref=e418]: Add diced onion and cook for another minute until translucent.
+                        - listitem [ref=e419]:
+                          - generic [ref=e421]:
+                            - text: Next, add the remaining vegetables (cabbage, green pepper, carrot, green beans). Add salt and cook for 4-5 minutes until they are
+                            - strong [ref=e422]: tender-crisp (not mushy or completely tender soft)
+                            - text: .
+                        - listitem [ref=e423]:
+                          - generic [ref=e424]: Season with black pepper, soy sauce, and vinegar. Stir to combine.
+                        - listitem [ref=e425]:
+                          - generic [ref=e427]: Add the cooked rice and spring onion greens to the pan. Toss everything together and cook for 2 minutes or until heated through.
+                        - listitem [ref=e428]:
+                          - generic [ref=e430]: Serve veg fried rice hot or warm.
+                    - generic [ref=e432]:
+                      - generic [ref=e433]:
+                        - heading "Notes" [level=3] [ref=e434]
+                        - list [ref=e436]:
+                          - listitem [ref=e438]:
+                            - text: For the best results,
+                            - strong [ref=e439]: cook the basmati rice a day before or a few hours ahead
+                            - text: . You can follow any of the below two methods (1)
+                            - link "Cook basmati rice in instant pot" [ref=e440] [cursor=pointer]:
+                              - /url: https://www.spiceupthecurry.com/instant-pot-basmati-rice/
+                            - text: (2)
+                            - link "Cook basmati rice on stovetop" [ref=e441] [cursor=pointer]:
+                              - /url: https://www.spiceupthecurry.com/basmati-rice-recipe/
+                          - listitem [ref=e442]:
+                            - strong [ref=e443]: "Leftover or Cooled Rice:"
+                            - text: Use day-old rice or let freshly cooked rice cool completely to prevent it from becoming mushy when stir-fried.
+                          - listitem [ref=e444]:
+                            - strong [ref=e445]: "Same Size Veggies:"
+                            - text: Make sure to dice all the veggies into even-sized pieces so they cook at the same time.
+                          - listitem [ref=e446]:
+                            - strong [ref=e447]: Medium-High Heat
+                            - text: ": Always stir fry veggies and toos rice on medium-high heat to ensure that the veggies and rice get nicely cooked without becoming mushy or overly dry."
+                          - listitem [ref=e448]:
+                            - strong [ref=e449]: Smokey Flavor
+                            - text: ": Ensure the wok or pan is hot before adding the ingredients to achieve that signature smoky flavor. Using a cast iron pan (if the wok is not available) adds a delicious smoky flavor and helps achieve the perfect texture by evenly distributing heat throughout the rice and vegetables."
+                          - listitem [ref=e451]:
+                            - strong [ref=e452]: Avoid Mushy Rice
+                            - text: ": Always gently stir and toss it rather than vigorously mixing it."
+                      - generic [ref=e453]:
+                        - heading "Nutrition" [level=3] [ref=e454]
+                        - generic [ref=e455]:
+                          - generic [ref=e456]: "Calories: 261kcal (13%)"
+                          - text: "|"
+                          - generic [ref=e457]: "Carbohydrates: 48.2g (16%)"
+                          - text: "|"
+                          - generic [ref=e458]: "Protein: 5.5g (11%)"
+                          - text: "|"
+                          - generic [ref=e459]: "Fat: 5.1g (8%)"
+                          - text: "|"
+                          - generic [ref=e460]: "Saturated Fat: 0.7g (4%)"
+                          - text: "|"
+                          - generic [ref=e461]: "Cholesterol: 0mg"
+                          - text: "|"
+                          - generic [ref=e462]: "Sodium: 709mg (30%)"
+                          - text: "|"
+                          - generic [ref=e463]: "Potassium: 285mg (8%)"
+                          - text: "|"
+                          - generic [ref=e464]: "Fiber: 3g (12%)"
+                          - text: "|"
+                          - generic [ref=e465]: "Sugar: 3.7g (4%)"
+                  - generic [ref=e466]:
+                    - generic [ref=e467]:
+                      - heading "Did You Make This Recipe?" [level=3] [ref=e468]
+                      - paragraph [ref=e469]: I want to see! Be sure to tag me on social media!
+                    - generic [ref=e470]:
+                      - link "Rate this Recipe" [ref=e471] [cursor=pointer]:
+                        - /url: "#commentform"
+                        - img [ref=e473]
+                        - text: Rate this Recipe
+                      - button "Pin Recipe" [ref=e476] [cursor=pointer]:
+                        - img [ref=e478]
+                        - text: Pin Recipe
+                      - link "Tag on Insta" [ref=e481] [cursor=pointer]:
+                        - /url: https://www.instagram.com/spice.up.the.curry/
+                        - img [ref=e483]
+                        - text: Tag on Insta
+                - generic [ref=e489]:
+                  - generic [ref=e490]:
+                    - img [ref=e492]
+                    - generic [ref=e494]: "2534"
+                    - generic [ref=e495]: shares
+                  - list [ref=e496]:
+                    - listitem [ref=e497]:
+                      - link "Share on Facebook" [ref=e498] [cursor=pointer]:
+                        - /url: https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.spiceupthecurry.com%2Fvegetable-fried-rice-recipe%2F%3Futm_source%3Dfacebook%26utm_medium%3Dsocial%26utm_campaign%3Dsocial-pug&t=Veg%20Fried%20Rice%20%28Indian%20Chinese%20Style%29%20-%20Spice%20Up%20The%20Curry
+                        - img [ref=e501]
+                        - generic [ref=e503]: Facebook
+                        - generic [ref=e504]: "101"
+                    - listitem [ref=e505]:
+                      - button "Save to Pinterest" [ref=e506] [cursor=pointer]:
+                        - img [ref=e509]
+                        - generic [ref=e511]: Pinterest
+                        - generic [ref=e512]: "2433"
+          - generic [ref=e515]:
+            - text: Kanan Patel
+            - paragraph [ref=e518]: To understand the art and science of cooking, I’ve read many cookbooks and culinary books—and now I’m sharing all that experience with you. I started this blog in 2012 to share reliable vegetarian, Indian, and eggless baking recipes (with step-by-step photos and videos) that you can count on.
+          - navigation "Posts" [ref=e520]:
+            - heading "Post navigation" [level=2] [ref=e521]
+            - generic [ref=e522]:
+              - link "Previous Masala Papad" [ref=e524] [cursor=pointer]:
+                - /url: https://www.spiceupthecurry.com/masala-papad-recipe/
+                - generic [ref=e526]:
+                  - img [ref=e528]
+                  - text: Previous
+                - text: Masala Papad
+              - link "Next Peanut Butter Oatmeal Balls" [ref=e531] [cursor=pointer]:
+                - /url: https://www.spiceupthecurry.com/peanut-butter-oatmeal-balls/
+                - generic [ref=e533]:
+                  - text: Next
+                  - img [ref=e535]
+                - text: Peanut Butter Oatmeal Balls
+          - generic [ref=e537]:
+            - generic [ref=e538]:
+              - generic [ref=e539]:
+                - img
+                - generic [ref=e540]:
+                  - img [ref=e542]
+                  - img [ref=e545]
+                  - img [ref=e548]
+                  - img [ref=e551]
+                  - img [ref=e554]
+              - generic [ref=e556]:
+                - text: 4.43 from 7 votes (
+                - button "4 ratings without comment" [ref=e557] [cursor=pointer]
+                - text: )
+            - generic [ref=e558]:
+              - heading "Leave a Reply" [level=3] [ref=e559]: Leave a Reply
+              - generic [ref=e560]:
+                - paragraph [ref=e561]:
+                  - text: Your email address will not be published.
+                  - generic [ref=e562]: Required fields are marked *
+                - generic [ref=e563]:
+                  - generic [ref=e564]: Recipe Rating
+                  - group "Recipe Rating" [ref=e566]:
+                    - generic [ref=e567]: Recipe Rating
+                    - radio "Don't rate this recipe" [checked] [ref=e568] [cursor=pointer]
+                    - generic:
+                      - img
+                    - radio "Rate this recipe 1 out of 5 stars" [ref=e569] [cursor=pointer]
+                    - generic:
+                      - img
+                    - radio "Rate this recipe 2 out of 5 stars" [ref=e570] [cursor=pointer]
+                    - generic:
+                      - img
+                    - radio "Rate this recipe 3 out of 5 stars" [ref=e571] [cursor=pointer]
+                    - generic:
+                      - img
+                    - radio "Rate this recipe 4 out of 5 stars" [ref=e572] [cursor=pointer]
+                    - generic:
+                      - img
+                    - radio "Rate this recipe 5 out of 5 stars" [ref=e573] [cursor=pointer]
+                    - generic:
+                      - img
+                - paragraph [ref=e574]:
+                  - textbox "Comment *" [ref=e575]:
+                    - /placeholder: Leave a comment...
+                  - generic [ref=e576]: Comment *
+                - generic [ref=e577]:
+                  - paragraph [ref=e578]:
+                    - textbox "Name" [ref=e579]:
+                      - /placeholder: John Doe
+                    - generic [ref=e580]: Name *
+                  - paragraph [ref=e581]:
+                    - textbox "Email" [ref=e582]:
+                      - /placeholder: john@example.com
+                    - generic [ref=e583]: Email *
+                  - paragraph [ref=e584]:
+                    - textbox "Website" [ref=e585]:
+                      - /placeholder: https://www.example.com
+                    - generic [ref=e586]: Website
+                - paragraph [ref=e587]:
+                  - button "Post Comment" [ref=e588] [cursor=pointer]
+            - paragraph [ref=e589]:
+              - text: This site uses Akismet to reduce spam.
+              - link "Learn how your comment data is processed." [ref=e590] [cursor=pointer]:
+                - /url: https://akismet.com/privacy/
+            - heading "8 Comments" [level=2] [ref=e591]
+            - navigation "Comments" [ref=e592]:
+              - heading "Comments navigation" [level=2] [ref=e593]
+              - link "Older comments" [ref=e596] [cursor=pointer]:
+                - /url: https://www.spiceupthecurry.com/vegetable-fried-rice-recipe/comment-page-1/#comments
+            - list [ref=e597]:
+              - listitem [ref=e598]:
+                - article [ref=e599]:
+                  - generic [ref=e600]:
+                    - generic [ref=e601]: "Rajni says:"
+                    - link "November 22, 2019 at 12:40 pm" [ref=e603] [cursor=pointer]:
+                      - /url: https://www.spiceupthecurry.com/vegetable-fried-rice-recipe/comment-page-2/#comment-99929
+                      - time [ref=e604]: November 22, 2019 at 12:40 pm
+                  - paragraph [ref=e606]: Nice, easy to cook at home,
+                  - link "Reply to Rajni" [ref=e608] [cursor=pointer]:
+                    - /url: "#comment-99929"
+                    - text: Reply
+                - list [ref=e609]:
+                  - listitem [ref=e610]:
+                    - article [ref=e611]:
+                      - generic [ref=e612]:
+                        - generic [ref=e613]:
+                          - link "Kanan" [ref=e615] [cursor=pointer]:
+                            - /url: https://www.spiceupthecurry.com/about/
+                          - text: "says:"
+                        - link "November 27, 2019 at 9:08 am" [ref=e617] [cursor=pointer]:
+                          - /url: https://www.spiceupthecurry.com/vegetable-fried-rice-recipe/comment-page-2/#comment-99999
+                          - time [ref=e618]: November 27, 2019 at 9:08 am
+                      - paragraph [ref=e620]: glad that you find it easy
+                      - link "Reply to Kanan" [ref=e622] [cursor=pointer]:
+                        - /url: "#comment-99999"
+                        - text: Reply
+              - listitem [ref=e624]:
+                - article [ref=e625]:
+                  - generic [ref=e626]:
+                    - generic [ref=e627]: "Amruta Pathak says:"
+                    - link "June 3, 2019 at 6:25 am" [ref=e629] [cursor=pointer]:
+                      - /url: https://www.spiceupthecurry.com/vegetable-fried-rice-recipe/comment-page-2/#comment-97246
+                      - time [ref=e630]: June 3, 2019 at 6:25 am
+                  - paragraph [ref=e632]:
+                    - text: Thanks for writing this great article! It’s very informative, and you included some great points to the equally great recipe of veg fried rice. Its my one of the favorite dish. Thanks again for this post!
+                    - img "5 stars" [ref=e633]
+                  - link "Reply to Amruta Pathak" [ref=e635] [cursor=pointer]:
+                    - /url: "#comment-97246"
+                    - text: Reply
+                - list [ref=e636]:
+                  - listitem [ref=e637]:
+                    - article [ref=e638]:
+                      - generic [ref=e639]:
+                        - generic [ref=e640]:
+                          - link "Kanan" [ref=e642] [cursor=pointer]:
+                            - /url: https://www.spiceupthecurry.com/about/
+                          - text: "says:"
+                        - link "June 7, 2019 at 11:07 am" [ref=e644] [cursor=pointer]:
+                          - /url: https://www.spiceupthecurry.com/vegetable-fried-rice-recipe/comment-page-2/#comment-97302
+                          - time [ref=e645]: June 7, 2019 at 11:07 am
+                      - paragraph [ref=e647]: Glad that you find it helpful
+                      - link "Reply to Kanan" [ref=e649] [cursor=pointer]:
+                        - /url: "#comment-97302"
+                        - text: Reply
+            - navigation "Comments" [ref=e651]:
+              - heading "Comments navigation" [level=2] [ref=e652]
+              - link "Older comments" [ref=e655] [cursor=pointer]:
+                - /url: https://www.spiceupthecurry.com/vegetable-fried-rice-recipe/comment-page-1/#comments
+        - complementary [ref=e656]:
+          - generic [ref=e657]:
+            - figure [ref=e660]:
+              - img "Kanan Patel" [ref=e662]
+            - heading "WELCOME!" [level=3] [ref=e664]
+            - paragraph [ref=e666]:
+              - strong [ref=e667]: Hi, I'm Kanan Patel
+              - text: . I share easy, delicious vegetarian recipes (mostly Indian) and Eggless baking recipes that you can sure count on!
+            - link "moreAbout Kanan" [ref=e670] [cursor=pointer]:
+              - /url: https://www.spiceupthecurry.com/about/
+              - generic [ref=e671]: moreAbout Kanan
+              - img [ref=e673]
+            - search [ref=e677]:
+              - generic [ref=e678]: Search
+              - generic [ref=e679]:
+                - searchbox "Search" [ref=e680]
+                - button "Search" [ref=e681] [cursor=pointer]:
+                  - img [ref=e682]
+            - separator [ref=e689]
+            - heading "Top Recipes" [level=3] [ref=e691]
+            - list [ref=e693]:
+              - listitem [ref=e694]:
+                - article [ref=e695]:
+                  - link [ref=e696] [cursor=pointer]:
+                    - /url: https://www.spiceupthecurry.com/eggless-brownies/
+                    - img [ref=e698]
+                  - generic [ref=e700]:
+                    - img
+                    - generic [ref=e701]:
+                      - button "Rate this recipe 1 out of 5 stars" [ref=e702] [cursor=pointer]:
+                        - img [ref=e703]
+                      - button "Rate this recipe 2 out of 5 stars" [ref=e705] [cursor=pointer]:
+                        - img [ref=e706]
+                      - button "Rate this recipe 3 out of 5 stars" [ref=e708] [cursor=pointer]:
+                        - img [ref=e709]
+                      - button "Rate this recipe 4 out of 5 stars" [ref=e711] [cursor=pointer]:
+                        - img [ref=e712]
+                      - button "Rate this recipe 5 out of 5 stars" [ref=e714] [cursor=pointer]:
+                        - img [ref=e715]
+                    - heading "Eggless Brownies" [level=2] [ref=e717]:
+                      - link "Eggless Brownies" [ref=e718] [cursor=pointer]:
+                        - /url: https://www.spiceupthecurry.com/eggless-brownies/
+              - listitem [ref=e719]:
+                - article [ref=e720]:
+                  - link [ref=e721] [cursor=pointer]:
+                    - /url: https://www.spiceupthecurry.com/shahi-paneer-recipe-restaurant-style/
+                    - img [ref=e723]
+                  - generic [ref=e725]:
+                    - img
+                    - generic [ref=e726]:
+                      - button "Rate this recipe 1 out of 5 stars" [ref=e727] [cursor=pointer]:
+                        - img [ref=e728]
+                      - button "Rate this recipe 2 out of 5 stars" [ref=e730] [cursor=pointer]:
+                        - img [ref=e731]
+                      - button "Rate this recipe 3 out of 5 stars" [ref=e733] [cursor=pointer]:
+                        - img [ref=e734]
+                      - button "Rate this recipe 4 out of 5 stars" [ref=e736] [cursor=pointer]:
+                        - img [ref=e737]
+                      - button "Rate this recipe 5 out of 5 stars" [ref=e739] [cursor=pointer]:
+                        - img [ref=e740]
+                    - heading "Punjabi Shahi Paneer (Restaurant Style)" [level=2] [ref=e742]:
+                      - link "Punjabi Shahi Paneer (Restaurant Style)" [ref=e743] [cursor=pointer]:
+                        - /url: https://www.spiceupthecurry.com/shahi-paneer-recipe-restaurant-style/
+              - listitem [ref=e744]:
+                - article [ref=e745]:
+                  - link [ref=e746] [cursor=pointer]:
+                    - /url: https://www.spiceupthecurry.com/paneer-bhurji-gravy-recipe/
+                    - img [ref=e748]
+                  - generic [ref=e750]:
+                    - img
+                    - generic [ref=e751]:
+                      - button "Rate this recipe 1 out of 5 stars" [ref=e752] [cursor=pointer]:
+                        - img [ref=e753]
+                      - button "Rate this recipe 2 out of 5 stars" [ref=e755] [cursor=pointer]:
+                        - img [ref=e756]
+                      - button "Rate this recipe 3 out of 5 stars" [ref=e758] [cursor=pointer]:
+                        - img [ref=e759]
+                      - button "Rate this recipe 4 out of 5 stars" [ref=e761] [cursor=pointer]:
+                        - img [ref=e762]
+                      - button "Rate this recipe 5 out of 5 stars" [ref=e764] [cursor=pointer]:
+                        - img [ref=e765]
+                    - heading "Paneer Bhurji Recipe (Gravy & Dry)" [level=2] [ref=e767]:
+                      - link "Paneer Bhurji Recipe (Gravy & Dry)" [ref=e768] [cursor=pointer]:
+                        - /url: https://www.spiceupthecurry.com/paneer-bhurji-gravy-recipe/
+              - listitem [ref=e769]:
+                - article [ref=e770]:
+                  - link [ref=e771] [cursor=pointer]:
+                    - /url: https://www.spiceupthecurry.com/pani-puri-recipe/
+                    - img [ref=e773]
+                  - generic [ref=e775]:
+                    - img
+                    - generic [ref=e776]:
+                      - button "Rate this recipe 1 out of 5 stars" [ref=e777] [cursor=pointer]:
+                        - img [ref=e778]
+                      - button "Rate this recipe 2 out of 5 stars" [ref=e780] [cursor=pointer]:
+                        - img [ref=e781]
+                      - button "Rate this recipe 3 out of 5 stars" [ref=e783] [cursor=pointer]:
+                        - img [ref=e784]
+                      - button "Rate this recipe 4 out of 5 stars" [ref=e786] [cursor=pointer]:
+                        - img [ref=e787]
+                      - button "Rate this recipe 5 out of 5 stars" [ref=e789] [cursor=pointer]:
+                        - img [ref=e790]
+                    - heading "Pani Puri Recipe (Water & Stuffing)" [level=2] [ref=e792]:
+                      - link "Pani Puri Recipe (Water & Stuffing)" [ref=e793] [cursor=pointer]:
+                        - /url: https://www.spiceupthecurry.com/pani-puri-recipe/
+              - listitem [ref=e794]:
+                - article [ref=e795]:
+                  - link [ref=e796] [cursor=pointer]:
+                    - /url: https://www.spiceupthecurry.com/eggless-waffle-recipe-vegan-waffles/
+                    - img [ref=e798]
+                  - generic [ref=e800]:
+                    - img
+                    - generic [ref=e801]:
+                      - button "Rate this recipe 1 out of 5 stars" [ref=e802] [cursor=pointer]:
+                        - img [ref=e803]
+                      - button "Rate this recipe 2 out of 5 stars" [ref=e805] [cursor=pointer]:
+                        - img [ref=e806]
+                      - button "Rate this recipe 3 out of 5 stars" [ref=e808] [cursor=pointer]:
+                        - img [ref=e809]
+                      - button "Rate this recipe 4 out of 5 stars" [ref=e811] [cursor=pointer]:
+                        - img [ref=e812]
+                      - button "Rate this recipe 5 out of 5 stars" [ref=e814] [cursor=pointer]:
+                        - img [ref=e815]
+                    - heading "Eggless Waffles (+Vegan)" [level=2] [ref=e817]:
+                      - link "Eggless Waffles (+Vegan)" [ref=e818] [cursor=pointer]:
+                        - /url: https://www.spiceupthecurry.com/eggless-waffle-recipe-vegan-waffles/
+              - listitem [ref=e819]:
+                - article [ref=e820]:
+                  - link [ref=e821] [cursor=pointer]:
+                    - /url: https://www.spiceupthecurry.com/eggless-chocolate-chip-cookies/
+                    - img [ref=e823]
+                  - generic [ref=e825]:
+                    - img
+                    - generic [ref=e826]:
+                      - button "Rate this recipe 1 out of 5 stars" [ref=e827] [cursor=pointer]:
+                        - img [ref=e828]
+                      - button "Rate this recipe 2 out of 5 stars" [ref=e830] [cursor=pointer]:
+                        - img [ref=e831]
+                      - button "Rate this recipe 3 out of 5 stars" [ref=e833] [cursor=pointer]:
+                        - img [ref=e834]
+                      - button "Rate this recipe 4 out of 5 stars" [ref=e836] [cursor=pointer]:
+                        - img [ref=e837]
+                      - button "Rate this recipe 5 out of 5 stars" [ref=e839] [cursor=pointer]:
+                        - img [ref=e840]
+                    - heading "Eggless Chocolate Chip Cookies" [level=2] [ref=e842]:
+                      - link "Eggless Chocolate Chip Cookies" [ref=e843] [cursor=pointer]:
+                        - /url: https://www.spiceupthecurry.com/eggless-chocolate-chip-cookies/
+            - separator [ref=e849]
+    - contentinfo [ref=e851]:
+      - generic [ref=e852]:
+        - generic [ref=e862]:
+          - heading "Featured On" [level=3] [ref=e865]
+          - generic [ref=e869]:
+            - figure [ref=e872]
+            - figure [ref=e875]
+            - figure [ref=e878]:
+              - img "HT logo" [ref=e879]
+            - figure [ref=e882]
+            - figure [ref=e885]
+            - figure [ref=e888]
+        - generic [ref=e892]:
+          - navigation "Footer" [ref=e896]:
+            - list [ref=e898]:
+              - listitem [ref=e899]:
+                - link "Home" [ref=e900] [cursor=pointer]:
+                  - /url: https://www.spiceupthecurry.com/
+              - listitem [ref=e901]:
+                - link "Privacy Policy" [ref=e902] [cursor=pointer]:
+                  - /url: https://www.spiceupthecurry.com/privacy-policy/
+              - listitem [ref=e903]:
+                - link "Disclosure" [ref=e904] [cursor=pointer]:
+                  - /url: https://www.spiceupthecurry.com/disclosure/
+              - listitem [ref=e905]:
+                - link "Accessibility Statement" [ref=e906] [cursor=pointer]:
+                  - /url: https://www.spiceupthecurry.com/accessibility/
+              - listitem [ref=e907]:
+                - link "Nutrition Disclaimer" [ref=e908] [cursor=pointer]:
+                  - /url: https://www.spiceupthecurry.com/nutrition-disclaimer/
+          - paragraph [ref=e914]: © 2026 Spice Up The Curry
+  - text: ✕ ✕

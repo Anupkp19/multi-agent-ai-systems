@@ -1,0 +1,101 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e4]:
+      - link "Archana's Kitchen" [ref=e5] [cursor=pointer]:
+        - /url: /
+        - img "Archana's Kitchen" [ref=e7]
+      - generic [ref=e9]:
+        - img "Search" [ref=e10]
+        - textbox "What would you like to cook today?" [ref=e11]
+        - button "Search" [ref=e12] [cursor=pointer]
+      - link "Log In" [ref=e14] [cursor=pointer]:
+        - /url: /login
+        - button "Log In" [ref=e15]
+    - navigation [ref=e18]:
+      - list [ref=e19]:
+        - listitem [ref=e20]:
+          - link "Home" [ref=e21] [cursor=pointer]:
+            - /url: /
+            - text: Home
+        - listitem [ref=e22]:
+          - generic [ref=e24] [cursor=pointer]: Recipes
+        - listitem [ref=e25]:
+          - generic [ref=e27] [cursor=pointer]: Collections
+        - listitem [ref=e28]:
+          - link "Meal Plans" [ref=e29] [cursor=pointer]:
+            - /url: /meal-plans
+            - text: Meal Plans
+        - listitem [ref=e30]:
+          - link "Articles" [ref=e31] [cursor=pointer]:
+            - /url: /articles
+            - text: Articles
+  - generic [ref=e33]:
+    - generic [ref=e36]: "404"
+    - heading "Oops! Page Not Found" [level=1] [ref=e37]
+    - paragraph [ref=e38]: We're sorry, but the page you're looking for doesn't exist. It might have been moved, deleted, or you entered the wrong URL.
+    - generic [ref=e39]:
+      - heading "Looking for a specific recipe?" [level=2] [ref=e40]
+      - generic [ref=e42]:
+        - textbox "Search for recipes..." [ref=e43]
+        - button "Search" [disabled] [ref=e44]:
+          - img "Search" [ref=e45]
+    - generic [ref=e46]:
+      - link "Go to Homepage" [ref=e47] [cursor=pointer]:
+        - /url: /
+        - button "Go to Homepage" [ref=e48]
+      - link "Browse All Recipes" [ref=e49] [cursor=pointer]:
+        - /url: /category/recipes
+        - button "Browse All Recipes" [ref=e50]
+    - generic [ref=e51]:
+      - paragraph [ref=e52]: Need help? Try checking the URL for typos or
+      - link "browse our recipe collection" [ref=e53] [cursor=pointer]:
+        - /url: /category/recipes
+  - contentinfo [ref=e54]:
+    - generic [ref=e55]:
+      - generic [ref=e56]:
+        - generic [ref=e57]:
+          - heading "About Us" [level=3] [ref=e58]
+          - paragraph [ref=e59]: Archana's Kitchen is India's leading recipe and food discovery platform, inspiring millions to cook easy, healthy, and delicious meals every day. From traditional Indian dishes to global cuisines, we bring you trusted recipes, meal plans, and cooking tips.
+          - link "Learn more about us" [ref=e60] [cursor=pointer]:
+            - /url: /article/about-archana
+        - generic [ref=e61]:
+          - heading "Recipes" [level=3] [ref=e62]
+          - list [ref=e63]:
+            - listitem [ref=e64]:
+              - link "Indian Recipes" [ref=e65] [cursor=pointer]:
+                - /url: /category/recipes/indian
+            - listitem [ref=e66]:
+              - link "World Recipes" [ref=e67] [cursor=pointer]:
+                - /url: /category/recipes/world-recipes
+            - listitem [ref=e68]:
+              - link "Dessert Recipes" [ref=e69] [cursor=pointer]:
+                - /url: /category/recipes/dessert-recipes
+            - listitem [ref=e70]:
+              - link "Snack Recipes" [ref=e71] [cursor=pointer]:
+                - /url: /category/recipes/snack-recipes
+        - generic [ref=e72]:
+          - heading "Collections" [level=3] [ref=e73]
+          - list [ref=e74]:
+            - listitem [ref=e75]:
+              - link "Festival Recipes" [ref=e76] [cursor=pointer]:
+                - /url: /tags/festival-recipes
+            - listitem [ref=e77]:
+              - link "Lunch Box Ideas" [ref=e78] [cursor=pointer]:
+                - /url: /collections/office-kids-lunch-box-ideas-recipes
+            - listitem [ref=e79]:
+              - link "Weekly Meal Plans" [ref=e80] [cursor=pointer]:
+                - /url: /meal-plans
+        - generic [ref=e81]:
+          - heading "Resources" [level=3] [ref=e82]
+          - list [ref=e83]:
+            - listitem [ref=e84]:
+              - link "Contact Us" [ref=e85] [cursor=pointer]:
+                - /url: /article/contact-us
+            - listitem [ref=e86]:
+              - link "Privacy Policy" [ref=e87] [cursor=pointer]:
+                - /url: /article/privacy-policy
+            - listitem [ref=e88]:
+              - link "Terms and Conditions" [ref=e89] [cursor=pointer]:
+                - /url: /article/terms-and-conditions
+      - paragraph [ref=e91]: © 2007 - 2026 Archana's Online Media & Publishing Services LLP. All rights reserved.
+  - alert [ref=e92]

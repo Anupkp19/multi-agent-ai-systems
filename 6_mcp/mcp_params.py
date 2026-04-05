@@ -4,7 +4,7 @@ from market import is_paid_polygon, is_realtime_polygon
 
 load_dotenv(override=True)
 
-brave_env = {"BRAVE_API_KEY": os.getenv("BRAVE_API_KEY")}
+serper_env = {"SERPER_API_KEY": os.getenv("SERPER_API_KEY")}
 polygon_api_key = os.getenv("POLYGON_API_KEY")
 
 # The MCP server for the Trader to read Market Data
@@ -36,7 +36,7 @@ def researcher_mcp_server_params(name: str):
         {
             "command": "npx",
             "args": ["-y", "@modelcontextprotocol/server-brave-search"],
-            "env": brave_env,
+            "env": serper_env,
         },
         {
             "command": "npx",

@@ -1,0 +1,208 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - link "Skip to content" [ref=e3] [cursor=pointer]:
+      - /url: "#main"
+    - banner [ref=e4]:
+      - generic [ref=e12]:
+        - link "Dassana's Veg Recipes" [ref=e16] [cursor=pointer]:
+          - /url: https://www.vegrecipesofindia.com/
+          - img "Dassana's Veg Recipes" [ref=e17]
+        - generic [ref=e18]:
+          - navigation "Primary" [ref=e20]:
+            - list [ref=e22]:
+              - listitem [ref=e23]:
+                - link "Home" [ref=e24] [cursor=pointer]:
+                  - /url: https://www.vegrecipesofindia.com/
+              - listitem [ref=e25]:
+                - link "Recipe Index" [ref=e26] [cursor=pointer]:
+                  - /url: https://www.vegrecipesofindia.com/recipes/
+                  - generic [ref=e27]:
+                    - text: Recipe Index
+                    - img [ref=e30]
+                - button "Child menu of Recipe Index"
+              - listitem [ref=e32]:
+                - link "Cookbook" [ref=e33] [cursor=pointer]:
+                  - /url: https://www.vegrecipesofindia.com/dassana-cookbook/
+              - listitem [ref=e34]:
+                - link "About" [ref=e35] [cursor=pointer]:
+                  - /url: https://www.vegrecipesofindia.com/about/
+          - button "View Search Form" [ref=e38] [cursor=pointer]:
+            - img [ref=e41]
+    - main [ref=e43]:
+      - generic [ref=e45]:
+        - generic [ref=e50]:
+          - heading "Oops! That page can’t be found." [level=1] [ref=e52]
+          - paragraph [ref=e53]: It looks like nothing was found at this location. Maybe try a search?
+          - search [ref=e54]:
+            - generic [ref=e55]:
+              - generic [ref=e56]: "Search for:"
+              - searchbox "Search for:" [ref=e57]
+            - button "Search" [ref=e58] [cursor=pointer]
+            - generic:
+              - generic:
+                - img
+        - complementary [ref=e59]:
+          - generic [ref=e60]:
+            - generic [ref=e62]:
+              - paragraph [ref=e63]
+              - generic [ref=e64]:
+                - paragraph [ref=e65]: Hi, I am Dassana. Since 2009, I’ve been sharing strictly vegetarian and eggless recipes – all tested in my kitchen and guided with step-by-step photos. I have a professional background in Indian & continental cooking and baking, and formal training in plant-based patisserie from Le Cordon Bleu.
+                - paragraph [ref=e66]:
+                  - link "More About Me" [ref=e67] [cursor=pointer]:
+                    - /url: https://www.vegrecipesofindia.com/about/
+                    - strong [ref=e68]: More About Me
+            - search [ref=e70]:
+              - generic [ref=e71]:
+                - generic [ref=e72]: "Search for:"
+                - searchbox "Search for:" [ref=e73]
+              - button "Search" [ref=e74] [cursor=pointer]
+              - generic:
+                - generic:
+                  - img
+            - generic [ref=e75]:
+              - heading "Popular Recipes" [level=2] [ref=e76]
+              - generic [ref=e78]:
+                - paragraph [ref=e79]:
+                  - link "Malai Kofta" [ref=e80] [cursor=pointer]:
+                    - /url: https://www.vegrecipesofindia.com/malai-kofta/
+                    - strong [ref=e81]: Malai Kofta
+                - paragraph [ref=e82]:
+                  - link "Upma" [ref=e83] [cursor=pointer]:
+                    - /url: https://www.vegrecipesofindia.com/upma-savoury-south-indian-breakfast-recipe-made-with-semolina/
+                    - strong [ref=e84]: Upma
+                - paragraph [ref=e85]:
+                  - link "Dal Makhani" [ref=e86] [cursor=pointer]:
+                    - /url: https://www.vegrecipesofindia.com/dal-makhani-restaurant-style-recipe/
+                    - strong [ref=e87]: Dal Makhani
+                - paragraph [ref=e88]:
+                  - link "Paneer Butter Masala" [ref=e89] [cursor=pointer]:
+                    - /url: https://www.vegrecipesofindia.com/paneer-butter-masala/
+                    - strong [ref=e90]: Paneer Butter Masala
+                - paragraph [ref=e91]:
+                  - link "Samosa" [ref=e92] [cursor=pointer]:
+                    - /url: https://www.vegrecipesofindia.com/samosa-recipe-punjabi-samosa/
+                    - strong [ref=e93]: Samosa
+                - paragraph [ref=e94]:
+                  - link "Rajma Recipe" [ref=e95] [cursor=pointer]:
+                    - /url: https://www.vegrecipesofindia.com/rajma-masala-recipe-restaurant-style/
+                    - strong [ref=e96]: Rajma Recipe
+                - paragraph [ref=e97]:
+                  - link "Chole Recipe" [ref=e98] [cursor=pointer]:
+                    - /url: https://www.vegrecipesofindia.com/punjabi-chole-chickpeas-in-a-spicy-gravy/
+                    - strong [ref=e99]: Chole Recipe
+                - paragraph [ref=e100]:
+                  - link "Palak Paneer" [ref=e101] [cursor=pointer]:
+                    - /url: https://www.vegrecipesofindia.com/palak-paneer/
+                    - strong [ref=e102]: Palak Paneer
+            - generic [ref=e103]:
+              - heading "Festive Sweets" [level=2] [ref=e104]
+              - generic [ref=e106]:
+                - paragraph [ref=e107]:
+                  - link "Gulab Jamun" [ref=e108] [cursor=pointer]:
+                    - /url: https://www.vegrecipesofindia.com/gulab-jamun-recipe-with-khoya/
+                    - strong [ref=e109]: Gulab Jamun
+                - paragraph [ref=e110]:
+                  - link "Jalebi" [ref=e111] [cursor=pointer]:
+                    - /url: https://www.vegrecipesofindia.com/jalebi-recipe-how-to-make-jalebi/
+                    - strong [ref=e112]: Jalebi
+                - paragraph [ref=e113]:
+                  - link "Rasgulla" [ref=e114] [cursor=pointer]:
+                    - /url: https://www.vegrecipesofindia.com/rasgulla-recipe-how-to-make-rasgullas/
+                    - strong [ref=e115]: Rasgulla
+                - paragraph [ref=e116]:
+                  - link "Modak" [ref=e117] [cursor=pointer]:
+                    - /url: https://www.vegrecipesofindia.com/modak-recipe-ukadiche-modak-recipe/
+                    - strong [ref=e118]: Modak
+                - paragraph [ref=e119]:
+                  - link "Rasmalai" [ref=e120] [cursor=pointer]:
+                    - /url: https://www.vegrecipesofindia.com/rasmalai-recipe/
+                    - strong [ref=e121]: Rasmalai
+                - paragraph [ref=e122]:
+                  - link "Kaju Katli" [ref=e123] [cursor=pointer]:
+                    - /url: https://www.vegrecipesofindia.com/kaju-katli-recipe-kaju-katli/
+                    - strong [ref=e124]: Kaju Katli
+                - paragraph [ref=e125]:
+                  - link "Rava Ladoo" [ref=e126] [cursor=pointer]:
+                    - /url: https://www.vegrecipesofindia.com/rava-ladoo-recipe-ladoo-recipes/
+                    - strong [ref=e127]: Rava Ladoo
+                - paragraph [ref=e128]:
+                  - link "Kheer Recipe" [ref=e129] [cursor=pointer]:
+                    - /url: https://www.vegrecipesofindia.com/rice-kheer-recipe-chawal-ki-kheer/
+                    - strong [ref=e130]: Kheer Recipe
+            - generic [ref=e131]:
+              - heading "Recipe Compilations" [level=2] [ref=e132]
+              - generic [ref=e134]:
+                - paragraph [ref=e135]:
+                  - link "Diwali Sweets" [ref=e136] [cursor=pointer]:
+                    - /url: https://www.vegrecipesofindia.com/diwali-sweets-recipes-diwali-recipes-2013/
+                    - strong [ref=e137]: Diwali Sweets
+                - paragraph [ref=e138]:
+                  - link "Paneer Recipes" [ref=e139] [cursor=pointer]:
+                    - /url: https://www.vegrecipesofindia.com/recipes/paneer/
+                    - strong [ref=e140]: Paneer Recipes
+                - paragraph [ref=e141]:
+                  - link "Rice Recipes" [ref=e142] [cursor=pointer]:
+                    - /url: https://www.vegrecipesofindia.com/recipes/rice-recipes/
+                    - strong [ref=e143]: Rice Recipes
+                - paragraph [ref=e144]:
+                  - link "Dinner Recipes" [ref=e145] [cursor=pointer]:
+                    - /url: https://www.vegrecipesofindia.com/top-10-main-course-recipes/
+                    - strong [ref=e146]: Dinner Recipes
+                - paragraph [ref=e147]:
+                  - link "Evening Snacks" [ref=e148] [cursor=pointer]:
+                    - /url: https://www.vegrecipesofindia.com/recipes/evening-snacks/
+                    - strong [ref=e149]: Evening Snacks
+                - paragraph [ref=e150]:
+                  - link "Pasta Recipes" [ref=e151] [cursor=pointer]:
+                    - /url: https://www.vegrecipesofindia.com/recipes/pasta/
+                    - strong [ref=e152]: Pasta Recipes
+                - paragraph [ref=e153]:
+                  - link "Ragi Recipes" [ref=e154] [cursor=pointer]:
+                    - /url: https://www.vegrecipesofindia.com/ragi-recipes-ragi-flour-recipes/
+                    - strong [ref=e155]: Ragi Recipes
+                - paragraph [ref=e156]:
+                  - link "Oats Recipes" [ref=e157] [cursor=pointer]:
+                    - /url: https://www.vegrecipesofindia.com/oats-recipes/
+                    - strong [ref=e158]: Oats Recipes
+    - contentinfo [ref=e159]:
+      - generic [ref=e160]:
+        - generic [ref=e164]:
+          - navigation "Footer" [ref=e168]:
+            - list [ref=e170]:
+              - listitem [ref=e171]:
+                - link "Press & Media" [ref=e172] [cursor=pointer]:
+                  - /url: https://www.vegrecipesofindia.com/press-media/
+              - listitem [ref=e173]:
+                - link "Privacy Policy" [ref=e174] [cursor=pointer]:
+                  - /url: https://www.vegrecipesofindia.com/about/privacy-policy/
+              - listitem [ref=e175]:
+                - link "Terms & Conditions" [ref=e176] [cursor=pointer]:
+                  - /url: https://www.vegrecipesofindia.com/about/terms-and-conditions/
+              - listitem [ref=e177]:
+                - link "Accessibility Statement" [ref=e178] [cursor=pointer]:
+                  - /url: https://www.vegrecipesofindia.com/about/accessibility/
+          - generic [ref=e183]:
+            - link "Facebook" [ref=e184] [cursor=pointer]:
+              - /url: https://www.facebook.com/dassanasvegrecipes
+              - img "Facebook" [ref=e186]
+            - link "X" [ref=e188] [cursor=pointer]:
+              - /url: https://twitter.com/DassanasRecipes
+              - img "X" [ref=e190]
+            - link "Instagram" [ref=e192] [cursor=pointer]:
+              - /url: https://www.instagram.com/dassanasvegrecipes/
+              - img "Instagram" [ref=e194]
+            - link "Pinterest" [ref=e196] [cursor=pointer]:
+              - /url: https://www.pinterest.com/dassanaamit/
+              - img "Pinterest" [ref=e198]
+            - link "YouTube" [ref=e200] [cursor=pointer]:
+              - /url: https://www.youtube.com/c/DassanasVegRecipes
+              - img "YouTube" [ref=e202]
+        - paragraph [ref=e213]: © 2026 Dassana's Veg Recipes – Authentic & Pure Vegetarian Recipes Trusted Since 2009
+  - generic [ref=e215]:
+    - generic [ref=e216]:
+      - text: Information from your device can be used to personalize your ad experience.
+      - link "Do not sell or share my personal information." [ref=e217] [cursor=pointer]:
+        - /url: /
+    - link "Terms of Content Use" [ref=e219] [cursor=pointer]:
+      - /url: /
+    - text: A Raptive Partner Site

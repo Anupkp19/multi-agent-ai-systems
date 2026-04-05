@@ -1,0 +1,40 @@
+- generic [ref=e2]:
+  - link "Skip to content" [ref=e3] [cursor=pointer]:
+    - /url: "#main"
+  - banner [ref=e4]:
+    - generic [ref=e12]:
+      - link "Swasthi's Recipes" [ref=e16] [cursor=pointer]:
+        - /url: https://www.indianhealthyrecipes.com/
+        - img "Swasthi's Recipes" [ref=e17]
+      - generic [ref=e18]:
+        - navigation "Primary" [ref=e20]:
+          - list [ref=e22]:
+            - listitem [ref=e23]:
+              - link "Home" [ref=e24] [cursor=pointer]:
+                - /url: https://www.indianhealthyrecipes.com/
+            - listitem [ref=e25]:
+              - link "Recipes" [ref=e26] [cursor=pointer]:
+                - /url: https://www.indianhealthyrecipes.com/recipes/
+            - listitem [ref=e27]:
+              - link "About" [ref=e28] [cursor=pointer]:
+                - /url: https://www.indianhealthyrecipes.com/about/
+        - button "View Search Form" [ref=e31] [cursor=pointer]:
+          - img [ref=e34]
+  - main [ref=e36]:
+    - generic [ref=e43]:
+      - heading "Oops! That page can’t be found." [level=1] [ref=e45]
+      - paragraph [ref=e46]: It looks like nothing was found at this location. Maybe try a search?
+      - search [ref=e47]:
+        - generic [ref=e48]:
+          - generic [ref=e49]: "Search for:"
+          - searchbox "Search for:" [ref=e50]
+        - button "Search" [ref=e51] [cursor=pointer]
+        - generic:
+          - generic:
+            - img
+  - contentinfo [ref=e52]:
+    - generic [ref=e62]:
+      - paragraph [ref=e63]: © 2026 Swasthi's Recipes
+      - paragraph [ref=e64]:
+        - link "Privacy policy" [ref=e65] [cursor=pointer]:
+          - /url: https://www.indianhealthyrecipes.com/privacy-disclosure-policy/

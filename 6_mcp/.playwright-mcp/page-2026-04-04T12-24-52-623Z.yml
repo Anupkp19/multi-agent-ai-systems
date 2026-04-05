@@ -1,0 +1,630 @@
+- generic [active] [ref=e1]:
+  - generic:
+    - generic:
+      - link "Skip to main content" [ref=e2] [cursor=pointer]
+      - link "Accessibility help" [ref=e3] [cursor=pointer]:
+        - /url: https://support.google.com/websearch/answer/181196?hl=en-IN
+      - link "Accessibility feedback" [ref=e4] [cursor=pointer]
+  - generic [ref=e9]:
+    - search [ref=e10]:
+      - generic [ref=e12]:
+        - link "Go to Google Home" [ref=e14] [cursor=pointer]:
+          - /url: https://www.google.com/webhp?hl=en&sa=X&ved=0ahUKEwjV27aomNSTAxUjLdAFHWVAO4gQPAgJ
+          - img [ref=e15]
+        - generic [ref=e22]:
+          - generic [ref=e23]:
+            - combobox "Search" [ref=e26]: rice and egg lunch recipe under 200rs rice and egg lunch recipe under 200rs
+            - generic [ref=e27]:
+              - button "Clear" [ref=e29] [cursor=pointer]:
+                - img [ref=e31]
+              - generic [ref=e34]:
+                - button "Search by voice" [ref=e35] [cursor=pointer]:
+                  - img [ref=e36]
+                - button "Search by image" [ref=e38] [cursor=pointer]:
+                  - img [ref=e39]
+          - button "Search" [ref=e41] [cursor=pointer]:
+            - img [ref=e44]
+    - generic [ref=e46]:
+      - button "Settings" [ref=e48] [cursor=pointer]:
+        - img [ref=e51]
+      - generic [ref=e54]:
+        - button "Google apps" [ref=e56] [cursor=pointer]:
+          - img [ref=e57]
+        - link "Sign in" [ref=e61] [cursor=pointer]:
+          - /url: https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https://www.google.com/search%3Fq%3Drice%2Band%2Begg%2Blunch%2Brecipe%2Bunder%2B200rs&ec=futura_srp_og_si_72236_p
+  - generic [ref=e63]:
+    - navigation [ref=e69]:
+      - generic [ref=e73]:
+        - list [ref=e74]:
+          - listitem [ref=e75]:
+            - link "AI Mode" [ref=e78] [cursor=pointer]:
+              - /url: /search?q=rice+and+egg+lunch+recipe+under+200rs&sca_esv=d40b0936fbbbe394&udm=50&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpV6Bbbmx4QVaoKkiRQ2jlwvMg54BMciw6zYi-UcSdrQCntYgVKnodjp8mHRtWfsydwZ6P4OE1gn7wyxkttgVKTP6Ux2Q4ifiGufjYBLhkfPIlKhvOc1WKgtBSxLrGjeWgYtmH2WGWWd56QEP9wCgmxzZqZ9utOPrtmOh7h5uGV2trjbQyFMiMz5bI-rIi7rWeUdPREA&aep=1&ntc=1&sa=X&ved=2ahUKEwjV27aomNSTAxUjLdAFHWVAO4gQ2J8OegQIExAE
+              - generic [ref=e81]: AI Mode
+          - listitem [ref=e82]:
+            - link "All" [disabled] [ref=e83]:
+              - generic [ref=e85]: All
+          - listitem [ref=e86]:
+            - link "Short videos" [ref=e87] [cursor=pointer]:
+              - /url: /search?sca_esv=d40b0936fbbbe394&udm=39&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpV6Bbbmx4QVaoKkiRQ2jlwvMg54BMciw6zYi-UcSdrQCntYgVKnodjp8mHRtWfsydwZ6P4OE1gn7wyxkttgVKTP6Ux2Q4ifiGufjYBLhkfPIlKhvOc1WKgtBSxLrGjeWgYtmH2WGWWd56QEP9wCgmxzZqZ9utOPrtmOh7h5uGV2trjbQyFMiMz5bI-rIi7rWeUdPREA&q=rice+and+egg+lunch+recipe+under+200rs&sa=X&ved=2ahUKEwjV27aomNSTAxUjLdAFHWVAO4gQs6gLegQIGhAB
+              - generic [ref=e89]: Short videos
+          - listitem [ref=e90]:
+            - link "Images" [ref=e91] [cursor=pointer]:
+              - /url: /search?sca_esv=d40b0936fbbbe394&udm=2&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpV6Bbbmx4QVaoKkiRQ2jlwvMg54BMciw6zYi-UcSdrQCntYgVKnodjp8mHRtWfsydwZ6P4OE1gn7wyxkttgVKTP6Ux2Q4ifiGufjYBLhkfPIlKhvOc1WKgtBSxLrGjeWgYtmH2WGWWd56QEP9wCgmxzZqZ9utOPrtmOh7h5uGV2trjbQyFMiMz5bI-rIi7rWeUdPREA&q=rice+and+egg+lunch+recipe+under+200rs&sa=X&ved=2ahUKEwjV27aomNSTAxUjLdAFHWVAO4gQtKgLegQIGRAB
+              - generic [ref=e93]: Images
+          - listitem [ref=e94]:
+            - link "Videos" [ref=e95] [cursor=pointer]:
+              - /url: /search?sca_esv=d40b0936fbbbe394&udm=7&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpV6Bbbmx4QVaoKkiRQ2jlwvMg54BMciw6zYi-UcSdrQCntYgVKnodjp8mHRtWfsydwZ6P4OE1gn7wyxkttgVKTP6Ux2Q4ifiGufjYBLhkfPIlKhvOc1WKgtBSxLrGjeWgYtmH2WGWWd56QEP9wCgmxzZqZ9utOPrtmOh7h5uGV2trjbQyFMiMz5bI-rIi7rWeUdPREA&q=rice+and+egg+lunch+recipe+under+200rs&sa=X&ved=2ahUKEwjV27aomNSTAxUjLdAFHWVAO4gQtKgLegQIGBAB
+              - generic [ref=e97]: Videos
+          - listitem [ref=e98]:
+            - link "Forums" [ref=e99] [cursor=pointer]:
+              - /url: /search?sca_esv=d40b0936fbbbe394&udm=18&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpV6Bbbmx4QVaoKkiRQ2jlwvMg54BMciw6zYi-UcSdrQCntYgVKnodjp8mHRtWfsydwZ6P4OE1gn7wyxkttgVKTP6Ux2Q4ifiGufjYBLhkfPIlKhvOc1WKgtBSxLrGjeWgYtmH2WGWWd56QEP9wCgmxzZqZ9utOPrtmOh7h5uGV2trjbQyFMiMz5bI-rIi7rWeUdPREA&q=rice+and+egg+lunch+recipe+under+200rs&sa=X&ved=2ahUKEwjV27aomNSTAxUjLdAFHWVAO4gQs6gLegQIFxAB
+              - generic [ref=e101]: Forums
+          - listitem [ref=e102]:
+            - link "Shopping" [ref=e103] [cursor=pointer]:
+              - /url: /search?sca_esv=d40b0936fbbbe394&udm=28&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpV6Bbbmx4QVaoKkiRQ2jlwvMg54BMciw6zYi-UcSdrQCntYgVKnodjp8mHRtWfsydwZ6P4OE1gn7wyxkttgVKTP6Ux2Q4ifiGufjYBLhkfPIlKhvOc1WKgtBSxLrGjeWgYtmH2WGWWd56QEP9wCgmxzZqZ9utOPrtmOh7h5uGV2trjbQyFMiMz5bI-rIi7rWeUdPREA&q=rice+and+egg+lunch+recipe+under+200rs&ved=1t:220175&ictx=111
+              - generic [ref=e105]: Shopping
+          - listitem [ref=e106]:
+            - button "More filters" [ref=e107] [cursor=pointer]:
+              - generic "More filters" [ref=e108]:
+                - generic [ref=e109]:
+                  - generic [ref=e110]: More
+                  - img [ref=e112]
+        - button "Tools" [ref=e115] [cursor=pointer]:
+          - generic [ref=e117]:
+            - generic [ref=e118]: Tools
+            - img [ref=e120]
+    - heading "Search Results" [level=1] [ref=e122]
+    - generic [ref=e127]:
+      - generic [ref=e128]:
+        - 'heading "Did you mean: rice and egg lunch recipes under 200 rs" [level=2] [ref=e133]':
+          - text: "Did you mean:"
+          - link "rice and egg lunch recipes under 200 rs" [ref=e134] [cursor=pointer]:
+            - /url: /search?sca_esv=d40b0936fbbbe394&q=rice+and+egg+lunch+recipes+under+200+rs&spell=1&sa=X&ved=2ahUKEwjV27aomNSTAxUjLdAFHWVAO4gQBSgAegQIDxAB
+            - text: rice and egg lunch
+            - generic [ref=e135]: recipes
+            - text: under
+            - generic [ref=e136]: 200 rs
+        - generic [ref=e151]:
+          - generic [ref=e154]:
+            - generic [ref=e156]:
+              - generic [ref=e158]:
+                - generic [ref=e159]:
+                  - img [ref=e160]
+                  - heading "AI Overview" [level=2] [ref=e162]
+                - button "Listen" [ref=e166]:
+                  - img [ref=e171] [cursor=pointer]
+                - button "About this result" [ref=e176]:
+                  - img [ref=e178]
+              - generic [ref=e202]:
+                - generic [ref=e203]:
+                  - generic [ref=e204]: A quick and affordable lunch option is
+                  - mark [ref=e205]:
+                    - strong [ref=e206]: Indian-Style Egg Fried Rice
+                    - text: or
+                    - strong [ref=e207]: Tawa Egg Rice
+                  - text: ", which can be made for under ₹200 using staples like eggs, rice, onions, and spices. These recipes generally take 10-15 minutes, making them perfect for a fast lunchbox meal."
+                  - button "YouTube (+1) - View related links" [disabled] [ref=e210]:
+                    - generic [ref=e211]:
+                      - img "YouTube" [ref=e212]
+                      - generic [ref=e213]:
+                        - generic [ref=e214]: YouTube
+                        - generic [ref=e215]: "+1"
+                - generic [ref=e216]: "Here is a simple recipe to prepare it:"
+                - heading "Indian-Style Egg Rice (Serves 1-2)" [level=3] [ref=e217]
+                - list [ref=e218]:
+                  - listitem [ref=e219]:
+                    - generic [ref=e220]:
+                      - strong [ref=e221]: "Prep Time:"
+                      - text: 5 mins |
+                      - strong [ref=e222]: "Cook Time:"
+                      - text: 10 mins
+                - strong [ref=e224]: "Ingredients:"
+                - list [ref=e225]:
+                  - listitem [ref=e226]:
+                    - generic [ref=e227]:
+                      - strong [ref=e228]: "Rice:"
+                      - text: 2 cups cooked rice (leftover rice works best)
+                  - listitem [ref=e229]:
+                    - generic [ref=e230]:
+                      - strong [ref=e231]: "Eggs:"
+                      - text: 3 to 4 eggs
+                  - listitem [ref=e232]:
+                    - generic [ref=e233]:
+                      - strong [ref=e234]: "Oil:"
+                      - text: 2-3 tablespoons
+                  - listitem [ref=e235]:
+                    - generic [ref=e236]:
+                      - strong [ref=e237]: "Onion:"
+                      - text: 1 medium (finely chopped)
+                  - listitem [ref=e238]:
+                    - generic [ref=e239]:
+                      - strong [ref=e240]: "Garlic:"
+                      - text: 1 tablespoon (chopped)
+                  - listitem [ref=e241]:
+                    - generic [ref=e242]:
+                      - strong [ref=e243]: "Tomatoes:"
+                      - text: 1 small (finely chopped - optional)
+                  - listitem [ref=e244]:
+                    - generic [ref=e245]:
+                      - strong [ref=e246]: "Spices:"
+                      - text: 1/2 tsp Turmeric powder, 1 tsp Chili powder, 1 tsp Garam masala, 1 tsp Pepper powder, Salt to taste
+                  - listitem [ref=e247]:
+                    - generic [ref=e248]:
+                      - strong [ref=e249]: "Garnish:"
+                      - text: Fresh coriander leaves
+                    - button "YouTube (+1) - View related links" [disabled] [ref=e252]:
+                      - generic [ref=e253]:
+                        - img "YouTube" [ref=e254]
+                        - generic [ref=e255]:
+                          - generic [ref=e256]: YouTube
+                          - generic [ref=e257]: "+1"
+                - strong [ref=e259]: "Instructions:"
+                - list [ref=e260]:
+                  - listitem [ref=e261]:
+                    - generic [ref=e262]:
+                      - strong [ref=e263]: "Sauté Aromatics:"
+                      - text: Heat oil in a wok or tawa. Add chopped garlic and onions, and sauté until golden brown. Add tomatoes (if using) and cook until soft.
+                  - listitem [ref=e264]:
+                    - generic [ref=e265]:
+                      - strong [ref=e266]: "Add Spices:"
+                      - text: Add turmeric, chili powder, garam masala, pepper, and salt. Sauté for 1 minute.
+                  - listitem [ref=e267]:
+                    - generic [ref=e268]:
+                      - strong [ref=e269]: "Scramble Eggs:"
+                      - text: Move the mixture to one side, add a little more oil if needed, and crack the eggs into the pan. Scramble them until they are just cooked.
+                  - listitem [ref=e270]:
+                    - generic [ref=e271]:
+                      - strong [ref=e272]: "Combine:"
+                      - text: Mix the eggs with the masala and onion mixture.
+                  - listitem [ref=e273]:
+                    - generic [ref=e274]:
+                      - strong [ref=e275]: "Add Rice:"
+                      - text: Add the cooked rice and mix thoroughly on high heat for 2-3 minutes so the rice gets toasted in the masala.
+                  - listitem [ref=e276]:
+                    - generic [ref=e277]:
+                      - strong [ref=e278]: "Finish:"
+                      - text: Garnish with fresh coriander leaves and serve hot.
+                    - button "YouTube (+1) - View related links" [disabled] [ref=e281]:
+                      - generic [ref=e282]:
+                        - img "YouTube" [ref=e283]
+                        - generic [ref=e284]:
+                          - generic [ref=e285]: YouTube
+                          - generic [ref=e286]: "+1"
+                - heading "Tips for Success" [level=3] [ref=e287]
+                - list [ref=e288]:
+                  - listitem [ref=e289]:
+                    - generic [ref=e290]:
+                      - strong [ref=e291]: "Cold Rice:"
+                      - text: Always use cold or leftover rice to prevent the egg rice from becoming mushy.
+                  - listitem [ref=e292]:
+                    - generic [ref=e293]:
+                      - strong [ref=e294]: "Veggie Add-ins:"
+                      - text: You can add finely chopped cabbage or carrots for extra crunch if available.
+                  - listitem [ref=e295]:
+                    - generic [ref=e296]:
+                      - strong [ref=e297]: "No Side Dish Needed:"
+                      - text: This dish is flavorful enough to be eaten on its own, saving further costs.
+                    - button "YouTube (+2) - View related links" [disabled] [ref=e300]:
+                      - generic [ref=e301]:
+                        - img "YouTube" [ref=e302]
+                        - generic [ref=e303]:
+                          - generic [ref=e304]: YouTube
+                          - generic [ref=e305]: "+2"
+            - progressbar [ref=e311]
+          - button "Show more AI Overview" [ref=e335]:
+            - generic [ref=e337] [cursor=pointer]:
+              - generic [ref=e338]: Show more
+              - img [ref=e340]
+      - main [ref=e343]:
+        - generic [ref=e347]:
+          - generic [ref=e354]:
+            - generic [ref=e357]:
+              - link "Egg Rice Recipe/ Easy Lunch Box Recipe/ Egg Rice YouTube · Dindigul Food Court 32.4L+ views · 4 years ago" [ref=e359] [cursor=pointer]:
+                - /url: https://www.youtube.com/watch?v=zdGd6UqzMd4
+                - heading "Egg Rice Recipe/ Easy Lunch Box Recipe/ Egg Rice" [level=3] [ref=e360]
+                - generic [ref=e365]:
+                  - generic [ref=e367]: YouTube · Dindigul Food Court
+                  - generic [ref=e369]: 32.4L+ views · 4 years ago
+              - button "About this result" [ref=e370] [cursor=pointer]:
+                - img [ref=e373]
+            - generic [ref=e375]:
+              - button "Egg Rice Recipe/ Easy Lunch Box Recipe/ Egg Rice by Dindigul Food Court on YouTube. Play on Google. 2:14" [ref=e376] [cursor=pointer]:
+                - generic [ref=e378]:
+                  - img [ref=e384]
+                  - generic [ref=e387]:
+                    - generic [ref=e388]: 2:14
+                    - img [ref=e391]
+              - generic [ref=e394]: "EggRice #LunchRecipe Egg Rice Ingredients Cooked rice – 200 grams Egg – 4 Pepper – 2 teaspoon Cumin seeds – ¾ teaspoon Curry leaves Oil – 2 ..."
+            - button "10 key moments in this video" [ref=e399] [cursor=pointer]:
+              - generic [ref=e408]:
+                - generic [ref=e411]: 10 key moments in this video
+                - img [ref=e413]
+          - generic [ref=e419]:
+            - heading "Discussions and forums" [level=2] [ref=e421]
+            - generic [ref=e422]:
+              - generic [ref=e425]:
+                - generic [ref=e427] [cursor=pointer]:
+                  - generic [ref=e430]:
+                    - link "Give me best combo with eggs and rice for hostel, no fancy ingredients. Reddit · r/AskIndia · 30+ comments · 10 months ago" [ref=e431]:
+                      - /url: https://www.reddit.com/r/AskIndia/comments/1l37zxc/give_me_best_combo_with_eggs_and_rice_for_hostel/
+                      - generic [ref=e432]:
+                        - heading "Give me best combo with eggs and rice for hostel, no fancy ingredients." [level=3] [ref=e433]:
+                          - link "Give me best combo with eggs and rice for hostel, no fancy ingredients." [ref=e434]
+                        - generic [ref=e441]:
+                          - generic [ref=e442]: Reddit ·
+                          - generic [ref=e444]:
+                            - generic [ref=e445]:
+                              - generic [ref=e446]: r/AskIndia
+                              - generic [ref=e447]:
+                                - generic [ref=e448]: ·
+                                - generic [ref=e449]: 30+ comments
+                            - generic [ref=e450]:
+                              - generic [ref=e451]: ·
+                              - generic [ref=e452]: 10 months ago
+                    - generic [ref=e458]:
+                      - generic [ref=e462]: ·
+                      - button "About this result" [ref=e467]:
+                        - img [ref=e470]
+                  - button "Give me best combo with eggs and rice for hostel, no fancy ingredients. Reddit · r/AskIndia · 30+ comments · 10 months ago" [expanded] [ref=e472]:
+                    - img [ref=e475]
+                - list [ref=e484]:
+                  - listitem [ref=e485]:
+                    - generic [ref=e489]:
+                      - link "You can make fried rice More discussions on Give me best combo with eggs and rice for hostel, no fancy ingredients. Top answer · 4 votes · 9 months ago":
+                        - /url: https://www.reddit.com/r/AskIndia/comments/1l37zxc/give_me_best_combo_with_eggs_and_rice_for_hostel/mvyq9u0/
+                      - generic [ref=e491]:
+                        - text: You can make fried rice
+                        - link [ref=e492] [cursor=pointer]:
+                          - /url: https://www.reddit.com/r/AskIndia/comments/1l37zxc/give_me_best_combo_with_eggs_and_rice_for_hostel/mvyq9u0/
+                          - generic [ref=e493]: More
+                          - img [ref=e495]
+                      - generic [ref=e497]:
+                        - generic [ref=e498]:
+                          - img [ref=e500]
+                          - text: Top answer
+                        - text: · 4 votes · 9 months ago
+                  - listitem [ref=e502]:
+                    - generic [ref=e506]:
+                      - link "Chilli oil in omelette More discussions on Give me best combo with eggs and rice for hostel, no fancy ingredients. 4 votes · 9 months ago":
+                        - /url: https://www.reddit.com/r/AskIndia/comments/1l37zxc/give_me_best_combo_with_eggs_and_rice_for_hostel/mvyrvi1/
+                      - generic [ref=e508]:
+                        - text: Chilli oil in omelette
+                        - link [ref=e509] [cursor=pointer]:
+                          - /url: https://www.reddit.com/r/AskIndia/comments/1l37zxc/give_me_best_combo_with_eggs_and_rice_for_hostel/mvyrvi1/
+                          - generic [ref=e510]: More
+                          - img [ref=e512]
+                      - generic [ref=e514]: 4 votes · 9 months ago
+                  - listitem [ref=e515]:
+                    - generic [ref=e519]:
+                      - link "Butter,salt very little,add some pepper on the eggs..fresh pepper More discussions on Give me best combo with eggs and rice for hostel, no fancy ingredients. 3 votes · 9 months ago":
+                        - /url: https://www.reddit.com/r/AskIndia/comments/1l37zxc/give_me_best_combo_with_eggs_and_rice_for_hostel/mvyquof/
+                      - generic [ref=e521]:
+                        - text: Butter,salt very little,add some pepper on the eggs..fresh pepper
+                        - link [ref=e522] [cursor=pointer]:
+                          - /url: https://www.reddit.com/r/AskIndia/comments/1l37zxc/give_me_best_combo_with_eggs_and_rice_for_hostel/mvyquof/
+                          - generic [ref=e523]: More
+                          - img [ref=e525]
+                      - generic [ref=e527]: 3 votes · 9 months ago
+              - generic [ref=e532] [cursor=pointer]:
+                - generic [ref=e535]:
+                  - link "Simple Lunch Plain Rice 🌾 added some Daal and Egg 🥚 Fry, 🍚 Curds and ... Facebook · Chef at Large · 2 comments · 2 years ago" [ref=e536]:
+                    - /url: https://www.facebook.com/groups/chefatlarge/posts/7192750627480184/
+                    - generic [ref=e537]:
+                      - heading "Simple Lunch Plain Rice 🌾 added some Daal and Egg 🥚 Fry, 🍚 Curds and ..." [level=3] [ref=e538]:
+                        - link "Simple Lunch Plain Rice 🌾 added some Daal and Egg 🥚 Fry, 🍚 Curds and ..." [ref=e539]
+                      - generic [ref=e546]:
+                        - generic [ref=e547]: Facebook ·
+                        - generic [ref=e549]:
+                          - generic [ref=e550]:
+                            - generic [ref=e551]: Chef at Large
+                            - generic [ref=e552]:
+                              - generic [ref=e553]: ·
+                              - generic [ref=e554]: 2 comments
+                          - generic [ref=e555]:
+                            - generic [ref=e556]: ·
+                            - generic [ref=e557]: 2 years ago
+                  - generic [ref=e563]:
+                    - generic [ref=e567]: ·
+                    - button "About this result" [ref=e572]:
+                      - img [ref=e575]
+                - button "Simple Lunch Plain Rice 🌾 added some Daal and Egg 🥚 Fry, 🍚 Curds and ... Facebook · Chef at Large · 2 comments · 2 years ago" [ref=e577]:
+                  - img [ref=e580]
+              - link "See more discussions" [ref=e583] [cursor=pointer]:
+                - /url: /search?q=rice+and+egg+lunch+recipe+under+200rs&sca_esv=d40b0936fbbbe394&udm=18&sa=X&ved=2ahUKEwjV27aomNSTAxUjLdAFHWVAO4gQ8poLegQIFRAD
+                - separator [ref=e584]
+                - generic [ref=e585]:
+                  - generic [ref=e586]: See more
+                  - img [ref=e588]
+          - generic [ref=e596]:
+            - generic [ref=e599]:
+              - link "Quick Lunchbox Recipe/ Egg Rice/ Egg Recipes YouTube · Dindigul Food Court 23.1K+ views · 1 year ago" [ref=e601] [cursor=pointer]:
+                - /url: https://www.youtube.com/watch?v=U2Uc1QI86Bo
+                - heading "Quick Lunchbox Recipe/ Egg Rice/ Egg Recipes" [level=3] [ref=e602]
+                - generic [ref=e607]:
+                  - generic [ref=e609]: YouTube · Dindigul Food Court
+                  - generic [ref=e611]: 23.1K+ views · 1 year ago
+              - button "About this result" [ref=e612] [cursor=pointer]:
+                - img [ref=e615]
+            - generic [ref=e617]:
+              - button "Quick Lunchbox Recipe/ Egg Rice/ Egg Recipes by Dindigul Food Court on YouTube. Play on Google. 3:03" [ref=e618] [cursor=pointer]:
+                - generic [ref=e620]:
+                  - img [ref=e626]
+                  - generic [ref=e629]:
+                    - generic [ref=e630]: 3:03
+                    - img [ref=e633]
+              - generic [ref=e636]: "#eggrice #lunchbox #boiledeggrecipes #dindigulfoodcourt Egg Rice (Ingredients) Oil – 1 tbl spoon Chilli powder – ¼ teaspoon Boiled egg – 4 ..."
+          - generic [ref=e640]:
+            - generic [ref=e643]:
+              - link "Quick & Easy Egg Rice Recipe | @HomeCookingShow Facebook · Home cooking 2.6K+ reactions · 3 months ago" [ref=e645] [cursor=pointer]:
+                - /url: https://www.facebook.com/HomeCookingShow/posts/egg-rice-egg-rice-recipe-lunch-box-recipe-quick-easy-egg-rice-recipe-homecooking/1438971610922768/
+                - heading "Quick & Easy Egg Rice Recipe | @HomeCookingShow" [level=3] [ref=e646]
+                - generic [ref=e651]:
+                  - generic [ref=e653]: Facebook · Home cooking
+                  - generic [ref=e655]: 2.6K+ reactions · 3 months ago
+              - button "About this result" [ref=e656] [cursor=pointer]:
+                - img [ref=e659]
+            - generic [ref=e662]:
+              - generic [ref=e663]:
+                - emphasis [ref=e664]: Method
+                - text: ": In a pan, add oil, onion, curry leaves & saute it until soft. Add red chillies, green chillies & saute it. Now add turmeric powder, ..."
+              - link "Read more" [ref=e665] [cursor=pointer]:
+                - /url: https://www.facebook.com/HomeCookingShow/posts/egg-rice-egg-rice-recipe-lunch-box-recipe-quick-easy-egg-rice-recipe-homecooking/1438971610922768/#:~:text=Method%3A%20In%20a%20pan%2C%20add,masala%20powder%20%26%20saute%20it.
+            - link "rice and egg lunch recipe under 200rs from www.facebook.com" [ref=e668] [cursor=pointer]:
+              - /url: https://www.facebook.com/HomeCookingShow/posts/egg-rice-egg-rice-recipe-lunch-box-recipe-quick-easy-egg-rice-recipe-homecooking/1438971610922768/
+              - img "rice and egg lunch recipe under 200rs from www.facebook.com" [ref=e670]
+            - generic [ref=e672]:
+              - text: "Missing: 200rs ‎| Show results with:"
+              - link "200rs" [ref=e673] [cursor=pointer]:
+                - /url: /search?sca_esv=d40b0936fbbbe394&q=rice+and+egg+lunch+recipe+under+%22200rs%22&sa=X&ved=2ahUKEwjV27aomNSTAxUjLdAFHWVAO4gQ5t4CegQIShAB
+          - generic [ref=e677]:
+            - generic [ref=e680]:
+              - link "Egg Rice - Quick Lunch Recipe My Little Moppet https://www.mylittlemoppet.com › egg-rice-quick-and-..." [ref=e682] [cursor=pointer]:
+                - /url: https://www.mylittlemoppet.com/egg-rice-quick-and-easy-lunch-recipe/
+                - heading "Egg Rice - Quick Lunch Recipe" [level=3] [ref=e683]
+                - generic [ref=e688]:
+                  - generic [ref=e690]: My Little Moppet
+                  - generic [ref=e692]: https://www.mylittlemoppet.com › egg-rice-quick-and-...
+              - button "About this result" [ref=e693] [cursor=pointer]:
+                - img [ref=e696]
+            - generic [ref=e699]:
+              - generic [ref=e700]: 9 Jun 2015 —
+              - generic [ref=e701]:
+                - emphasis [ref=e702]: Ingredients
+                - text: · 1 cup cooked rice · 2 eggs · 1 teaspoon ginger garlic paste · 1/4 teaspoon pepper · 25 g French beans chopped finely · 1 medium onion ...
+              - link "Read more" [ref=e703] [cursor=pointer]:
+                - /url: https://www.mylittlemoppet.com/egg-rice-quick-and-easy-lunch-recipe/#:~:text=Ingredients&text=1%20cup%20cooked%20rice&text=2%20eggs&text=1%20teaspoon%20ginger%20garlic%20paste&text=1%2F4%20teaspoon%20pepper&text=25%20g%20French%20beans%20chopped,finely&text=1%20medium%20onion%20chopped%20finely
+            - link "rice and egg lunch recipe under 200rs from www.mylittlemoppet.com" [ref=e706] [cursor=pointer]:
+              - /url: https://www.mylittlemoppet.com/egg-rice-quick-and-easy-lunch-recipe/
+              - img "rice and egg lunch recipe under 200rs from www.mylittlemoppet.com" [ref=e708]
+            - generic [ref=e710]:
+              - img "Rated 5.0 out of 5, (2) user reviews" [ref=e711]:
+                - text: "5.0"
+                - img [ref=e712]
+                - text: (2)
+              - text: · 30 mins
+          - generic [ref=e721]:
+            - generic [ref=e724]:
+              - link "Andhra Style Egg Rice | Easy Egg Karam Rice | Lunch Box ... YouTube · HomeCookingShow 6.5L+ views · 2 years ago" [ref=e726] [cursor=pointer]:
+                - /url: https://www.youtube.com/watch?v=uNBk55VJP_k
+                - heading "Andhra Style Egg Rice | Easy Egg Karam Rice | Lunch Box ..." [level=3] [ref=e727]
+                - generic [ref=e732]:
+                  - generic [ref=e734]: YouTube · HomeCookingShow
+                  - generic [ref=e736]: 6.5L+ views · 2 years ago
+              - button "About this result" [ref=e737] [cursor=pointer]:
+                - img [ref=e740]
+            - generic [ref=e742]:
+              - button "Andhra Style Egg Rice | Easy Egg Karam Rice | Lunch Box ... by HomeCookingShow on YouTube. Play on Google. 5:08" [ref=e743] [cursor=pointer]:
+                - generic [ref=e745]:
+                  - img [ref=e748]
+                  - generic [ref=e751]:
+                    - generic [ref=e752]: 5:08
+                    - img [ref=e755]
+              - generic [ref=e758]: Egg Karam Rice is a popular Andhra‑inspired rice dish made with scrambled eggs, aromatic spices, and cooked rice. This recipe is ...
+            - button "3 key moments in this video" [ref=e763] [cursor=pointer]:
+              - generic [ref=e766]:
+                - generic [ref=e769]: 3 key moments in this video
+                - img [ref=e771]
+            - generic [ref=e774]:
+              - text: "Missing: 200rs ‎| Show results with:"
+              - link "200rs" [ref=e775] [cursor=pointer]:
+                - /url: /search?sca_esv=d40b0936fbbbe394&q=rice+and+egg+lunch+recipe+under+%22200rs%22&sa=X&ved=2ahUKEwjV27aomNSTAxUjLdAFHWVAO4gQ5t4CegQILhAc
+          - generic [ref=e779]:
+            - generic [ref=e780]:
+              - heading "People also ask" [level=2] [ref=e781]
+              - button "About this result" [ref=e782] [cursor=pointer]:
+                - img [ref=e785]
+            - generic [ref=e787]:
+              - button "What can I cook with egg and rice?" [ref=e793] [cursor=pointer]:
+                - generic [ref=e795]: What can I cook with egg and rice?
+                - img [ref=e798]
+              - button "What is the 5 5 5 rule for rice?" [ref=e807] [cursor=pointer]:
+                - generic [ref=e809]: What is the 5 5 5 rule for rice?
+                - img [ref=e812]
+              - button "Is it good to eat rice and eggs together?" [ref=e821] [cursor=pointer]:
+                - generic [ref=e823]: Is it good to eat rice and eggs together?
+                - img [ref=e826]
+              - button "What to cook for lunch with rice?" [ref=e835] [cursor=pointer]:
+                - generic [ref=e837]: What to cook for lunch with rice?
+                - img [ref=e840]
+          - generic [ref=e848]:
+            - generic [ref=e851]:
+              - link "Egg Rice Recipe - Quick & Easy Lunch Box Recipe - Egg Rice ... Facebook · Nisa Homey 440+ reactions · 4 years ago" [ref=e853] [cursor=pointer]:
+                - /url: https://www.facebook.com/nisahomeyrecipes/videos/egg-rice-recipe-quick-easy-lunch-box-recipe-egg-rice-healthy-bachelor-recipes-ni/366025441705447/
+                - heading "Egg Rice Recipe - Quick & Easy Lunch Box Recipe - Egg Rice ..." [level=3] [ref=e854]
+                - generic [ref=e859]:
+                  - generic [ref=e861]: Facebook · Nisa Homey
+                  - generic [ref=e863]: 440+ reactions · 4 years ago
+              - button "About this result" [ref=e864] [cursor=pointer]:
+                - img [ref=e867]
+            - generic [ref=e869]:
+              - link "Egg Rice Recipe - Quick & Easy Lunch Box Recipe - Egg Rice ... by Nisa Homey on Facebook. Play on Facebook. 4:35" [ref=e870] [cursor=pointer]:
+                - /url: https://www.facebook.com/nisahomeyrecipes/videos/egg-rice-recipe-quick-easy-lunch-box-recipe-egg-rice-healthy-bachelor-recipes-ni/366025441705447/
+                - generic [ref=e872]:
+                  - img [ref=e878]
+                  - generic [ref=e882]: 4:35
+              - generic [ref=e884]: "Ingredients: 1 cup rice of your choice, mace, cinnamon and cardamoms. 1 tbsp black peppercorns, 1 tbsp ground nut oil, 3/4 tsp fennel seeds, 8-10 garlic cloves."
+            - generic [ref=e886]:
+              - text: "Missing: 200rs ‎| Show results with:"
+              - link "200rs" [ref=e887] [cursor=pointer]:
+                - /url: /search?sca_esv=d40b0936fbbbe394&q=rice+and+egg+lunch+recipe+under+%22200rs%22&sa=X&ved=2ahUKEwjV27aomNSTAxUjLdAFHWVAO4gQ5t4CegQILBAS
+          - generic [ref=e891]:
+            - generic [ref=e894]:
+              - link "Indian Style Triple Egg Fried Rice Recipe My Ginger Garlic Kitchen Recipes https://www.mygingergarlickitchen.com › Recipes" [ref=e896] [cursor=pointer]:
+                - /url: https://www.mygingergarlickitchen.com/indian-style-triple-egg-fried-rice-easy-egg-fried-rice-video-recipe/
+                - heading "Indian Style Triple Egg Fried Rice Recipe" [level=3] [ref=e897]
+                - generic [ref=e902]:
+                  - generic [ref=e904]: My Ginger Garlic Kitchen Recipes
+                  - generic [ref=e906]: https://www.mygingergarlickitchen.com › Recipes
+              - button "About this result" [ref=e907] [cursor=pointer]:
+                - img [ref=e910]
+            - generic [ref=e913]:
+              - generic [ref=e914]: 23 Jun 2018 —
+              - generic [ref=e915]:
+                - text: This restaurant style quick and easy
+                - emphasis [ref=e916]: triple egg fried rice
+                - text: makes a great lunch for weekdays. Make 30 minutes Triple Egg Fried Rice with a video tutorial.
+              - link "Read more" [ref=e917] [cursor=pointer]:
+                - /url: https://www.mygingergarlickitchen.com/indian-style-triple-egg-fried-rice-easy-egg-fried-rice-video-recipe/#:~:text=%2F%2F%20This%20restaurant%20style%20quick,Rice%20with%20a%20video%20tutorial.
+            - generic [ref=e919]:
+              - img "Rated 5.0 out of 5, (126) user reviews" [ref=e920]:
+                - text: "5.0"
+                - img [ref=e921]
+                - text: (126)
+              - text: · 25 mins
+          - generic [ref=e930]:
+            - generic [ref=e933]:
+              - link "Quick Lunchbox Rice/ Cabbage Egg Rice/ Egg Rice YouTube · Dindigul Food Court 42K+ views · 2 years ago" [ref=e935] [cursor=pointer]:
+                - /url: https://www.youtube.com/watch?v=6r6SVwSAC2E
+                - heading "Quick Lunchbox Rice/ Cabbage Egg Rice/ Egg Rice" [level=3] [ref=e936]
+                - generic [ref=e941]:
+                  - generic [ref=e943]: YouTube · Dindigul Food Court
+                  - generic [ref=e945]: 42K+ views · 2 years ago
+              - button "About this result" [ref=e946] [cursor=pointer]:
+                - img [ref=e949]
+            - generic [ref=e951]:
+              - button "Quick Lunchbox Rice/ Cabbage Egg Rice/ Egg Rice by Dindigul Food Court on YouTube. Play on Google. 2:17" [ref=e952] [cursor=pointer]:
+                - generic [ref=e954]:
+                  - img [ref=e957]
+                  - generic [ref=e960]:
+                    - generic [ref=e961]: 2:17
+                    - img [ref=e964]
+              - generic [ref=e967]: "#lunchrecipe #eggrice #dindigulfoodcourt Cabbage Egg Rice Ingredients Oil – 2 tbl spoon Chopped garlic cloves – 6 to 8 Chopped ginger – 1 ..."
+          - generic [ref=e971]:
+            - generic [ref=e974]:
+              - link "Singapore Egg fried rice Rs.200 @ Coner Stone GOA Pinterest · michaelantomerin 2 years ago" [ref=e976] [cursor=pointer]:
+                - /url: https://in.pinterest.com/pin/singapore-egg-fried-rice-rs200-coner-stone-goa--1103663452423134648/
+                - heading "Singapore Egg fried rice Rs.200 @ Coner Stone GOA" [level=3] [ref=e977]
+                - generic [ref=e982]:
+                  - generic [ref=e984]: Pinterest · michaelantomerin
+                  - generic [ref=e986]: 2 years ago
+              - button "About this result" [ref=e987] [cursor=pointer]:
+                - img [ref=e990]
+            - generic [ref=e994]:
+              - text: Singapore
+              - emphasis [ref=e995]: Egg
+              - text: fried
+              - emphasis [ref=e996]: rice
+              - text: Rs.200 @ Coner Stone GOA.
+        - generic [ref=e998]:
+          - generic [ref=e1003]:
+            - heading "People also search for" [level=2] [ref=e1005]
+            - generic [ref=e1007]:
+              - generic [ref=e1008]:
+                - link "Simple egg rice recipe" [ref=e1012] [cursor=pointer]:
+                  - /url: /search?sca_esv=d40b0936fbbbe394&q=Simple+egg+rice+recipe&sa=X&ved=2ahUKEwjV27aomNSTAxUjLdAFHWVAO4gQ1QJ6BAhLEAE
+                  - generic [ref=e1013]:
+                    - generic [ref=e1018]: Simple egg rice recipe
+                    - img [ref=e1022]
+                - link "Egg rice items list" [ref=e1027] [cursor=pointer]:
+                  - /url: /search?sca_esv=d40b0936fbbbe394&q=Egg+rice+items+list&sa=X&ved=2ahUKEwjV27aomNSTAxUjLdAFHWVAO4gQ1QJ6BAhSEAE
+                  - generic [ref=e1028]:
+                    - generic [ref=e1033]: Egg rice items list
+                    - img [ref=e1037]
+                - link "Street style egg rice recipe" [ref=e1042] [cursor=pointer]:
+                  - /url: /search?sca_esv=d40b0936fbbbe394&q=Street+style+egg+rice+recipe&sa=X&ved=2ahUKEwjV27aomNSTAxUjLdAFHWVAO4gQ1QJ6BAhOEAE
+                  - generic [ref=e1043]:
+                    - generic [ref=e1048]: Street style egg rice recipe
+                    - img [ref=e1052]
+                - link "Egg rice video" [ref=e1057] [cursor=pointer]:
+                  - /url: /search?sca_esv=d40b0936fbbbe394&q=Egg+rice+video&sa=X&ved=2ahUKEwjV27aomNSTAxUjLdAFHWVAO4gQ1QJ6BAhREAE
+                  - generic [ref=e1058]:
+                    - generic [ref=e1063]: Egg rice video
+                    - img [ref=e1067]
+              - generic [ref=e1069]:
+                - link "Egg rice model" [ref=e1073] [cursor=pointer]:
+                  - /url: /search?sca_esv=d40b0936fbbbe394&q=Egg+rice+model&sa=X&ved=2ahUKEwjV27aomNSTAxUjLdAFHWVAO4gQ1QJ6BAhQEAE
+                  - generic [ref=e1074]:
+                    - generic [ref=e1079]: Egg rice model
+                    - img [ref=e1083]
+                - link "Egg rice telugu" [ref=e1088] [cursor=pointer]:
+                  - /url: /search?sca_esv=d40b0936fbbbe394&q=Egg+rice+telugu&sa=X&ved=2ahUKEwjV27aomNSTAxUjLdAFHWVAO4gQ1QJ6BAhPEAE
+                  - generic [ref=e1089]:
+                    - generic [ref=e1094]: Egg rice telugu
+                    - img [ref=e1098]
+                - link "Anda rice recipe" [ref=e1103] [cursor=pointer]:
+                  - /url: /search?sca_esv=d40b0936fbbbe394&q=Anda+rice+recipe&sa=X&ved=2ahUKEwjV27aomNSTAxUjLdAFHWVAO4gQ1QJ6BAhTEAE
+                  - generic [ref=e1104]:
+                    - generic [ref=e1109]: Anda rice recipe
+                    - img [ref=e1113]
+                - link "Egg rice Indian" [ref=e1118] [cursor=pointer]:
+                  - /url: /search?sca_esv=d40b0936fbbbe394&q=Egg+rice+Indian&sa=X&ved=2ahUKEwjV27aomNSTAxUjLdAFHWVAO4gQ1QJ6BAhNEAE
+                  - generic [ref=e1119]:
+                    - generic [ref=e1124]: Egg rice Indian
+                    - img [ref=e1128]
+          - navigation [ref=e1130]:
+            - heading "Page navigation" [level=1] [ref=e1131]
+            - text: "1"
+            - link "Page 2" [ref=e1134] [cursor=pointer]:
+              - /url: /search?q=rice+and+egg+lunch+recipe+under+200rs&sca_esv=d40b0936fbbbe394&ei=EQPRaZWPDqPawN4P5YDtwQg&start=10&sa=N&sstk=Af77f_c64WXfHPpwA6NWzxG1FTctt01BM8iXCYgOzqsi9DqAKT-5D8ANrJqnKkWjvRnVsgIvKXTVFfQYLn8SZ1hB4aNIm7stbQPFyA&ved=2ahUKEwjV27aomNSTAxUjLdAFHWVAO4gQ8tMDegQICRAE
+              - text: "2"
+            - link "Page 3" [ref=e1136] [cursor=pointer]:
+              - /url: /search?q=rice+and+egg+lunch+recipe+under+200rs&sca_esv=d40b0936fbbbe394&ei=EQPRaZWPDqPawN4P5YDtwQg&start=20&sa=N&sstk=Af77f_c64WXfHPpwA6NWzxG1FTctt01BM8iXCYgOzqsi9DqAKT-5D8ANrJqnKkWjvRnVsgIvKXTVFfQYLn8SZ1hB4aNIm7stbQPFyA&ved=2ahUKEwjV27aomNSTAxUjLdAFHWVAO4gQ8tMDegQICRAG
+              - text: "3"
+            - link "Page 4" [ref=e1138] [cursor=pointer]:
+              - /url: /search?q=rice+and+egg+lunch+recipe+under+200rs&sca_esv=d40b0936fbbbe394&ei=EQPRaZWPDqPawN4P5YDtwQg&start=30&sa=N&sstk=Af77f_c64WXfHPpwA6NWzxG1FTctt01BM8iXCYgOzqsi9DqAKT-5D8ANrJqnKkWjvRnVsgIvKXTVFfQYLn8SZ1hB4aNIm7stbQPFyA&ved=2ahUKEwjV27aomNSTAxUjLdAFHWVAO4gQ8tMDegQICRAI
+              - text: "4"
+            - link "Page 5" [ref=e1140] [cursor=pointer]:
+              - /url: /search?q=rice+and+egg+lunch+recipe+under+200rs&sca_esv=d40b0936fbbbe394&ei=EQPRaZWPDqPawN4P5YDtwQg&start=40&sa=N&sstk=Af77f_c64WXfHPpwA6NWzxG1FTctt01BM8iXCYgOzqsi9DqAKT-5D8ANrJqnKkWjvRnVsgIvKXTVFfQYLn8SZ1hB4aNIm7stbQPFyA&ved=2ahUKEwjV27aomNSTAxUjLdAFHWVAO4gQ8tMDegQICRAK
+              - text: "5"
+            - link "Page 6" [ref=e1142] [cursor=pointer]:
+              - /url: /search?q=rice+and+egg+lunch+recipe+under+200rs&sca_esv=d40b0936fbbbe394&ei=EQPRaZWPDqPawN4P5YDtwQg&start=50&sa=N&sstk=Af77f_c64WXfHPpwA6NWzxG1FTctt01BM8iXCYgOzqsi9DqAKT-5D8ANrJqnKkWjvRnVsgIvKXTVFfQYLn8SZ1hB4aNIm7stbQPFyA&ved=2ahUKEwjV27aomNSTAxUjLdAFHWVAO4gQ8tMDegQICRAM
+              - text: "6"
+            - link "Page 7" [ref=e1144] [cursor=pointer]:
+              - /url: /search?q=rice+and+egg+lunch+recipe+under+200rs&sca_esv=d40b0936fbbbe394&ei=EQPRaZWPDqPawN4P5YDtwQg&start=60&sa=N&sstk=Af77f_c64WXfHPpwA6NWzxG1FTctt01BM8iXCYgOzqsi9DqAKT-5D8ANrJqnKkWjvRnVsgIvKXTVFfQYLn8SZ1hB4aNIm7stbQPFyA&ved=2ahUKEwjV27aomNSTAxUjLdAFHWVAO4gQ8tMDegQICRAO
+              - text: "7"
+            - link "Page 8" [ref=e1146] [cursor=pointer]:
+              - /url: /search?q=rice+and+egg+lunch+recipe+under+200rs&sca_esv=d40b0936fbbbe394&ei=EQPRaZWPDqPawN4P5YDtwQg&start=70&sa=N&sstk=Af77f_c64WXfHPpwA6NWzxG1FTctt01BM8iXCYgOzqsi9DqAKT-5D8ANrJqnKkWjvRnVsgIvKXTVFfQYLn8SZ1hB4aNIm7stbQPFyA&ved=2ahUKEwjV27aomNSTAxUjLdAFHWVAO4gQ8tMDegQICRAQ
+              - text: "8"
+            - link "Page 9" [ref=e1148] [cursor=pointer]:
+              - /url: /search?q=rice+and+egg+lunch+recipe+under+200rs&sca_esv=d40b0936fbbbe394&ei=EQPRaZWPDqPawN4P5YDtwQg&start=80&sa=N&sstk=Af77f_c64WXfHPpwA6NWzxG1FTctt01BM8iXCYgOzqsi9DqAKT-5D8ANrJqnKkWjvRnVsgIvKXTVFfQYLn8SZ1hB4aNIm7stbQPFyA&ved=2ahUKEwjV27aomNSTAxUjLdAFHWVAO4gQ8tMDegQICRAS
+              - text: "9"
+            - link "Page 10" [ref=e1150] [cursor=pointer]:
+              - /url: /search?q=rice+and+egg+lunch+recipe+under+200rs&sca_esv=d40b0936fbbbe394&ei=EQPRaZWPDqPawN4P5YDtwQg&start=90&sa=N&sstk=Af77f_c64WXfHPpwA6NWzxG1FTctt01BM8iXCYgOzqsi9DqAKT-5D8ANrJqnKkWjvRnVsgIvKXTVFfQYLn8SZ1hB4aNIm7stbQPFyA&ved=2ahUKEwjV27aomNSTAxUjLdAFHWVAO4gQ8tMDegQICRAU
+              - text: "10"
+            - heading "Next" [level=2] [ref=e1152]:
+              - link "Next" [ref=e1153] [cursor=pointer]:
+                - /url: /search?q=rice+and+egg+lunch+recipe+under+200rs&sca_esv=d40b0936fbbbe394&ei=EQPRaZWPDqPawN4P5YDtwQg&start=10&sa=N&sstk=Af77f_c64WXfHPpwA6NWzxG1FTctt01BM8iXCYgOzqsi9DqAKT-5D8ANrJqnKkWjvRnVsgIvKXTVFfQYLn8SZ1hB4aNIm7stbQPFyA&ved=2ahUKEwjV27aomNSTAxUjLdAFHWVAO4gQ8NMDegQICRAW
+                - generic [ref=e1155]: Next
+        - navigation
+    - contentinfo [ref=e1156]:
+      - heading "Footer links" [level=1] [ref=e1157]
+      - generic [ref=e1161]:
+        - generic [ref=e1163]:
+          - text: India
+          - generic [ref=e1165]:
+            - button "560015, Bengaluru, Karnataka - From your IP address" [ref=e1167] [cursor=pointer]:
+              - generic [ref=e1168]: 560015, Bengaluru, Karnataka
+              - generic [ref=e1170]:
+                - text: "-"
+                - generic [ref=e1171]: From your IP address
+            - text: "-"
+            - button "Update location" [ref=e1173] [cursor=pointer]: Update location
+        - generic [ref=e1176]:
+          - link "Help" [ref=e1177] [cursor=pointer]:
+            - /url: https://support.google.com/websearch/?p=ws_results_help&hl=en-IN&fg=1
+          - link "Send feedback" [ref=e1178] [cursor=pointer]:
+            - /url: "#"
+          - link "Privacy" [ref=e1179] [cursor=pointer]:
+            - /url: https://policies.google.com/privacy?hl=en-IN&fg=1
+          - link "Terms" [ref=e1180] [cursor=pointer]:
+            - /url: https://policies.google.com/terms?hl=en-IN&fg=1

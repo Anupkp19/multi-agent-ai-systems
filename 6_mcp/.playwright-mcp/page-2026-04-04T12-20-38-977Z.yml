@@ -1,0 +1,544 @@
+- generic [active] [ref=e1]:
+  - generic:
+    - generic:
+      - link "Skip to main content" [ref=e2] [cursor=pointer]
+      - link "Accessibility help" [ref=e3] [cursor=pointer]:
+        - /url: https://support.google.com/websearch/answer/181196?hl=en-IN
+      - link "Accessibility feedback" [ref=e4] [cursor=pointer]
+  - generic [ref=e9]:
+    - search [ref=e10]:
+      - generic [ref=e12]:
+        - link "Go to Google Home" [ref=e14] [cursor=pointer]:
+          - /url: https://www.google.com/webhp?hl=en&sa=X&ved=0ahUKEwjAsJqvl9STAxVYHdAFHS6zKyYQPAgJ
+          - img [ref=e15]
+        - generic [ref=e22]:
+          - generic [ref=e23]:
+            - combobox "Search" [ref=e26]: lunch recipe with rice under 200rs lunch recipe with rice under 200rs
+            - generic [ref=e27]:
+              - button "Clear" [ref=e29] [cursor=pointer]:
+                - img [ref=e31]
+              - generic [ref=e34]:
+                - button "Search by voice" [ref=e35] [cursor=pointer]:
+                  - img [ref=e36]
+                - button "Search by image" [ref=e38] [cursor=pointer]:
+                  - img [ref=e39]
+          - button "Search" [ref=e41] [cursor=pointer]:
+            - img [ref=e44]
+    - generic [ref=e46]:
+      - button "Settings" [ref=e48] [cursor=pointer]:
+        - img [ref=e51]
+      - generic [ref=e54]:
+        - button "Google apps" [ref=e56] [cursor=pointer]:
+          - img [ref=e57]
+        - link "Sign in" [ref=e61] [cursor=pointer]:
+          - /url: https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https://www.google.com/search%3Fq%3Dlunch%2Brecipe%2Bwith%2Brice%2Bunder%2B200rs%26sei%3DEQLRaZLLM76yp84P2o7qqAU&ec=futura_srp_og_si_72236_p
+  - generic [ref=e63]:
+    - navigation [ref=e69]:
+      - generic [ref=e73]:
+        - list [ref=e74]:
+          - listitem [ref=e75]:
+            - link "AI Mode" [ref=e78] [cursor=pointer]:
+              - /url: /search?q=lunch+recipe+with+rice+under+200rs&sca_esv=d40b0936fbbbe394&udm=50&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpV6Bbbmx4QVaoKkiRQ2jlwvMg54BMciw6zYi-UcSdrQDpomnxco9WiG862z-8NTa8mFeOcIphJCyw7JaQodvDd3eekPsQGzz_bOAuNhB4VpLlInUck_sHUaLshRmjxD_ArdJ_T4SaxnchUl7_mtwv5gw-RzKufA0dWJQaktpvpSKehF4PjZC8rM4xg59yn7FxrBxzCw&aep=1&ntc=1&sa=X&ved=2ahUKEwjAsJqvl9STAxVYHdAFHS6zKyYQ2J8OegQIEhAE
+              - generic [ref=e81]: AI Mode
+          - listitem [ref=e82]:
+            - link "All" [disabled] [ref=e83]:
+              - generic [ref=e85]: All
+          - listitem [ref=e86]:
+            - link "Short videos" [ref=e87] [cursor=pointer]:
+              - /url: /search?sca_esv=d40b0936fbbbe394&udm=39&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpV6Bbbmx4QVaoKkiRQ2jlwvMg54BMciw6zYi-UcSdrQDpomnxco9WiG862z-8NTa8mFeOcIphJCyw7JaQodvDd3eekPsQGzz_bOAuNhB4VpLlInUck_sHUaLshRmjxD_ArdJ_T4SaxnchUl7_mtwv5gw-RzKufA0dWJQaktpvpSKehF4PjZC8rM4xg59yn7FxrBxzCw&q=lunch+recipe+with+rice+under+200rs&sa=X&ved=2ahUKEwjAsJqvl9STAxVYHdAFHS6zKyYQs6gLegQIFRAB
+              - generic [ref=e89]: Short videos
+          - listitem [ref=e90]:
+            - link "Images" [ref=e91] [cursor=pointer]:
+              - /url: /search?sca_esv=d40b0936fbbbe394&udm=2&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpV6Bbbmx4QVaoKkiRQ2jlwvMg54BMciw6zYi-UcSdrQDpomnxco9WiG862z-8NTa8mFeOcIphJCyw7JaQodvDd3eekPsQGzz_bOAuNhB4VpLlInUck_sHUaLshRmjxD_ArdJ_T4SaxnchUl7_mtwv5gw-RzKufA0dWJQaktpvpSKehF4PjZC8rM4xg59yn7FxrBxzCw&q=lunch+recipe+with+rice+under+200rs&sa=X&ved=2ahUKEwjAsJqvl9STAxVYHdAFHS6zKyYQtKgLegQIFxAB
+              - generic [ref=e93]: Images
+          - listitem [ref=e94]:
+            - link "Videos" [ref=e95] [cursor=pointer]:
+              - /url: /search?sca_esv=d40b0936fbbbe394&udm=7&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpV6Bbbmx4QVaoKkiRQ2jlwvMg54BMciw6zYi-UcSdrQDpomnxco9WiG862z-8NTa8mFeOcIphJCyw7JaQodvDd3eekPsQGzz_bOAuNhB4VpLlInUck_sHUaLshRmjxD_ArdJ_T4SaxnchUl7_mtwv5gw-RzKufA0dWJQaktpvpSKehF4PjZC8rM4xg59yn7FxrBxzCw&q=lunch+recipe+with+rice+under+200rs&sa=X&ved=2ahUKEwjAsJqvl9STAxVYHdAFHS6zKyYQtKgLegQIGBAB
+              - generic [ref=e97]: Videos
+          - listitem [ref=e98]:
+            - link "Shopping" [ref=e99] [cursor=pointer]:
+              - /url: /search?sca_esv=d40b0936fbbbe394&udm=28&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpV6Bbbmx4QVaoKkiRQ2jlwvMg54BMciw6zYi-UcSdrQDpomnxco9WiG862z-8NTa8mFeOcIphJCyw7JaQodvDd3eekPsQGzz_bOAuNhB4VpLlInUck_sHUaLshRmjxD_ArdJ_T4SaxnchUl7_mtwv5gw-RzKufA0dWJQaktpvpSKehF4PjZC8rM4xg59yn7FxrBxzCw&q=lunch+recipe+with+rice+under+200rs&ved=1t:220175&ictx=111
+              - generic [ref=e101]: Shopping
+          - listitem [ref=e102]:
+            - link "Forums" [ref=e103] [cursor=pointer]:
+              - /url: /search?sca_esv=d40b0936fbbbe394&udm=18&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpV6Bbbmx4QVaoKkiRQ2jlwvMg54BMciw6zYi-UcSdrQDpomnxco9WiG862z-8NTa8mFeOcIphJCyw7JaQodvDd3eekPsQGzz_bOAuNhB4VpLlInUck_sHUaLshRmjxD_ArdJ_T4SaxnchUl7_mtwv5gw-RzKufA0dWJQaktpvpSKehF4PjZC8rM4xg59yn7FxrBxzCw&q=lunch+recipe+with+rice+under+200rs&sa=X&ved=2ahUKEwjAsJqvl9STAxVYHdAFHS6zKyYQs6gLegQIGhAB
+              - generic [ref=e105]: Forums
+          - listitem [ref=e106]:
+            - button "More filters" [ref=e107] [cursor=pointer]:
+              - generic "More filters" [ref=e108]:
+                - generic [ref=e109]:
+                  - generic [ref=e110]: More
+                  - img [ref=e112]
+        - button "Tools" [ref=e115] [cursor=pointer]:
+          - generic [ref=e117]:
+            - generic [ref=e118]: Tools
+            - img [ref=e120]
+    - heading "Search Results" [level=1] [ref=e122]
+    - generic [ref=e127]:
+      - generic [ref=e146]:
+        - generic [ref=e151]:
+          - generic [ref=e153]:
+            - generic [ref=e154]:
+              - img [ref=e155]
+              - heading "AI Overview" [level=2] [ref=e157]
+            - button "Listen" [ref=e161]:
+              - img [ref=e166] [cursor=pointer]
+            - button "About this result" [ref=e171]:
+              - img [ref=e173]
+          - generic [ref=e194]:
+            - generic [ref=e197]:
+              - generic [ref=e199]: Here are a few quick, affordable, and delicious rice-based lunch recipes that cost well under ₹200 to prepare.
+              - heading "1. Masala Vegetable Rice (Under 10 Minutes)" [level=3] [ref=e200]
+              - generic [ref=e201]: This is a high-flavor, one-pot dish perfect for using mixed vegetables.
+              - list [ref=e202]:
+                - listitem [ref=e203]:
+                  - generic [ref=e204]:
+                    - strong [ref=e205]: "Ingredients:"
+                    - text: 1 cup cooked rice, 1 onion, 1 tomato, Mixed Veggies (peas, carrot, beans, potato), Ginger-Garlic Paste, Spices (Chili powder, Coriander powder, Garam masala, Turmeric), Oil/Ghee.
+                - listitem [ref=e206]:
+                  - generic [ref=e207]:
+                    - strong [ref=e208]: "Method:"
+                    - text: Heat oil/ghee, sauté onions and ginger-garlic paste. Add spices, chopped tomatoes, and vegetables. Cook until soft. Mix in the cooked rice and garnish with coriander leaves.
+                  - button [disabled] [ref=e211]:
+                    - generic [ref=e212]:
+                      - img [ref=e213]
+                      - generic [ref=e215]: YouTube
+              - heading [level=3] [ref=e216]: 2. South Indian Style Tomato Rice
+              - generic [ref=e217]: Tangy and spicy, this pairs well with simple papad or pickle.
+              - list [ref=e218]:
+                - listitem [ref=e219]:
+                  - generic [ref=e220]:
+                    - strong [ref=e221]: "Ingredients:"
+                    - text: 1 cup cooked rice, 2 large tomatoes (chopped), 1 Onion, Curry leaves, Mustard seeds, Dry red chilies, Jeera powder, Ghee.
+                - listitem [ref=e222]:
+                  - generic [ref=e223]:
+                    - strong [ref=e224]: "Method:"
+                    - text: Temper mustard seeds and curry leaves in ghee. Add onions and tomatoes, cooking until soft. Add jeera powder and salt. Mix in rice, sauté for 2 minutes, and serve.
+                  - button [disabled] [ref=e227]:
+                    - generic [ref=e228]:
+                      - img [ref=e229]
+                      - generic [ref=e231]: YouTube
+              - heading [level=3] [ref=e232]: 3. Veggie Chilli Garlic Rice
+              - generic [ref=e233]: A quick Chinese-style fried rice.
+              - list [ref=e234]:
+                - listitem [ref=e235]:
+                  - generic [ref=e236]:
+                    - strong [ref=e237]: "Ingredients:"
+                    - text: 1 cup rice, 10 cloves garlic (finely chopped), 5 dry red chillies, Chopped carrot/capsicum, Soy sauce, Salt, Oil.
+                - listitem [ref=e238]:
+                  - generic [ref=e239]:
+                    - strong [ref=e240]: "Method:"
+                    - text: Sauté garlic and red chillies in oil until aromatic. Add veggies and stir-fry. Add soy sauce and salt. Mix in cooked rice on high heat.
+                  - button [disabled] [ref=e243]:
+                    - generic [ref=e244]:
+                      - img [ref=e245]
+                      - generic [ref=e247]: YouTube
+              - heading [level=3] [ref=e248]: 4. Potato Rice (Aloo Pulao)
+              - generic [ref=e249]: A filling and comforting meal using basic pantry staples.
+              - list [ref=e250]:
+                - listitem [ref=e251]:
+                  - generic [ref=e252]:
+                    - strong [ref=e253]: "Ingredients:"
+                    - text: 1 cup raw rice (soaked), 2 potatoes (cubed), Onion, Spices (Bay leaf, Cinnamon, Cardamom), Turmeric, Chilli powder, Oil/Ghee.
+                - listitem [ref=e254]:
+                  - generic [ref=e255]:
+                    - strong [ref=e256]: "Method:"
+                    - text: Sauté whole spices and onions in a pressure cooker. Add potatoes, spices, and rice. Add 2 cups water and cook for 2 whistles.
+                  - button [disabled] [ref=e259]:
+                    - generic [ref=e260]:
+                      - img [ref=e261]
+                      - generic [ref=e263]: Facebook
+              - heading [level=3] [ref=e264]: 5. Instant Cucumber Rice (Tiffin Special)
+              - generic [ref=e265]: A fresh and refreshing option that is different from regular fried rice.
+              - list [ref=e266]:
+                - listitem [ref=e267]:
+                  - generic [ref=e268]:
+                    - strong [ref=e269]: "Ingredients:"
+                    - text: 1 cup cooked rice, 1 grated cucumber (squeeze excess water), Onion, Green chilies, Tempering agents (Urad dal, Chana dal, Mustard seeds), Grated coconut.
+                - listitem [ref=e270]:
+                  - generic [ref=e271]:
+                    - strong [ref=e272]: "Method:"
+                    - text: Temper dals and mustard seeds, sauté onions and green chillies. Add grated cucumber and coconut. Mix well, then fold in the rice.
+                  - button [disabled] [ref=e275]:
+                    - generic [ref=e276]:
+                      - img [ref=e277]
+                      - generic [ref=e279]: YouTube
+              - strong [ref=e281]: "Cost-Saving Tips:"
+              - list [ref=e282]:
+                - listitem [ref=e283]:
+                  - generic [ref=e284]: Use leftover rice to save time and money.
+                - listitem [ref=e285]:
+                  - generic [ref=e286]: Use seasonal vegetables to keep costs low.
+                - listitem [ref=e287]:
+                  - generic [ref=e288]: Use local cooking oils (like mustard or refined sunflower) rather than fancy oils.
+            - list [ref=e297]:
+              - listitem [ref=e298]:
+                - generic [ref=e299]:
+                  - link "15-Minute Cucumber Rice | Easy One Pot Variety Rice | Kids .... Opens in new tab." [ref=e300] [cursor=pointer]:
+                    - /url: https://www.youtube.com/watch?v=7_xNPKBOEsM&t=8
+                  - generic [ref=e301]:
+                    - generic [ref=e302]:
+                      - generic [ref=e303]: 15-Minute Cucumber Rice | Easy One Pot Variety Rice | Kids ...
+                      - generic [ref=e304]: 17 Dec 2025 — hello everyone welcome to home cooking with Miheim Masraman. today I'm going to share a very interesting recipe with cucumbers. we...
+                      - generic [ref=e305]:
+                        - generic [ref=e312]:
+                          - generic [ref=e313]: YouTube
+                          - generic [ref=e314]: ·
+                          - generic [ref=e315]: HomeCookingShow
+                        - button "About this result" [ref=e317] [cursor=pointer]:
+                          - img [ref=e318]
+                    - button "undefined" [ref=e322] [cursor=pointer]:
+                      - generic [ref=e324]:
+                        - img [ref=e325]
+                        - generic [ref=e327]: 4m
+                      - img [ref=e332]
+              - listitem [ref=e335]:
+                - generic [ref=e336]:
+                  - link "Instant Onion Rice Recipe | Lunch Box Recipes for kids - YouTube. Opens in new tab." [ref=e337] [cursor=pointer]:
+                    - /url: https://www.youtube.com/watch?v=BBg3PfDq9Fw#:~:text=5.,://www.ventunotec...
+                  - generic [ref=e339]:
+                    - generic [ref=e340]: Instant Onion Rice Recipe | Lunch Box Recipes for kids - YouTube
+                    - generic [ref=e341]: 8 Sept 2023 — 5. Add curry leaves and tamarind puree. Add water and mix well. 6. Cover the pot with a lid and cook for 4 minutes. 7. At this poi...
+                    - generic [ref=e342]:
+                      - generic [ref=e347]: YouTube
+                      - button [ref=e349] [cursor=pointer]:
+                        - img [ref=e350]
+              - listitem [ref=e354]:
+                - generic [ref=e355]:
+                  - link [ref=e356] [cursor=pointer]:
+                    - /url: https://www.youtube.com/shorts/fXhAsiqnAJA
+                  - generic [ref=e357]:
+                    - generic [ref=e358]:
+                      - generic [ref=e359]: Masala Rice in 10 mins | Quick & Easy Lunch Box Recipe ...
+                      - generic [ref=e360]: 16 Jun 2024
+                      - generic [ref=e361]:
+                        - generic [ref=e368]:
+                          - generic [ref=e369]: YouTube
+                          - generic [ref=e370]: ·
+                          - generic [ref=e371]: She Cooks
+                        - button [ref=e373] [cursor=pointer]:
+                          - img [ref=e374]
+                    - generic [ref=e378]:
+                      - img [ref=e379]
+                      - generic [ref=e381]: 53s
+        - button "Show more AI Overview" [ref=e388]:
+          - generic [ref=e390] [cursor=pointer]:
+            - generic [ref=e391]: Show more
+            - img [ref=e393]
+      - main [ref=e396]:
+        - generic [ref=e400]:
+          - generic [ref=e407]:
+            - generic [ref=e410]:
+              - link "6 Days 6 Lunchbox Recipes/ 6 Variety Rice Recipes YouTube · Dindigul Food Court 17K+ views · 2 months ago" [ref=e412] [cursor=pointer]:
+                - /url: https://www.youtube.com/watch?v=e6KEexcK4bQ
+                - heading "6 Days 6 Lunchbox Recipes/ 6 Variety Rice Recipes" [level=3] [ref=e413]
+                - generic [ref=e418]:
+                  - generic [ref=e420]: YouTube · Dindigul Food Court
+                  - generic [ref=e422]: 17K+ views · 2 months ago
+              - button "About this result" [ref=e423] [cursor=pointer]:
+                - img [ref=e426]
+            - generic [ref=e428]:
+              - button "6 Days 6 Lunchbox Recipes/ 6 Variety Rice Recipes by Dindigul Food Court on YouTube. Play on Google. 18:00" [ref=e429] [cursor=pointer]:
+                - generic [ref=e431]:
+                  - img [ref=e434]
+                  - generic [ref=e437]:
+                    - generic [ref=e438]: 18:00
+                    - img [ref=e441]
+              - generic [ref=e444]: "#lunch #lunchbox #varietyrice #dindigulfoodcourt Lemon Rice (Ingredients) Oil – 2 tbl spoon Mustard – ¾ teaspoon Urad dal – 1 teaspoon Chana ..."
+          - generic [ref=e448]:
+            - generic [ref=e449]:
+              - heading "People also ask" [level=2] [ref=e450]
+              - button "About this result" [ref=e451] [cursor=pointer]:
+                - img [ref=e454]
+            - generic [ref=e456]:
+              - button "What to cook for lunch with rice?" [ref=e462] [cursor=pointer]:
+                - generic [ref=e464]: What to cook for lunch with rice?
+                - img [ref=e467]
+              - button "What to have with plain rice for lunch?" [ref=e476] [cursor=pointer]:
+                - generic [ref=e478]: What to have with plain rice for lunch?
+                - img [ref=e481]
+              - button "What are 10 good lunch foods?" [ref=e490] [cursor=pointer]:
+                - generic [ref=e492]: What are 10 good lunch foods?
+                - img [ref=e495]
+              - button "What are 10 good lunch foods in Indian?" [ref=e504] [cursor=pointer]:
+                - generic [ref=e506]: What are 10 good lunch foods in Indian?
+                - img [ref=e509]
+          - generic [ref=e518]:
+            - generic [ref=e521]:
+              - link "6 Days 6 Lunchbox Recipes/ 6 Variety Rice Recipes/ Lunch ... YouTube · Dindigul Food Court 4L+ views · 2 years ago" [ref=e523] [cursor=pointer]:
+                - /url: https://www.youtube.com/watch?v=D_qqTqrdm0M
+                - heading "6 Days 6 Lunchbox Recipes/ 6 Variety Rice Recipes/ Lunch ..." [level=3] [ref=e524]
+                - generic [ref=e529]:
+                  - generic [ref=e531]: YouTube · Dindigul Food Court
+                  - generic [ref=e533]: 4L+ views · 2 years ago
+              - button "About this result" [ref=e534] [cursor=pointer]:
+                - img [ref=e537]
+            - generic [ref=e539]:
+              - button "6 Days 6 Lunchbox Recipes/ 6 Variety Rice Recipes/ Lunch ... by Dindigul Food Court on YouTube. Play on Google. 17:17" [ref=e540] [cursor=pointer]:
+                - generic [ref=e542]:
+                  - img [ref=e545]
+                  - generic [ref=e548]:
+                    - generic [ref=e549]: 17:17
+                    - img [ref=e552]
+              - generic [ref=e555]: "... 200 grams Gingelly oil – 1 teaspoon ... Village Lunch : Aloo Brinjal Recipe, Egg Masala Curry with Rice Nepali Cooking in Village."
+          - generic [ref=e562]:
+            - generic [ref=e565]:
+              - link "10 Lunch Box Recipes | Variety Rice Recipes | 10 mins Lunch ... YouTube · She Cooks 17.8K+ views · 2 years ago" [ref=e567] [cursor=pointer]:
+                - /url: https://www.youtube.com/watch?v=7hpyZhwSbns
+                - heading "10 Lunch Box Recipes | Variety Rice Recipes | 10 mins Lunch ..." [level=3] [ref=e568]
+                - generic [ref=e573]:
+                  - generic [ref=e575]: YouTube · She Cooks
+                  - generic [ref=e577]: 17.8K+ views · 2 years ago
+              - button "About this result" [ref=e578] [cursor=pointer]:
+                - img [ref=e581]
+            - generic [ref=e583]:
+              - button "10 Lunch Box Recipes | Variety Rice Recipes | 10 mins Lunch ... by She Cooks on YouTube. Play on Google. 17:56" [ref=e584] [cursor=pointer]:
+                - generic [ref=e586]:
+                  - img [ref=e589]
+                  - generic [ref=e592]:
+                    - generic [ref=e593]: 17:56
+                    - img [ref=e596]
+              - generic [ref=e599]: "00:02 Beetroot Rice Ingredients: 2 Green Cardamom 2 Cloves 1 inch Cinnamon 1/2 Tbsp Oil 1 Tsp Mustard Seeds 1 Tsp Cumin Seeds 2 Dry Red Chilies ..."
+            - button "10 key moments in this video" [ref=e604] [cursor=pointer]:
+              - generic [ref=e607]:
+                - generic [ref=e610]: 10 key moments in this video
+                - img [ref=e612]
+          - generic [ref=e619]:
+            - generic [ref=e622]:
+              - link "Quick & Easy Lunch Box Recipes | Lunch Recipes | Variety ... YouTube · She Cooks 60.7K+ views · 8 months ago" [ref=e624] [cursor=pointer]:
+                - /url: https://www.youtube.com/shorts/UZzG7ruH6S4
+                - heading "Quick & Easy Lunch Box Recipes | Lunch Recipes | Variety ..." [level=3] [ref=e625]
+                - generic [ref=e630]:
+                  - generic [ref=e632]: YouTube · She Cooks
+                  - generic [ref=e634]: 60.7K+ views · 8 months ago
+              - button "About this result" [ref=e635] [cursor=pointer]:
+                - img [ref=e638]
+            - generic [ref=e640]:
+              - link "Quick & Easy Lunch Box Recipes | Lunch Recipes | Variety ... by She Cooks on YouTube. Play on YouTube. 1:00" [ref=e641] [cursor=pointer]:
+                - /url: https://www.youtube.com/shorts/UZzG7ruH6S4
+                - generic [ref=e643]:
+                  - img [ref=e649]
+                  - generic [ref=e653]: 1:00
+              - generic [ref=e655]: "Quick & Easy Lunch Box Recipes | Lunch Recipes | Variety Rice Recipes | Paneer Fried Rice Recipe Like And Follow Us On: WhatsApp ..."
+          - generic [ref=e659]:
+            - generic [ref=e662]:
+              - link "🍚 Rice Recipes for Lunch—15 comforting bowls from pulao ... Facebook · Home cooking 60+ reactions · 9 months ago" [ref=e664] [cursor=pointer]:
+                - /url: https://www.facebook.com/HomeCookingShow/posts/-rice-recipes-for-lunch15-comforting-bowls-from-pulao-to-khichdi-perfect-for-bus/1300369324782998/
+                - heading "🍚 Rice Recipes for Lunch—15 comforting bowls from pulao ..." [level=3] [ref=e665]
+                - generic [ref=e670]:
+                  - generic [ref=e672]: Facebook · Home cooking
+                  - generic [ref=e674]: 60+ reactions · 9 months ago
+              - button "About this result" [ref=e675] [cursor=pointer]:
+                - img [ref=e678]
+            - generic [ref=e681]:
+              - generic [ref=e682]:
+                - emphasis [ref=e683]: Chana Pulao is a one-pot, aromatic, and flavor-packed rice recipe
+                - text: which is perfect option for a healthy & delicious lunch or dinner. Recipe ...
+              - link "Read more" [ref=e684] [cursor=pointer]:
+                - /url: https://www.facebook.com/HomeCookingShow/posts/-rice-recipes-for-lunch15-comforting-bowls-from-pulao-to-khichdi-perfect-for-bus/1300369324782998/#:~:text=Chana%20Pulao%20is%20a%20one%2Dpot%2C,delicious%20lunch%20or%20dinner.%20Recipe
+            - generic [ref=e686]:
+              - text: "Missing: 200rs ‎| Show results with:"
+              - link "200rs" [ref=e687] [cursor=pointer]:
+                - /url: /search?sca_esv=d40b0936fbbbe394&q=lunch+recipe+with+rice+under+%22200rs%22&sa=X&ved=2ahUKEwjAsJqvl9STAxVYHdAFHS6zKyYQ5t4CegQIQRAB
+          - generic [ref=e694]:
+            - generic [ref=e697]:
+              - link "7 Simple & Tasty Rice Recipes | Rice Recipes Indian | Lunch ... YouTube · She Cooks 58.5K+ views · 5 years ago" [ref=e699] [cursor=pointer]:
+                - /url: https://www.youtube.com/watch?v=NLiXoXT_1T4
+                - heading "7 Simple & Tasty Rice Recipes | Rice Recipes Indian | Lunch ..." [level=3] [ref=e700]
+                - generic [ref=e705]:
+                  - generic [ref=e707]: YouTube · She Cooks
+                  - generic [ref=e709]: 58.5K+ views · 5 years ago
+              - button "About this result" [ref=e710] [cursor=pointer]:
+                - img [ref=e713]
+            - generic [ref=e715]:
+              - button "7 Simple & Tasty Rice Recipes | Rice Recipes Indian | Lunch ... by She Cooks on YouTube. Play on Google. 14:28" [ref=e716] [cursor=pointer]:
+                - generic [ref=e718]:
+                  - img [ref=e724]
+                  - generic [ref=e727]:
+                    - generic [ref=e728]: 14:28
+                    - img [ref=e731]
+              - generic [ref=e734]: "7 Simple & Tasty Rice Recipes | Rice Recipes Indian | Lunch Box Recipes | Simple Lunch Recipes 7 Simple & Tasty Rice Recipes Recipe 1: ..."
+            - button "10 key moments in this video" [ref=e739] [cursor=pointer]:
+              - generic [ref=e748]:
+                - generic [ref=e751]: 10 key moments in this video
+                - img [ref=e753]
+          - generic [ref=e760]:
+            - generic [ref=e763]:
+              - link "Indian lunch for my boy for school. Kichidi recipe below. The ... Instagram · spicegirlkitchen 64.7K+ likes · 11 months ago" [ref=e765] [cursor=pointer]:
+                - /url: https://www.instagram.com/reel/DJCncdev4Fs/?hl=en
+                - heading "Indian lunch for my boy for school. Kichidi recipe below. The ..." [level=3] [ref=e766]
+                - generic [ref=e771]:
+                  - generic [ref=e773]: Instagram · spicegirlkitchen
+                  - generic [ref=e775]: 64.7K+ likes · 11 months ago
+              - button "About this result" [ref=e776] [cursor=pointer]:
+                - img [ref=e779]
+            - generic [ref=e781]:
+              - link "Indian lunch for my boy for school. Kichidi recipe below. The ... by Shubhra Ramineni on Instagram. Play on Instagram. 0:19" [ref=e782] [cursor=pointer]:
+                - /url: https://www.instagram.com/reel/DJCncdev4Fs/?hl=en
+                - generic [ref=e784]:
+                  - img [ref=e787]
+                  - generic [ref=e791]: 0:19
+              - generic [ref=e793]: INGREDIENTS 1 cup rice ½ cup moong dal or lentils 1 cup mixed vegetables 1 cup soaked sabudana 1 cup paneer cubes 200 g minced chicken 1 tsp ...
+          - generic [ref=e800]:
+            - generic [ref=e803]:
+              - link "6 instant rice recipes for lunch box | quick, easy & healthy rice ... YouTube · Hebbars Kitchen 7.6L+ views · 6 years ago" [ref=e805] [cursor=pointer]:
+                - /url: https://www.youtube.com/watch?v=Rj9IcviSYU8
+                - heading "6 instant rice recipes for lunch box | quick, easy & healthy rice ..." [level=3] [ref=e806]
+                - generic [ref=e811]:
+                  - generic [ref=e813]: YouTube · Hebbars Kitchen
+                  - generic [ref=e815]: 7.6L+ views · 6 years ago
+              - button "About this result" [ref=e816] [cursor=pointer]:
+                - img [ref=e819]
+            - generic [ref=e821]:
+              - button "6 instant rice recipes for lunch box | quick, easy & healthy rice ... by Hebbars Kitchen on YouTube. Play on Google. 16:02" [ref=e822] [cursor=pointer]:
+                - generic [ref=e824]:
+                  - img [ref=e830]
+                  - generic [ref=e833]:
+                    - generic [ref=e834]: 16:02
+                    - img [ref=e837]
+              - generic [ref=e840]: "rice bath recipe: · paneer fried rice recipe: · puliyogare recipe: · vegetable rice recipe: · jeera rice recipe: · ghee rice recipe: · Music: ..."
+            - button "6 key moments in this video" [ref=e845] [cursor=pointer]:
+              - generic [ref=e854]:
+                - generic [ref=e857]: 6 key moments in this video
+                - img [ref=e859]
+            - generic [ref=e862]:
+              - text: "Missing: 200rs ‎| Show results with:"
+              - link "200rs" [ref=e863] [cursor=pointer]:
+                - /url: /search?sca_esv=d40b0936fbbbe394&q=lunch+recipe+with+rice+under+%22200rs%22&sa=X&ved=2ahUKEwjAsJqvl9STAxVYHdAFHS6zKyYQ5t4CegQIMBAu
+          - generic [ref=e869]:
+            - generic [ref=e872]:
+              - link "Less rice, More Protein and Fibre…….A portion controlled ... Instagram · laxmi.joe 3.3K+ likes · 5 months ago" [ref=e874] [cursor=pointer]:
+                - /url: https://www.instagram.com/reel/DQJwDZpEe6j/
+                - heading "Less rice, More Protein and Fibre…….A portion controlled ..." [level=3] [ref=e875]
+                - generic [ref=e880]:
+                  - generic [ref=e882]: Instagram · laxmi.joe
+                  - generic [ref=e884]: 3.3K+ likes · 5 months ago
+              - button "About this result" [ref=e885] [cursor=pointer]:
+                - img [ref=e888]
+            - generic [ref=e890]:
+              - link "Less rice, More Protein and Fibre…….A portion controlled ... by 𝙻𝚊𝚔𝚜𝚑𝚖𝚒 Prasad on Instagram. Play on Instagram. 0:45" [ref=e891] [cursor=pointer]:
+                - /url: https://www.instagram.com/reel/DQJwDZpEe6j/
+                - generic [ref=e893]:
+                  - img [ref=e896]
+                  - generic [ref=e900]: 0:45
+              - generic [ref=e902]: ... healthy meals including delivery for just 200 rs. Most schools in ... Lunch box | rice, boiled egg, sambar, carrot poriyal, cucumber ...
+          - generic [ref=e906]:
+            - generic [ref=e909]:
+              - link "Easy Ghee rice recipe in 10 mins 7483904514 Instagram · vp_vlogs_bengaluru 4K+ likes · 1 month ago" [ref=e911] [cursor=pointer]:
+                - /url: https://www.instagram.com/reel/DUniidVCXIs/
+                - heading "Easy Ghee rice recipe in 10 mins 7483904514" [level=3] [ref=e912]
+                - generic [ref=e917]:
+                  - generic [ref=e919]: Instagram · vp_vlogs_bengaluru
+                  - generic [ref=e921]: 4K+ likes · 1 month ago
+              - button "About this result" [ref=e922] [cursor=pointer]:
+                - img [ref=e925]
+            - generic [ref=e928]:
+              - generic [ref=e929]:
+                - text: "... meals. ✨ #BulletKolam #KarnatakaRice #AgedRice #PremiumGrains #collab ..."
+                - emphasis [ref=e930]: Only for 200 Rs
+                - text: "!! Available on Amazon and www.happi-planet.com"
+              - link "Read more" [ref=e931] [cursor=pointer]:
+                - /url: https://www.instagram.com/reel/DUniidVCXIs/#:~:text=meals.%20%F0%9F%8D%9A%E2%9C%A8%20%23BulletKolam%20%23KarnatakaRice%20%23AgedRice,%23PremiumGrains%20%23collab&text=Only%20for%20200%20Rs!!%20Available,on%20Amazon%20and%20www.happi%2Dplanet.com
+        - generic [ref=e933]:
+          - generic [ref=e938]:
+            - heading "People also search for" [level=2] [ref=e940]
+            - generic [ref=e942]:
+              - generic [ref=e943]:
+                - link "Variety rice for lunch Box" [ref=e947] [cursor=pointer]:
+                  - /url: /search?sca_esv=d40b0936fbbbe394&q=Variety+rice+for+lunch+Box&sa=X&ved=2ahUKEwjAsJqvl9STAxVYHdAFHS6zKyYQ1QJ6BAgvEAE
+                  - generic [ref=e948]:
+                    - generic [ref=e953]: Variety rice for lunch Box
+                    - img [ref=e957]
+                - link "7 variety rice" [ref=e962] [cursor=pointer]:
+                  - /url: /search?sca_esv=d40b0936fbbbe394&q=7+variety+rice&sa=X&ved=2ahUKEwjAsJqvl9STAxVYHdAFHS6zKyYQ1QJ6BAg5EAE
+                  - generic [ref=e963]:
+                    - generic [ref=e968]: 7 variety rice
+                    - img [ref=e972]
+                - link "Rice lunch box ideas for adults" [ref=e977] [cursor=pointer]:
+                  - /url: /search?sca_esv=d40b0936fbbbe394&q=Rice+lunch+box+ideas+for+adults&sa=X&ved=2ahUKEwjAsJqvl9STAxVYHdAFHS6zKyYQ1QJ6BAg2EAE
+                  - generic [ref=e978]:
+                    - generic [ref=e983]: Rice lunch box ideas for adults
+                    - img [ref=e987]
+                - link "Quick lunch recipes Indian vegetarian" [ref=e992] [cursor=pointer]:
+                  - /url: /search?sca_esv=d40b0936fbbbe394&q=Quick+lunch+recipes+Indian+vegetarian&sa=X&ved=2ahUKEwjAsJqvl9STAxVYHdAFHS6zKyYQ1QJ6BAg1EAE
+                  - generic [ref=e993]:
+                    - generic [ref=e998]: Quick lunch recipes Indian vegetarian
+                    - img [ref=e1002]
+              - generic [ref=e1004]:
+                - link "Variety rice recipes" [ref=e1008] [cursor=pointer]:
+                  - /url: /search?sca_esv=d40b0936fbbbe394&q=Variety+rice+recipes&sa=X&ved=2ahUKEwjAsJqvl9STAxVYHdAFHS6zKyYQ1QJ6BAg0EAE
+                  - generic [ref=e1009]:
+                    - generic [ref=e1014]: Variety rice recipes
+                    - img [ref=e1018]
+                - link "Variety rice name list" [ref=e1023] [cursor=pointer]:
+                  - /url: /search?sca_esv=d40b0936fbbbe394&q=Variety+rice+name+list&sa=X&ved=2ahUKEwjAsJqvl9STAxVYHdAFHS6zKyYQ1QJ6BAgzEAE
+                  - generic [ref=e1024]:
+                    - generic [ref=e1029]: Variety rice name list
+                    - img [ref=e1033]
+                - link "Kid-friendly rice recipes Indian" [ref=e1038] [cursor=pointer]:
+                  - /url: /search?sca_esv=d40b0936fbbbe394&q=Kid-friendly+rice+recipes+Indian&sa=X&ved=2ahUKEwjAsJqvl9STAxVYHdAFHS6zKyYQ1QJ6BAgyEAE
+                  - generic [ref=e1039]:
+                    - generic [ref=e1044]: Kid-friendly rice recipes Indian
+                    - img [ref=e1048]
+                - link "South Indian variety rice list" [ref=e1053] [cursor=pointer]:
+                  - /url: /search?sca_esv=d40b0936fbbbe394&q=South+Indian+variety+rice+list&sa=X&ved=2ahUKEwjAsJqvl9STAxVYHdAFHS6zKyYQ1QJ6BAgxEAE
+                  - generic [ref=e1054]:
+                    - generic [ref=e1059]: South Indian variety rice list
+                    - img [ref=e1063]
+          - navigation [ref=e1065]:
+            - heading "Page navigation" [level=1] [ref=e1066]
+            - text: "1"
+            - link "Page 2" [ref=e1069] [cursor=pointer]:
+              - /url: /search?q=lunch+recipe+with+rice+under+200rs&sca_esv=d40b0936fbbbe394&ei=EwLRaYBb2LrA3g-u5q6xAg&start=10&sa=N&sstk=Af77f_fHbDNQazx4uEYC_Ol6kUZu4pjVVGitagDMJgm5Uyq9hbRJbAiWq4S2FBXro-cNmJzxhRVd717P2scf_9kjhj0tYBB83OOyjA&ved=2ahUKEwjAsJqvl9STAxVYHdAFHS6zKyYQ8tMDegQICxAE
+              - text: "2"
+            - link "Page 3" [ref=e1071] [cursor=pointer]:
+              - /url: /search?q=lunch+recipe+with+rice+under+200rs&sca_esv=d40b0936fbbbe394&ei=EwLRaYBb2LrA3g-u5q6xAg&start=20&sa=N&sstk=Af77f_fHbDNQazx4uEYC_Ol6kUZu4pjVVGitagDMJgm5Uyq9hbRJbAiWq4S2FBXro-cNmJzxhRVd717P2scf_9kjhj0tYBB83OOyjA&ved=2ahUKEwjAsJqvl9STAxVYHdAFHS6zKyYQ8tMDegQICxAG
+              - text: "3"
+            - link "Page 4" [ref=e1073] [cursor=pointer]:
+              - /url: /search?q=lunch+recipe+with+rice+under+200rs&sca_esv=d40b0936fbbbe394&ei=EwLRaYBb2LrA3g-u5q6xAg&start=30&sa=N&sstk=Af77f_fHbDNQazx4uEYC_Ol6kUZu4pjVVGitagDMJgm5Uyq9hbRJbAiWq4S2FBXro-cNmJzxhRVd717P2scf_9kjhj0tYBB83OOyjA&ved=2ahUKEwjAsJqvl9STAxVYHdAFHS6zKyYQ8tMDegQICxAI
+              - text: "4"
+            - link "Page 5" [ref=e1075] [cursor=pointer]:
+              - /url: /search?q=lunch+recipe+with+rice+under+200rs&sca_esv=d40b0936fbbbe394&ei=EwLRaYBb2LrA3g-u5q6xAg&start=40&sa=N&sstk=Af77f_fHbDNQazx4uEYC_Ol6kUZu4pjVVGitagDMJgm5Uyq9hbRJbAiWq4S2FBXro-cNmJzxhRVd717P2scf_9kjhj0tYBB83OOyjA&ved=2ahUKEwjAsJqvl9STAxVYHdAFHS6zKyYQ8tMDegQICxAK
+              - text: "5"
+            - link "Page 6" [ref=e1077] [cursor=pointer]:
+              - /url: /search?q=lunch+recipe+with+rice+under+200rs&sca_esv=d40b0936fbbbe394&ei=EwLRaYBb2LrA3g-u5q6xAg&start=50&sa=N&sstk=Af77f_fHbDNQazx4uEYC_Ol6kUZu4pjVVGitagDMJgm5Uyq9hbRJbAiWq4S2FBXro-cNmJzxhRVd717P2scf_9kjhj0tYBB83OOyjA&ved=2ahUKEwjAsJqvl9STAxVYHdAFHS6zKyYQ8tMDegQICxAM
+              - text: "6"
+            - link "Page 7" [ref=e1079] [cursor=pointer]:
+              - /url: /search?q=lunch+recipe+with+rice+under+200rs&sca_esv=d40b0936fbbbe394&ei=EwLRaYBb2LrA3g-u5q6xAg&start=60&sa=N&sstk=Af77f_fHbDNQazx4uEYC_Ol6kUZu4pjVVGitagDMJgm5Uyq9hbRJbAiWq4S2FBXro-cNmJzxhRVd717P2scf_9kjhj0tYBB83OOyjA&ved=2ahUKEwjAsJqvl9STAxVYHdAFHS6zKyYQ8tMDegQICxAO
+              - text: "7"
+            - link "Page 8" [ref=e1081] [cursor=pointer]:
+              - /url: /search?q=lunch+recipe+with+rice+under+200rs&sca_esv=d40b0936fbbbe394&ei=EwLRaYBb2LrA3g-u5q6xAg&start=70&sa=N&sstk=Af77f_fHbDNQazx4uEYC_Ol6kUZu4pjVVGitagDMJgm5Uyq9hbRJbAiWq4S2FBXro-cNmJzxhRVd717P2scf_9kjhj0tYBB83OOyjA&ved=2ahUKEwjAsJqvl9STAxVYHdAFHS6zKyYQ8tMDegQICxAQ
+              - text: "8"
+            - link "Page 9" [ref=e1083] [cursor=pointer]:
+              - /url: /search?q=lunch+recipe+with+rice+under+200rs&sca_esv=d40b0936fbbbe394&ei=EwLRaYBb2LrA3g-u5q6xAg&start=80&sa=N&sstk=Af77f_fHbDNQazx4uEYC_Ol6kUZu4pjVVGitagDMJgm5Uyq9hbRJbAiWq4S2FBXro-cNmJzxhRVd717P2scf_9kjhj0tYBB83OOyjA&ved=2ahUKEwjAsJqvl9STAxVYHdAFHS6zKyYQ8tMDegQICxAS
+              - text: "9"
+            - link "Page 10" [ref=e1085] [cursor=pointer]:
+              - /url: /search?q=lunch+recipe+with+rice+under+200rs&sca_esv=d40b0936fbbbe394&ei=EwLRaYBb2LrA3g-u5q6xAg&start=90&sa=N&sstk=Af77f_fHbDNQazx4uEYC_Ol6kUZu4pjVVGitagDMJgm5Uyq9hbRJbAiWq4S2FBXro-cNmJzxhRVd717P2scf_9kjhj0tYBB83OOyjA&ved=2ahUKEwjAsJqvl9STAxVYHdAFHS6zKyYQ8tMDegQICxAU
+              - text: "10"
+            - heading "Next" [level=2] [ref=e1087]:
+              - link "Next" [ref=e1088] [cursor=pointer]:
+                - /url: /search?q=lunch+recipe+with+rice+under+200rs&sca_esv=d40b0936fbbbe394&ei=EwLRaYBb2LrA3g-u5q6xAg&start=10&sa=N&sstk=Af77f_fHbDNQazx4uEYC_Ol6kUZu4pjVVGitagDMJgm5Uyq9hbRJbAiWq4S2FBXro-cNmJzxhRVd717P2scf_9kjhj0tYBB83OOyjA&ved=2ahUKEwjAsJqvl9STAxVYHdAFHS6zKyYQ8NMDegQICxAW
+                - generic [ref=e1090]: Next
+        - navigation
+    - contentinfo [ref=e1091]:
+      - heading "Footer links" [level=1] [ref=e1092]
+      - generic [ref=e1096]:
+        - generic [ref=e1098]:
+          - text: India
+          - generic [ref=e1100]:
+            - button "560015, Bengaluru, Karnataka - From your IP address" [ref=e1102] [cursor=pointer]:
+              - generic [ref=e1103]: 560015, Bengaluru, Karnataka
+              - generic [ref=e1105]:
+                - text: "-"
+                - generic [ref=e1106]: From your IP address
+            - text: "-"
+            - button "Update location" [ref=e1108] [cursor=pointer]: Update location
+        - generic [ref=e1111]:
+          - link "Help" [ref=e1112] [cursor=pointer]:
+            - /url: https://support.google.com/websearch/?p=ws_results_help&hl=en-IN&fg=1
+          - link "Send feedback" [ref=e1113] [cursor=pointer]:
+            - /url: "#"
+          - link "Privacy" [ref=e1114] [cursor=pointer]:
+            - /url: https://policies.google.com/privacy?hl=en-IN&fg=1
+          - link "Terms" [ref=e1115] [cursor=pointer]:
+            - /url: https://policies.google.com/terms?hl=en-IN&fg=1

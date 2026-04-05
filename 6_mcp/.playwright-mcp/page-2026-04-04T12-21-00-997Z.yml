@@ -1,0 +1,131 @@
+- generic [ref=e2]:
+  - link "Skip to content" [ref=e3] [cursor=pointer]:
+    - /url: "#main-content"
+  - paragraph [ref=e6]:
+    - link "Download my free eBook! →" [ref=e7] [cursor=pointer]:
+      - /url: https://www.cookwithmanali.com/download-my-ebook/
+  - banner [ref=e8]:
+    - generic [ref=e9]:
+      - link "Cook With Manali Home" [ref=e10] [cursor=pointer]:
+        - /url: https://www.cookwithmanali.com
+        - img [ref=e11]
+      - navigation [ref=e13]:
+        - generic [ref=e14]:
+          - list:
+            - listitem [ref=e15]:
+              - link "Home" [ref=e16] [cursor=pointer]:
+                - /url: https://www.cookwithmanali.com/
+            - listitem [ref=e17]:
+              - link "Recipes" [ref=e18] [cursor=pointer]:
+                - /url: https://www.cookwithmanali.com/recipe-index/
+              - button "Submenu Dropdown" [ref=e19] [cursor=pointer]:
+                - img [ref=e20]
+              - list [ref=e22]:
+                - listitem [ref=e23]:
+                  - link "Indian Street Food" [ref=e24] [cursor=pointer]:
+                    - /url: https://www.cookwithmanali.com/category/recipes/indian-street-food/
+                - listitem [ref=e25]:
+                  - link "Indian Main Courses" [ref=e26] [cursor=pointer]:
+                    - /url: https://www.cookwithmanali.com/category/recipes/indian-main-course-vegetarian-recipes/
+                - listitem [ref=e27]:
+                  - link "Indian Breads" [ref=e28] [cursor=pointer]:
+                    - /url: https://www.cookwithmanali.com/category/recipes/indian-breads/
+                - listitem [ref=e29]:
+                  - link "Sauces, Chutneys & Dips" [ref=e30] [cursor=pointer]:
+                    - /url: https://www.cookwithmanali.com/category/recipes/sauces-chutneys-dips/
+                - listitem [ref=e31]:
+                  - link "Snacks, Appetizers, Sides" [ref=e32] [cursor=pointer]:
+                    - /url: https://www.cookwithmanali.com/category/recipes/snacks-appetizers-sides/
+                - listitem [ref=e33]:
+                  - link "Eggless Cakes & Cookies" [ref=e34] [cursor=pointer]:
+                    - /url: https://www.cookwithmanali.com/category/recipes/eggless-cakes-cookies/
+            - listitem [ref=e35]:
+              - link "About" [ref=e36] [cursor=pointer]:
+                - /url: https://www.cookwithmanali.com/meetme/
+            - listitem [ref=e37]:
+              - link "Contact" [ref=e38] [cursor=pointer]:
+                - /url: https://www.cookwithmanali.com/contact/
+            - listitem [ref=e39]:
+              - button "My Favorites" [ref=e40] [cursor=pointer]:
+                - img [ref=e41]
+                - generic [ref=e43]: My Favorites
+            - listitem [ref=e44]:
+              - button "Search" [ref=e45] [cursor=pointer]:
+                - img [ref=e46]
+  - main [ref=e50]:
+    - generic [ref=e51]:
+      - heading "Nothing Found" [level=1] [ref=e53]
+      - generic [ref=e54]:
+        - paragraph [ref=e55]: It seems we can’t find what you’re looking for. Perhaps searching can help.
+        - search [ref=e56]:
+          - generic [ref=e57]: Search
+          - generic [ref=e58]:
+            - searchbox "Search" [ref=e59]
+            - button "Search" [ref=e60] [cursor=pointer]:
+              - img [ref=e61]
+  - paragraph [ref=e65]: As Seen In
+  - contentinfo [ref=e76]:
+    - generic [ref=e77]:
+      - link "Back to top" [ref=e78] [cursor=pointer]:
+        - /url: "#top"
+        - generic [ref=e79]: Back to top
+        - img [ref=e80]
+      - generic [ref=e82]:
+        - link "Cook With Manali" [ref=e83] [cursor=pointer]:
+          - /url: https://www.cookwithmanali.com/
+          - generic [ref=e84]: Cook With Manali
+          - img [ref=e85]
+        - list [ref=e88]:
+          - listitem [ref=e89]:
+            - link "Home" [ref=e90] [cursor=pointer]:
+              - /url: https://www.cookwithmanali.com/
+          - listitem [ref=e91]:
+            - link "Recipes" [ref=e92] [cursor=pointer]:
+              - /url: https://www.cookwithmanali.com/recipe-index/
+          - listitem [ref=e93]:
+            - link "Web Stories" [ref=e94] [cursor=pointer]:
+              - /url: https://www.cookwithmanali.com/web-stories/
+          - listitem [ref=e95]:
+            - link "About" [ref=e96] [cursor=pointer]:
+              - /url: https://www.cookwithmanali.com/meetme/
+          - listitem [ref=e97]:
+            - link "Contact" [ref=e98] [cursor=pointer]:
+              - /url: https://www.cookwithmanali.com/contact/
+  - generic [ref=e100]:
+    - list [ref=e101]:
+      - listitem [ref=e102]:
+        - link "Instagram" [ref=e103] [cursor=pointer]:
+          - /url: https://instagram.com/cookwithmanali
+          - img [ref=e104]
+      - listitem [ref=e106]:
+        - link "YouTube" [ref=e107] [cursor=pointer]:
+          - /url: https://www.youtube.com/channel/UC1BtDXcgSV2esmwKLbtTGiw
+          - img [ref=e108]
+      - listitem [ref=e110]:
+        - link "Facebook" [ref=e111] [cursor=pointer]:
+          - /url: https://www.facebook.com/cookwithmanali
+          - img [ref=e112]
+      - listitem [ref=e114]:
+        - link "Twitter" [ref=e115] [cursor=pointer]:
+          - /url: https://twitter.com/cookwithmanali
+          - img [ref=e116]
+      - listitem [ref=e118]:
+        - link "Pinterest" [ref=e119] [cursor=pointer]:
+          - /url: https://pinterest.com/cookwithmanali
+          - img [ref=e120]
+      - listitem [ref=e122]:
+        - link "TikTok" [ref=e123] [cursor=pointer]:
+          - /url: https://www.tiktok.com/@cookwithmanali?lang=en
+          - img [ref=e124]
+    - paragraph [ref=e126]:
+      - text: ©2026 Cook With Manali. All rights reserved.
+      - generic [ref=e127]:
+        - link "Privacy Policy" [ref=e128] [cursor=pointer]:
+          - /url: https://www.cookwithmanali.com/privacy/
+        - text: •
+        - link "Disclosure Policy" [ref=e129] [cursor=pointer]:
+          - /url: https://www.cookwithmanali.com/affiliate-advertising-disclosure/
+        - text: • Powered by
+        - link "CultivateWP" [ref=e130] [cursor=pointer]:
+          - /url: https://cultivatewp.com
+        - text: .

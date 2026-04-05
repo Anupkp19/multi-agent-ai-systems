@@ -1,0 +1,301 @@
+- generic [active] [ref=e1]:
+  - text: 
+  - generic [ref=e2]:
+    - generic [ref=e3]:
+      - text: 
+      - generic [ref=e8]:
+        - link "Hebbars Kitchen" [ref=e13] [cursor=pointer]:
+          - /url: https://hebbarskitchen.com/
+          - generic [ref=e15]: Hebbars Kitchen
+        - generic [ref=e18]:
+          - text:  
+          - list [ref=e19]:
+            - listitem [ref=e20]:
+              - link "Home" [ref=e21] [cursor=pointer]:
+                - /url: https://hebbarskitchen.com/
+                - generic [ref=e22]: Home
+            - listitem [ref=e23]:
+              - link "Breakfast " [ref=e24] [cursor=pointer]:
+                - /url: https://hebbarskitchen.com/recipes/breakfast-recipes/
+                - generic [ref=e25]: Breakfast
+                - generic [ref=e26]: 
+            - listitem [ref=e27]:
+              - link "Rice " [ref=e28] [cursor=pointer]:
+                - /url: https://hebbarskitchen.com/recipes/indian-rice-recipes/
+                - generic [ref=e29]: Rice
+                - generic [ref=e30]: 
+            - listitem [ref=e31]:
+              - link "Paneer" [ref=e32] [cursor=pointer]:
+                - /url: https://hebbarskitchen.com/recipes/top-paneer-recipes-paneer-curries/
+                - generic [ref=e33]: Paneer
+            - listitem [ref=e34]:
+              - link "Snacks " [ref=e35] [cursor=pointer]:
+                - /url: https://hebbarskitchen.com/recipes/indian-snacks-recipes/
+                - generic [ref=e36]: Snacks
+                - generic [ref=e37]: 
+            - listitem [ref=e38]:
+              - link "Sabzi " [ref=e39] [cursor=pointer]:
+                - /url: https://hebbarskitchen.com/recipes/indian-curry-recipes/
+                - generic [ref=e40]: Sabzi
+                - generic [ref=e41]: 
+            - listitem [ref=e42]:
+              - link "Sweets " [ref=e43] [cursor=pointer]:
+                - /url: https://hebbarskitchen.com/recipes/indian-sweets-recipes/
+                - generic [ref=e44]: Sweets
+                - generic [ref=e45]: 
+            - listitem [ref=e46]:
+              - link "Lunch " [ref=e47] [cursor=pointer]:
+                - /url: https://hebbarskitchen.com/recipes/lunch-course-recipes/
+                - generic [ref=e48]: Lunch
+                - generic [ref=e49]: 
+        - button "Search" [ref=e54] [cursor=pointer]:
+          - img [ref=e56]
+    - generic [ref=e61]:
+      - generic [ref=e65]:
+        - heading "Ooops... Error 404" [level=3] [ref=e70]
+        - paragraph [ref=e72]: Sorry, but the page you are looking for doesn't exist.
+        - link "Go to the homepage" [ref=e75] [cursor=pointer]:
+          - /url: "#"
+      - generic [ref=e81]:
+        - generic [ref=e83]:
+          - generic [ref=e84]:
+            - link "eggless cakes recipes" [ref=e85] [cursor=pointer]:
+              - /url: https://hebbarskitchen.com/recipes/eggless-cakes-recipes/
+            - link "Brownie Recipe | Eggless Chocolate Brownies" [ref=e87] [cursor=pointer]:
+              - /url: https://hebbarskitchen.com/brownie-recipe-chocolate-brownies/
+          - generic [ref=e89]:
+            - heading "Brownie Recipe | Eggless Chocolate Brownies" [level=3] [ref=e90]:
+              - link "Brownie Recipe | Eggless Chocolate Brownies" [ref=e91] [cursor=pointer]:
+                - /url: https://hebbarskitchen.com/brownie-recipe-chocolate-brownies/
+            - generic [ref=e93]:
+              - generic [ref=e94]:
+                - link "Hebbars Kitchen" [ref=e95] [cursor=pointer]:
+                  - /url: https://hebbarskitchen.com/author/hebbar5_wp/
+                - generic [ref=e96]: "-"
+              - time [ref=e98]: April 1, 2026
+              - link "0" [ref=e100] [cursor=pointer]:
+                - /url: https://hebbarskitchen.com/brownie-recipe-chocolate-brownies/#respond
+        - generic [ref=e102]:
+          - generic [ref=e103]:
+            - link "instant recipes" [ref=e104] [cursor=pointer]:
+              - /url: https://hebbarskitchen.com/recipes/instant-recipes/
+            - link "Roti Pizza Recipe | Pizza Roti with Leftover Chapati" [ref=e106] [cursor=pointer]:
+              - /url: https://hebbarskitchen.com/roti-pizza-recipe-pizza-roti-chapati-2/
+            - generic: 00:01:11
+          - generic [ref=e108]:
+            - heading "Roti Pizza Recipe | Pizza Roti with Leftover Chapati" [level=3] [ref=e109]:
+              - link "Roti Pizza Recipe | Pizza Roti with Leftover Chapati" [ref=e110] [cursor=pointer]:
+                - /url: https://hebbarskitchen.com/roti-pizza-recipe-pizza-roti-chapati-2/
+            - generic [ref=e112]:
+              - generic [ref=e113]:
+                - link "Hebbars Kitchen" [ref=e114] [cursor=pointer]:
+                  - /url: https://hebbarskitchen.com/author/hebbar5_wp/
+                - generic [ref=e115]: "-"
+              - time [ref=e117]: March 30, 2026
+              - link "0" [ref=e119] [cursor=pointer]:
+                - /url: https://hebbarskitchen.com/roti-pizza-recipe-pizza-roti-chapati-2/#respond
+        - generic [ref=e121]:
+          - generic [ref=e122]:
+            - link "dessert" [ref=e123] [cursor=pointer]:
+              - /url: https://hebbarskitchen.com/recipes/dessert-recipes/
+            - link "Mango Shrikhand Recipe | Amrakhand Dessert" [ref=e125] [cursor=pointer]:
+              - /url: https://hebbarskitchen.com/mango-shrikhand-recipe-amrakhand-recipe/
+            - generic: 00:01:05
+          - generic [ref=e127]:
+            - heading "Mango Shrikhand Recipe | Amrakhand Dessert" [level=3] [ref=e128]:
+              - link "Mango Shrikhand Recipe | Amrakhand Dessert" [ref=e129] [cursor=pointer]:
+                - /url: https://hebbarskitchen.com/mango-shrikhand-recipe-amrakhand-recipe/
+            - generic [ref=e131]:
+              - generic [ref=e132]:
+                - link "Hebbars Kitchen" [ref=e133] [cursor=pointer]:
+                  - /url: https://hebbarskitchen.com/author/hebbar5_wp/
+                - generic [ref=e134]: "-"
+              - time [ref=e136]: March 24, 2026
+              - link "13" [ref=e138] [cursor=pointer]:
+                - /url: https://hebbarskitchen.com/mango-shrikhand-recipe-amrakhand-recipe/#comments
+        - generic [ref=e140]:
+          - generic [ref=e141]:
+            - link "appetizer" [ref=e142] [cursor=pointer]:
+              - /url: https://hebbarskitchen.com/recipes/appetizer-recipes/
+            - link "Mushroom Pepper Fry Recipe – Healthy Snack" [ref=e144] [cursor=pointer]:
+              - /url: https://hebbarskitchen.com/mushroom-pepper-fry-recipe-pepper/
+          - generic [ref=e146]:
+            - heading "Mushroom Pepper Fry Recipe – Healthy Snack" [level=3] [ref=e147]:
+              - link "Mushroom Pepper Fry Recipe – Healthy Snack" [ref=e148] [cursor=pointer]:
+                - /url: https://hebbarskitchen.com/mushroom-pepper-fry-recipe-pepper/
+            - generic [ref=e150]:
+              - generic [ref=e151]:
+                - link "Hebbars Kitchen" [ref=e152] [cursor=pointer]:
+                  - /url: https://hebbarskitchen.com/author/hebbar5_wp/
+                - generic [ref=e153]: "-"
+              - time [ref=e155]: March 17, 2026
+              - link "0" [ref=e157] [cursor=pointer]:
+                - /url: https://hebbarskitchen.com/mushroom-pepper-fry-recipe-pepper/#respond
+        - generic [ref=e159]:
+          - generic [ref=e160]:
+            - link "indian street food" [ref=e161] [cursor=pointer]:
+              - /url: https://hebbarskitchen.com/recipes/indian-street-food-cuisines-recipes/
+            - link "Aloo Tikki Recipe | Multi Purpose Aloo Patties" [ref=e163] [cursor=pointer]:
+              - /url: https://hebbarskitchen.com/aloo-tikki-recipe-aloo-ki-tikki/
+          - generic [ref=e165]:
+            - heading "Aloo Tikki Recipe | Multi Purpose Aloo Patties" [level=3] [ref=e166]:
+              - link "Aloo Tikki Recipe | Multi Purpose Aloo Patties" [ref=e167] [cursor=pointer]:
+                - /url: https://hebbarskitchen.com/aloo-tikki-recipe-aloo-ki-tikki/
+            - generic [ref=e169]:
+              - generic [ref=e170]:
+                - link "Hebbars Kitchen" [ref=e171] [cursor=pointer]:
+                  - /url: https://hebbarskitchen.com/author/hebbar5_wp/
+                - generic [ref=e172]: "-"
+              - time [ref=e174]: March 11, 2026
+              - link "0" [ref=e176] [cursor=pointer]:
+                - /url: https://hebbarskitchen.com/aloo-tikki-recipe-aloo-ki-tikki/#respond
+        - generic [ref=e178]:
+          - generic [ref=e179]:
+            - link "diwali sweets" [ref=e180] [cursor=pointer]:
+              - /url: https://hebbarskitchen.com/recipes/diwali-sweets/
+            - link "Badam Puri Recipe | Badam Poori Sweet" [ref=e182] [cursor=pointer]:
+              - /url: https://hebbarskitchen.com/badam-puri-recipe-badam-poori-badam-puri/
+          - generic [ref=e184]:
+            - heading "Badam Puri Recipe | Badam Poori Sweet" [level=3] [ref=e185]:
+              - link "Badam Puri Recipe | Badam Poori Sweet" [ref=e186] [cursor=pointer]:
+                - /url: https://hebbarskitchen.com/badam-puri-recipe-badam-poori-badam-puri/
+            - generic [ref=e188]:
+              - generic [ref=e189]:
+                - link "Hebbars Kitchen" [ref=e190] [cursor=pointer]:
+                  - /url: https://hebbarskitchen.com/author/hebbar5_wp/
+                - generic [ref=e191]: "-"
+              - time [ref=e193]: March 9, 2026
+              - link "0" [ref=e195] [cursor=pointer]:
+                - /url: https://hebbarskitchen.com/badam-puri-recipe-badam-poori-badam-puri/#respond
+    - generic [ref=e199]:
+      - generic [ref=e203]:
+        - heading "Stay in Touch" [level=4] [ref=e206]:
+          - generic [ref=e207]: Stay in Touch
+        - paragraph [ref=e209]: Please subscribe to our newsletter to get the latest news in your domain of interest. Don't forget to follow us on social networks!
+        - generic [ref=e211]:
+          - link "" [ref=e213] [cursor=pointer]:
+            - /url: https://www.facebook.com/hebbars.kitchen/
+            - generic [ref=e214]: 
+          - link "" [ref=e216] [cursor=pointer]:
+            - /url: https://www.instagram.com/hebbars.kitchen/
+            - generic [ref=e217]: 
+          - link "" [ref=e219] [cursor=pointer]:
+            - /url: mailto:hebbars.kitchen@gmail.com
+            - generic [ref=e220]: 
+          - link "" [ref=e222] [cursor=pointer]:
+            - /url: https://www.pinterest.com/hebbarskitchen/
+            - generic [ref=e223]: 
+          - link "" [ref=e225] [cursor=pointer]:
+            - /url: https://hebbarskitchen.com/feed/
+            - generic [ref=e226]: 
+          - link "" [ref=e228] [cursor=pointer]:
+            - /url: https://twitter.com/HebbarsKitchen
+            - generic [ref=e229]: 
+          - link "" [ref=e231] [cursor=pointer]:
+            - /url: https://www.youtube.com/channel/UCPPIsrNlEkaFQBk-4uNkOaw
+            - generic [ref=e232]: 
+      - generic [ref=e236]:
+        - link "Hebbars Kitchen Indian Veg Recipes" [ref=e239] [cursor=pointer]:
+          - /url: https://hebbarskitchen.com/
+          - generic [ref=e240]:
+            - generic [ref=e241]: Hebbars Kitchen
+            - generic [ref=e242]: Indian Veg Recipes
+        - generic [ref=e243]:
+          - generic [ref=e247]:
+            - heading "Popular" [level=4] [ref=e249]:
+              - generic [ref=e250]: Popular
+            - generic [ref=e251]:
+              - generic [ref=e254]:
+                - link "cooking tips, tricks, methods" [ref=e255] [cursor=pointer]:
+                  - /url: https://hebbarskitchen.com/recipes/cooking-tips-tricks-methods/
+                - heading "top 5 curd benefits | diy home remedies with curd – health & beauty" [level=3] [ref=e256]:
+                  - link "top 5 curd benefits | diy home remedies with curd – health & beauty" [ref=e257] [cursor=pointer]:
+                    - /url: https://hebbarskitchen.com/top-5-curd-benefits-diy-home-remedies/
+              - generic [ref=e260]:
+                - link "cooking tips, tricks, methods" [ref=e261] [cursor=pointer]:
+                  - /url: https://hebbarskitchen.com/recipes/cooking-tips-tricks-methods/
+                - heading "top 6 coconut oil benefits | diy home remedies with coconut oil" [level=3] [ref=e262]:
+                  - link "top 6 coconut oil benefits | diy home remedies with coconut oil" [ref=e263] [cursor=pointer]:
+                    - /url: https://hebbarskitchen.com/top-6-coconut-oil-benefits-home-remedies/
+              - generic [ref=e266]:
+                - link "dinner recipes" [ref=e267] [cursor=pointer]:
+                  - /url: https://hebbarskitchen.com/recipes/dinner-course-recipes/
+                - heading "Kashmiri Pulao Recipe | Authentic Saffron Rice Pulao" [level=3] [ref=e268]:
+                  - link "Kashmiri Pulao Recipe | Authentic Saffron Rice Pulao" [ref=e269] [cursor=pointer]:
+                    - /url: https://hebbarskitchen.com/kashmiri-pulao-recipe-saffron-rice/
+              - generic [ref=e272]:
+                - link "appetizer" [ref=e273] [cursor=pointer]:
+                  - /url: https://hebbarskitchen.com/recipes/appetizer-recipes/
+                - heading "cocktail samosa recipe | party samosa recipe with samosa sheets" [level=3] [ref=e274]:
+                  - link "cocktail samosa recipe | party samosa recipe with samosa sheets" [ref=e275] [cursor=pointer]:
+                    - /url: https://hebbarskitchen.com/cocktail-samosa-recipe-party-samosa/
+              - generic [ref=e278]:
+                - link "dessert" [ref=e279] [cursor=pointer]:
+                  - /url: https://hebbarskitchen.com/recipes/dessert-recipes/
+                - heading "mug cake | microwave cake recipe | brownie & red velvet mug cake" [level=3] [ref=e280]:
+                  - link "mug cake | microwave cake recipe | brownie & red velvet mug cake" [ref=e281] [cursor=pointer]:
+                    - /url: https://hebbarskitchen.com/mug-cake-recipe-microwave-cake-recipe/
+          - generic [ref=e285]:
+            - heading "What's New" [level=4] [ref=e287]:
+              - generic [ref=e288]: What's New
+            - generic [ref=e289]:
+              - generic [ref=e292]:
+                - link "diwali sweets" [ref=e293] [cursor=pointer]:
+                  - /url: https://hebbarskitchen.com/recipes/diwali-sweets/
+                - heading "Badam Puri Recipe | Badam Poori Sweet" [level=3] [ref=e294]:
+                  - link "Badam Puri Recipe | Badam Poori Sweet" [ref=e295] [cursor=pointer]:
+                    - /url: https://hebbarskitchen.com/badam-puri-recipe-badam-poori-badam-puri/
+              - generic [ref=e298]:
+                - link "curry recipes" [ref=e299] [cursor=pointer]:
+                  - /url: https://hebbarskitchen.com/recipes/indian-curry-recipes/
+                - heading "Veg Kadai Recipe | Kadai Vegetable Sabzi" [level=3] [ref=e300]:
+                  - link "Veg Kadai Recipe | Kadai Vegetable Sabzi" [ref=e301] [cursor=pointer]:
+                    - /url: https://hebbarskitchen.com/veg-kadai-recipe-kadai-vegetable-recipe/
+              - generic [ref=e304]:
+                - link "dessert" [ref=e305] [cursor=pointer]:
+                  - /url: https://hebbarskitchen.com/recipes/dessert-recipes/
+                - heading "Malpua Recipe | Juicy & Fluffy Malpura" [level=3] [ref=e306]:
+                  - link "Malpua Recipe | Juicy & Fluffy Malpura" [ref=e307] [cursor=pointer]:
+                    - /url: https://hebbarskitchen.com/easy-malpua-recipe-malpura-recipe/
+              - generic [ref=e310]:
+                - link "curry recipes" [ref=e311] [cursor=pointer]:
+                  - /url: https://hebbarskitchen.com/recipes/indian-curry-recipes/
+                - heading "Bhindi Masala Recipe – Dhaba Style" [level=3] [ref=e312]:
+                  - link "Bhindi Masala Recipe – Dhaba Style" [ref=e313] [cursor=pointer]:
+                    - /url: https://hebbarskitchen.com/bhindi-masala-recipe-bhindi-ki-gravy/
+              - generic [ref=e316]:
+                - link "breakfast recipes" [ref=e317] [cursor=pointer]:
+                  - /url: https://hebbarskitchen.com/recipes/breakfast-recipes/
+                - heading "Ragi Dosa Recipe – Instant & Healthy" [level=3] [ref=e318]:
+                  - link "Ragi Dosa Recipe – Instant & Healthy" [ref=e319] [cursor=pointer]:
+                    - /url: https://hebbarskitchen.com/instant-ragi-dosa-recipe-finger-millet/
+          - generic [ref=e322]:
+            - heading "Search Recipes" [level=4] [ref=e325]:
+              - generic [ref=e326]: Search Recipes
+            - search [ref=e330]:
+              - textbox [ref=e331]:
+                - /placeholder: " "
+              - button "Search" [ref=e332] [cursor=pointer]:
+                - generic [ref=e333]: Search
+          - list [ref=e340]:
+            - listitem [ref=e341]:
+              - link "Recipes Collection" [ref=e342] [cursor=pointer]:
+                - /url: https://hebbarskitchen.com/recipes/recipes-collection/
+                - generic [ref=e343]: Recipes Collection
+            - listitem [ref=e344]:
+              - link "Video Recipes" [ref=e345] [cursor=pointer]:
+                - /url: https://hebbarskitchen.com/hebbars-kitchen-recipes-videos/
+                - generic [ref=e346]: Video Recipes
+            - listitem [ref=e347]:
+              - link "Contact Us" [ref=e348] [cursor=pointer]:
+                - /url: https://hebbarskitchen.com/contact-us/
+                - generic [ref=e349]: Contact Us
+            - listitem [ref=e350]:
+              - link "Privacy" [ref=e351] [cursor=pointer]:
+                - /url: https://hebbarskitchen.com/privacy-policy/
+                - generic [ref=e352]: Privacy
+        - paragraph [ref=e358]:
+          - text: ©
+          - link "Hebbars Kitchen" [ref=e359] [cursor=pointer]:
+            - /url: https://hebbarskitchen.com/
+          - text: Indian Veg Recipes | All Rights Reserved

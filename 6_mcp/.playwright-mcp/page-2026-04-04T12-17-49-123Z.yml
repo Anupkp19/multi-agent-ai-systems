@@ -1,0 +1,684 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - link "Skip to Content" [ref=e3] [cursor=pointer]:
+      - /url: "#main-content"
+    - navigation [ref=e4]:
+      - generic [ref=e5]:
+        - link "Newsletter" [ref=e9] [cursor=pointer]:
+          - /url: https://www.delish.com/email/delish-newsletter/
+          - img [ref=e11]
+          - text: Newsletter
+        - generic [ref=e15]:
+          - search [ref=e16]:
+            - generic [ref=e17]: Search
+            - generic [ref=e19]:
+              - textbox "Search" [ref=e20]:
+                - /placeholder: What are you hungry for?
+              - button "Search" [ref=e22] [cursor=pointer]:
+                - img [ref=e24]
+          - link "Delish" [ref=e26] [cursor=pointer]:
+            - /url: /
+            - img [ref=e29]
+          - generic [ref=e31]:
+            - link "Sign In" [ref=e33] [cursor=pointer]:
+              - /url: /auth/csrf?action=login&return_url=https%3A%2F%2Fwww.delish.com%2Fcooking%2Frecipe-ideas%2Fa19665918%2Foven-baked-tilapia-recipe%2F
+              - text: Sign in
+            - link "Subscribe" [ref=e34] [cursor=pointer]:
+              - /url: https://store.delish.com/delish-unlimited-all-access-membership-2999.html?cds_tracking_code=del_topnav
+        - list [ref=e36]:
+          - listitem [ref=e37]:
+            - link "Recipes" [ref=e39] [cursor=pointer]:
+              - /url: /cooking/
+          - listitem [ref=e40]:
+            - link "Easter Recipes" [ref=e42] [cursor=pointer]:
+              - /url: /holiday-recipes/easter/
+          - listitem [ref=e43]:
+            - link "Occasions" [ref=e45] [cursor=pointer]:
+              - /url: /holiday-recipes/
+          - listitem [ref=e46]:
+            - link "Kitchen Tips" [ref=e48] [cursor=pointer]:
+              - /url: /kitchen-tools/
+          - listitem [ref=e49]:
+            - link "Food News & Trends" [ref=e51] [cursor=pointer]:
+              - /url: /food-news/
+          - listitem [ref=e52]:
+            - link "Member Exclusives" [ref=e54] [cursor=pointer]:
+              - /url: /delish-unlimited-member-exclusives/
+          - listitem [ref=e55]:
+            - link "About Us" [ref=e57] [cursor=pointer]:
+              - /url: /about/a26446372/about-us-contact-information-team-masthead/
+    - main [ref=e58]:
+      - generic [ref=e63]:
+        - navigation "breadcrumbs" [ref=e64]:
+          - list [ref=e65]:
+            - listitem [ref=e66]:
+              - link "Meals & Cooking" [ref=e67] [cursor=pointer]:
+                - /url: /cooking/
+            - listitem [ref=e68]:
+              - text: ">"
+              - link "Recipes" [ref=e69] [cursor=pointer]:
+                - /url: /cooking/recipe-ideas/
+            - text: ">"
+        - heading "Baked Tilapia" [level=1] [ref=e70]
+        - generic [ref=e71]:
+          - generic [ref=e72]:
+            - generic [ref=e73]:
+              - text: By
+              - link "Makinze Gore" [ref=e74] [cursor=pointer]:
+                - /url: /author/17846/makinze-gore/
+            - time [ref=e75]: "Updated: Dec 20, 2025"
+          - generic [ref=e78]:
+            - img "Verified" [ref=e79]
+            - text: Approved by the
+            - link "Delish Test Kitchen" [ref=e80] [cursor=pointer]:
+              - /url: /about/a60636180/tested-approved-delish-kitchen-process/
+        - generic [ref=e81]:
+          - generic [ref=e82]:
+            - generic [ref=e83]:
+              - img "Star Fill" [ref=e84]
+              - img "Star Fill" [ref=e85]
+              - img "Star Fill" [ref=e86]
+              - img "Star Fill" [ref=e87]
+              - img "Half Star" [ref=e88]
+            - generic [ref=e90]: "4.8"
+            - link "79 Ratings" [ref=e92] [cursor=pointer]:
+              - /url: "#"
+          - link "Jump to recipe" [ref=e93] [cursor=pointer]:
+            - /url: "#"
+            - img [ref=e95]
+            - text: Jump to recipe
+      - generic [ref=e98]:
+        - generic [ref=e100]:
+          - img "garlicky lemon baked tilapia" [ref=e103]
+          - generic [ref=e104]: PARKER FEIERBACH
+        - generic [ref=e105]:
+          - generic [ref=e106]:
+            - generic [ref=e107]:
+              - generic [ref=e108]: "Yields:"
+              - generic [ref=e109]:
+                - text: "4"
+                - generic [ref=e110]: serving(s)
+            - generic [ref=e111]:
+              - generic [ref=e112]: "Prep Time:"
+              - generic [ref=e113]:
+                - generic [ref=e114]: "5"
+                - generic [ref=e115]: mins
+            - generic [ref=e116]:
+              - generic [ref=e117]: "Total Time:"
+              - generic [ref=e118]:
+                - generic [ref=e119]: "35"
+                - generic [ref=e120]: mins
+            - generic [ref=e121]:
+              - generic [ref=e122]: "Cal/Serv:"
+              - generic [ref=e123]: "304"
+            - button "See All Nutritional Information" [ref=e125] [cursor=pointer]
+          - generic [ref=e127]:
+            - button "Save" [ref=e128] [cursor=pointer]:
+              - img [ref=e129]
+              - text: Save
+            - button "Print" [ref=e130] [cursor=pointer]:
+              - img [ref=e131]
+              - text: Print
+            - button "I Made It Button" [ref=e132] [cursor=pointer]:
+              - img [ref=e134]
+              - generic [ref=e135]: I made it
+          - generic [ref=e137]:
+            - img "Delish App Banner Logo" [ref=e140]
+            - generic [ref=e141]:
+              - generic [ref=e142]:
+                - heading "Cooking is easier on the app." [level=2] [ref=e143]
+                - paragraph [ref=e144]: Download for free!
+              - generic [ref=e145]:
+                - img "Apple App Store Icon" [ref=e147] [cursor=pointer]
+                - img "Get it on Google Play" [ref=e149] [cursor=pointer]
+          - generic [ref=e151]:
+            - generic [ref=e156]:
+              - button "Play video" [ref=e157]:
+                - img "Play video" [ref=e158]
+              - img "Video poster" [ref=e159]
+            - generic [ref=e163]: Advertisement - Continue Reading Below
+            - paragraph [ref=e165]:
+              - text: Whenever I need a quick and easy
+              - link "weeknight dinner" [ref=e166] [cursor=pointer]:
+                - /url: https://www.delish.com/weeknight-dinners/
+              - text: that screams fresh and simple, I always turn to this baked tilapia. In my opinion, tilapia doesn't get enough attention. This tender fish has a mild-enough flavor that even
+              - link "seafood" [ref=e167] [cursor=pointer]:
+                - /url: https://www.delish.com/cooking/recipe-ideas/g2992/weeknight-seafood-dinners/
+              - text: "-haters can get on board, is quick cooking enough to get dinner on the table in less than 30 minutes, AND is simple enough that you can change up the flavors and enjoy it again and again without getting bored. I don’t know about you, but those are huge wins for me. Move over,"
+              - link "baked salmon" [ref=e168] [cursor=pointer]:
+                - /url: https://www.delish.com/cooking/recipe-ideas/a55315/best-baked-salmon-recipe/
+              - text: —tonight, we’re having tilapia.
+            - paragraph [ref=e169]:
+              - strong [ref=e170]: "What People Are Saying:"
+              - emphasis
+              - text: “I love tilapia, such a mild flavored and versatile white fish. This recipe is the BOMB! So tasty, simple and inexpensive! I almost guarantee you have these ingredients available right now. Try this recipe and you will repeat it, no doubt!” -
+              - emphasis [ref=e171]:
+                - emphasis [ref=e172]: cat4930
+              - emphasis
+            - paragraph [ref=e173]:
+              - text: "“I completely agree with a previous poster: this tastes completely fantastic and well beyond what the simple ingredients would suggest. I wanted to diversify beyond the tried-and-true salmon that I always eat. Tilapia is now in the rotation—-this was a fast, simple and delicious recipe.” -"
+              - emphasis [ref=e174]: GoldFish
+              - emphasis
+            - heading "How To Make Baked Tilapia" [level=2] [ref=e175]:
+              - strong [ref=e176]: How To Make Baked Tilapia
+            - heading "INGREDIENTS" [level=2] [ref=e177]
+            - list [ref=e178]:
+              - listitem [ref=e179]:
+                - strong [ref=e180]: "Tilapia filets:"
+                - text: Like with buying nearly any variety of seafood, there are a few things you’ll want to keep in mind when buying tilapia filets. I like to look to the
+                - link "Monterey Bay Aquarium’s Seafood Watch" [ref=e181] [cursor=pointer]:
+                  - /url: https://www.seafoodwatch.org/recommendations/download-consumer-guides/sustainable-tilapia-guide
+                - text: "for details, but as a few rules of thumb: farmed tilapia is fine, though wild-caught is great if you can find it; avoid tilapia from China (instead go for tilapia farmed in Peru, Ecuador Mexico, Indonesia, or Honduras); and go for fresh over frozen if you can (though both should work here). When in doubt, talk to your fishmonger or the person working the seafood counter at your local grocery store for help. Heads up: you can also use tilapia"
+                - emphasis [ref=e182]: loins
+                - text: here, as that just refers to the thickest part of the filet.
+              - listitem [ref=e183]:
+                - strong [ref=e184]: "Kosher Salt:"
+                - text: I like to use kosher salt (rather than iodized or sea salt) in my kitchen because it has larger crystals than other salts, so it almost never ends up tasting too salty. If you don’t have it, start with half the amount of whatever salt you do have to guarantee your fish won’t be over-seasoned.
+              - listitem [ref=e185]:
+                - strong [ref=e186]: "Butter:"
+                - text: I personally like to use butter here, but I have been known to use olive oil (like we did in the video above) too, especially when I want to keep my meal dairy-free. Use whichever you prefer.
+              - listitem [ref=e187]:
+                - strong [ref=e188]: "Red Pepper Flakes:"
+                - text: I like the kick these bring to this mild fish, but feel free to skip if you or your family are sensitive to spice.
+              - listitem [ref=e189]:
+                - strong [ref=e190]: "Lemons:"
+                - text: You’ll need two lemons for this recipe, one used mostly for its juice and zest, and the other used for slicing. If you’re tempted to skip the sliced rounds, don’t! Not only do they make for an extra special presentation, they also add extra flavor to your fish during the cooking process.
+              - listitem [ref=e191]:
+                - strong [ref=e192]: "Parsley:"
+                - text: To me, one of the biggest differences between a good at-home meal and a great one is the garnishes. They might seem like overkill, but they’re truly what make a dinner feel extra special, so I try to always keep some greenery in my fridge to sprinkle over top of my meals. Parsley’s a forever fave, but use what you’ve got!
+            - heading "STEP-BY-STEP INSTRUCTIONS" [level=2] [ref=e193]
+            - paragraph [ref=e194]: First, get your oven preheated to 400°. Place your tilapia in a baking dish, then season both sides with salt and pepper. Set aside while you prepare your garlic and lemon butter.
+            - generic [ref=e197]: Advertisement - Continue Reading Below
+            - generic [ref=e201]:
+              - generic [ref=e202]:
+                - img "baked tilapia with lemons" [ref=e203]
+                - link "pinterest" [ref=e204] [cursor=pointer]:
+                  - /url: //pinterest.com/pin/create/button/?url=https://www.delish.com/cooking/recipe-ideas/a19665918/oven-baked-tilapia-recipe/&description=Delish&media=https://hips.hearstapps.com/hmg-prod/images/baked-tilapia-stills-1-66d8b3cb96d4b.jpg?resize=1600:*
+                  - img "pinterest"
+              - generic [ref=e206]: "PHOTO: TIM RACCA MORRISH"
+            - paragraph [ref=e207]:
+              - text: "I like to get all my ingredients ready first (and I’ve got a variety of little pinch bowls I keep handy in my cabinet just for this purpose), but feel free to add things directly into your mixing bowl as they are ready. Here’s the order I like to do things in: first up, lemons. Since you’ll end up with an unused half of a lemon here, zesting, slicing, and juicing them"
+              - emphasis [ref=e208]: before
+              - text: your garlic means you can use that half another time without having it taste weird. Then mince your garlic—larger, uneven pieces are okay here, because we’re really in it for the flavor, but feel free to show off those knife skills if you’ve got them. Then mix everything together (again, feel free to skip the red pepper flakes if you need). I like to use a fork to break up the lemon zest and make sure there are no clumps of it hiding out anywhere.
+            - generic [ref=e211]:
+              - generic [ref=e212]:
+                - img "baked tilapia with lemons" [ref=e213]
+                - link "pinterest" [ref=e214] [cursor=pointer]:
+                  - /url: //pinterest.com/pin/create/button/?url=https://www.delish.com/cooking/recipe-ideas/a19665918/oven-baked-tilapia-recipe/&description=Delish&media=https://hips.hearstapps.com/hmg-prod/images/baked-tilapia-stills-2-66d8b3cb62ce0.jpg?resize=1600:*
+                  - img "pinterest"
+              - generic [ref=e216]: "PHOTO: TIM RACCA MORRISH"
+            - generic [ref=e219]: Advertisement - Continue Reading Below
+            - paragraph [ref=e221]: Pour your garlic and lemon butter over your trayed tilapia, then place your lemon rounds on top, trying to get a few on each filet.
+            - generic [ref=e224]:
+              - generic [ref=e225]:
+                - img "baked tilapia with lemons" [ref=e226]
+                - link "pinterest" [ref=e227] [cursor=pointer]:
+                  - /url: //pinterest.com/pin/create/button/?url=https://www.delish.com/cooking/recipe-ideas/a19665918/oven-baked-tilapia-recipe/&description=Delish&media=https://hips.hearstapps.com/hmg-prod/images/baked-tilapia-stills-3-66d8b3cb53e86.jpg?resize=1600:*
+                  - img "pinterest"
+              - generic [ref=e229]: "PHOTO: TIM RACCA MORRISH"
+            - paragraph [ref=e230]:
+              - text: Bake until its internal temperature reaches 145°F, anywhere from 10-20 minutes. If you don't have an
+              - link "instant-read thermometer" [ref=e231] [cursor=pointer]:
+                - /url: https://www.delish.com/kitchen-tools/cookware-reviews/g32850133/best-meat-thermometers/
+              - text: ", start checking at the 10-minute mark—you’re looking to see that your fish has turned opaque and that it's easily flaked with a fork."
+            - generic [ref=e234]:
+              - generic [ref=e235]:
+                - img "baked tilapia with lemons" [ref=e236]
+                - link "pinterest" [ref=e237] [cursor=pointer]:
+                  - /url: //pinterest.com/pin/create/button/?url=https://www.delish.com/cooking/recipe-ideas/a19665918/oven-baked-tilapia-recipe/&description=Delish&media=https://hips.hearstapps.com/hmg-prod/images/baked-tilapia-stills-4-66d8b3cb92c54.jpg?resize=1600:*
+                  - img "pinterest"
+              - generic [ref=e239]: "PHOTO: TIM RACCA MORRISH"
+            - paragraph [ref=e240]:
+              - emphasis [ref=e241]: The full list of ingredients and directions can be found in the recipe below.
+              - emphasis
+            - generic [ref=e244]: Advertisement - Continue Reading Below
+            - heading "What To Serve With Baked Tilapia" [level=2] [ref=e246]:
+              - strong [ref=e247]: What To Serve With Baked Tilapia
+            - list [ref=e248]:
+              - listitem [ref=e249]:
+                - link "Roasted Vegetables" [ref=e250] [cursor=pointer]:
+                  - /url: https://www.delish.com/holiday-recipes/christmas/g3623/roasted-vegetable-recipes/
+                - text: ": You’ve already got the oven going, why not throw some veggies in there while your fish is cooking, too?"
+              - listitem [ref=e251]:
+                - link "Green Salads" [ref=e252] [cursor=pointer]:
+                  - /url: https://www.delish.com/cooking/recipe-ideas/g43591360/summer-green-salads/
+                - text: ": A flaky tilapia filet and a fresh, green salad are the stuff light dinner dreams are made of."
+              - listitem [ref=e253]:
+                - link "Seafood Sides" [ref=e254] [cursor=pointer]:
+                  - /url: https://www.delish.com/cooking/recipe-ideas/g40958015/side-dishes-for-fish/
+                - text: ": From"
+                - link "coconut rice" [ref=e255] [cursor=pointer]:
+                  - /url: https://www.delish.com/cooking/recipe-ideas/a28225321/coconut-rice-recipe/
+                - text: to
+                - link "bok choy" [ref=e256] [cursor=pointer]:
+                  - /url: https://www.delish.com/cooking/a45210334/easy-bok-choy-recipe/
+                - text: to
+                - link "risotto" [ref=e257] [cursor=pointer]:
+                  - /url: https://www.delish.com/cooking/recipe-ideas/a29786303/risotto-rice-recipe/
+                - text: ", we’ve got options for every occasion here."
+            - heading "Tilapia Variations" [level=2] [ref=e258]
+            - list [ref=e259]:
+              - listitem [ref=e260]:
+                - link "Blackened Tilapia" [ref=e261] [cursor=pointer]:
+                  - /url: https://www.delish.com/cooking/recipe-ideas/a25239430/blackened-tilapia-recipe/
+              - listitem [ref=e262]:
+                - link "Pan-Fried Tilapia" [ref=e263] [cursor=pointer]:
+                  - /url: https://www.delish.com/cooking/recipe-ideas/a25137966/pan-fried-tilapia-recipe/
+              - listitem [ref=e264]:
+                - link "Grilled Tilapia" [ref=e265] [cursor=pointer]:
+                  - /url: https://www.delish.com/cooking/recipe-ideas/a22533745/easy-grilled-tilapia-recipe/
+            - heading "Storage" [level=2] [ref=e266]
+            - paragraph [ref=e267]: Cooled leftover filets can be kept in an airtight container in your refrigerator for up to three days. To reheat, bake, covered with foil to avoid it drying out, in a 350° oven until warmed through.
+          - generic [ref=e269]:
+            - generic [ref=e270]:
+              - heading "Ingredients" [level=2] [ref=e272]
+              - generic [ref=e273]:
+                - list [ref=e275]:
+                  - listitem [ref=e276]:
+                    - checkbox [ref=e279] [cursor=pointer]
+                    - generic [ref=e280] [cursor=pointer]:
+                      - strong [ref=e281]: "4"
+                      - paragraph [ref=e282]: (6-oz.) tilapia fillets
+                  - listitem [ref=e283]:
+                    - checkbox [ref=e286] [cursor=pointer]
+                    - paragraph [ref=e288] [cursor=pointer]: Kosher salt
+                  - listitem [ref=e289]:
+                    - checkbox [ref=e292] [cursor=pointer]
+                    - paragraph [ref=e294] [cursor=pointer]: Freshly ground black pepper
+                  - listitem [ref=e295]:
+                    - checkbox [ref=e298] [cursor=pointer]
+                    - generic [ref=e299] [cursor=pointer]:
+                      - strong [ref=e300]: "5"
+                      - strong [ref=e301]: Tbsp.
+                      - paragraph [ref=e302]: unsalted butter, melted
+                  - listitem [ref=e303]:
+                    - checkbox [ref=e306] [cursor=pointer]
+                    - generic [ref=e307] [cursor=pointer]:
+                      - strong [ref=e308]: "2"
+                      - paragraph [ref=e309]: cloves garlic, finely chopped
+                  - listitem [ref=e310]:
+                    - checkbox [ref=e313] [cursor=pointer]
+                    - generic [ref=e314] [cursor=pointer]:
+                      - strong [ref=e315]: 1/4
+                      - strong [ref=e316]: tsp.
+                      - paragraph [ref=e317]: crushed red pepper flakes
+                  - listitem [ref=e318]:
+                    - checkbox [ref=e321] [cursor=pointer]
+                    - paragraph [ref=e323] [cursor=pointer]: Juice and zest from 1/2 lemon
+                  - listitem [ref=e324]:
+                    - checkbox [ref=e327] [cursor=pointer]
+                    - generic [ref=e328] [cursor=pointer]:
+                      - strong [ref=e329]: "1"
+                      - paragraph [ref=e330]: lemon, sliced into rounds
+                  - listitem [ref=e331]:
+                    - checkbox [ref=e334] [cursor=pointer]
+                    - paragraph [ref=e336] [cursor=pointer]: Chopped fresh parsley, for serving
+                - button "See All Nutritional Information" [ref=e337] [cursor=pointer]
+                - generic [ref=e339]:
+                  - generic [ref=e340] [cursor=pointer]: Keep screen awake
+                  - switch "Keep screen awake" [ref=e342] [cursor=pointer]
+              - region "You’ll Also Love:" [ref=e346]:
+                - heading "You’ll Also Love:" [level=2] [ref=e348]
+                - generic [ref=e349]:
+                  - link "Read more about Baked Cod" [ref=e351] [cursor=pointer]:
+                    - /url: https://www.delish.com/cooking/recipe-ideas/a21960798/best-baked-cod-fish-recipe/
+                    - heading "Baked Cod" [level=3] [ref=e352]
+                  - link "Read more about Baked Catfish" [ref=e354] [cursor=pointer]:
+                    - /url: https://www.delish.com/cooking/recipe-ideas/a26595303/best-baked-catfish-recipe/
+                    - heading "Baked Catfish" [level=3] [ref=e355]
+                  - link "Read more about Oven-Baked Salmon" [ref=e357] [cursor=pointer]:
+                    - /url: https://www.delish.com/cooking/recipe-ideas/a55315/best-baked-salmon-recipe/
+                    - heading "Oven-Baked Salmon" [level=3] [ref=e358]
+                  - link "Read more about Salmon Steak" [ref=e360] [cursor=pointer]:
+                    - /url: https://www.delish.com/cooking/recipe-ideas/a25239929/salmon-steak-recipe/
+                    - heading "Salmon Steak" [level=3] [ref=e361]
+                  - link "Read more about Honey-Garlic Glazed Salmon" [ref=e363] [cursor=pointer]:
+                    - /url: https://www.delish.com/cooking/recipe-ideas/a18854367/honey-garlic-glazed-salmon-recipe/
+                    - heading "Honey-Garlic Glazed Salmon" [level=3] [ref=e364]
+                  - link "Read more about Baked Scallops" [ref=e366] [cursor=pointer]:
+                    - /url: https://www.delish.com/cooking/recipe-ideas/a39588373/baked-scallops-recipe/
+                    - heading "Baked Scallops" [level=3] [ref=e367]
+                  - link "Read more about Salmon Croquettes" [ref=e369] [cursor=pointer]:
+                    - /url: https://www.delish.com/cooking/recipe-ideas/a39026152/easy-salmon-croquettes-recipe/
+                    - heading "Salmon Croquettes" [level=3] [ref=e370]
+                  - button "We've got more GET THE RECIPES" [ref=e372] [cursor=pointer]:
+                    - generic [ref=e373]:
+                      - generic [ref=e374]: We've got more
+                      - link "GET THE RECIPES" [ref=e375]:
+                        - /url: https://www.delish.com/cooking/recipe-ideas/
+            - generic [ref=e377]:
+              - generic [ref=e378]:
+                - button "Save" [ref=e379] [cursor=pointer]:
+                  - img [ref=e380]
+                  - text: Save
+                - button "Print" [ref=e381] [cursor=pointer]:
+                  - img [ref=e382]
+                  - text: Print
+                - button "I Made It Button" [ref=e383] [cursor=pointer]:
+                  - img [ref=e385]
+                  - generic [ref=e386]: I made it
+              - heading "Directions" [level=2] [ref=e388]
+              - list [ref=e389]:
+                - listitem [ref=e390]:
+                  - list [ref=e391]:
+                    - listitem [ref=e392]:
+                      - generic [ref=e393]: Step
+                      - text: 1 Preheat oven to 400°. Season tilapia with salt and pepper and place in a small baking dish.
+                    - listitem [ref=e394]:
+                      - generic [ref=e395]: Step
+                      - text: 2 Mix together butter, garlic, red pepper flakes, lemon juice, and zest then pour over tilapia. Place lemon rounds on top and around tilapia.
+                    - listitem [ref=e396]:
+                      - generic [ref=e397]: Step
+                      - text: 3 Bake tilapia until fork-tender, 15 to 20 minutes.
+          - generic [ref=e398]:
+            - generic "I Made It Action" [ref=e399] [cursor=pointer]:
+              - generic [ref=e400]:
+                - img "Check icon" [ref=e401]
+                - generic [ref=e402]: I made it
+            - button "Rate it"
+          - generic [ref=e403]:
+            - generic [ref=e406]:
+              - generic [ref=e407]:
+                - img "baked tilapia vertical" [ref=e408]
+                - link "pinterest" [ref=e409] [cursor=pointer]:
+                  - /url: //pinterest.com/pin/create/button/?url=https://www.delish.com/cooking/recipe-ideas/a19665918/oven-baked-tilapia-recipe/&description=Delish&media=https://hips.hearstapps.com/hmg-prod/images/baked-tilapia-vertical-jpg-1522720484.jpg?resize=1600:*
+                  - img "pinterest"
+              - generic [ref=e411]: PARKER FEIERBACH
+            - complementary [ref=e413]:
+              - region "LIKE THIS RECIPE? THEN YOU'LL LOVE:" [ref=e414]:
+                - heading "LIKE THIS RECIPE? THEN YOU'LL LOVE:" [level=2] [ref=e416]
+                - generic [ref=e417]:
+                  - link "Baked Cod Baked Cod Star 30 mins Save recipe" [ref=e420] [cursor=pointer]:
+                    - /url: /cooking/recipe-ideas/a21960798/best-baked-cod-fish-recipe/
+                    - img "Baked Cod"
+                    - generic [ref=e421]: Baked Cod
+                    - generic [ref=e422]:
+                      - img "Star" [ref=e426]
+                      - generic [ref=e427]:
+                        - generic [ref=e429]: 30 mins
+                        - button "Save recipe" [ref=e430]:
+                          - img [ref=e431]
+                  - link "Baked Salmon Oven-Baked Salmon Star 25 mins Save recipe" [ref=e434] [cursor=pointer]:
+                    - /url: /cooking/recipe-ideas/a55315/best-baked-salmon-recipe/
+                    - img "Baked Salmon"
+                    - generic [ref=e435]: Oven-Baked Salmon
+                    - generic [ref=e436]:
+                      - img "Star" [ref=e440]
+                      - generic [ref=e441]:
+                        - generic [ref=e443]: 25 mins
+                        - button "Save recipe" [ref=e444]:
+                          - img [ref=e445]
+                  - link "Baked Catfish Baked Catfish Star 25 mins Save recipe" [ref=e448] [cursor=pointer]:
+                    - /url: /cooking/recipe-ideas/a26595303/best-baked-catfish-recipe/
+                    - img "Baked Catfish"
+                    - generic [ref=e449]: Baked Catfish
+                    - generic [ref=e450]:
+                      - img "Star" [ref=e454]
+                      - generic [ref=e455]:
+                        - generic [ref=e457]: 25 mins
+                        - button "Save recipe" [ref=e458]:
+                          - img [ref=e459]
+            - heading "Made This?" [level=2] [ref=e460]
+            - paragraph [ref=e461]: Let me know how it went in the comments below!
+            - document [ref=e465]:
+              - main [ref=e467]:
+                - article [ref=e468]:
+                  - heading "In a dinner rut?" [level=3] [ref=e469]
+                  - paragraph [ref=e470]: We can help you out of it.
+                  - generic [ref=e471]:
+                    - group [ref=e472]:
+                      - generic [ref=e473]: Email address
+                      - textbox "Can we get your email address?" [ref=e474]
+                    - button "LET'S GET COOKING!" [ref=e475] [cursor=pointer]
+                  - paragraph [ref=e476]:
+                    - text: By signing up, I agree to the
+                    - link "Terms of Use" [ref=e477] [cursor=pointer]:
+                      - /url: https://www.hearst.com/-/us-magazines-terms-of-use
+                    - text: (including the
+                    - link "dispute resolution procedures" [ref=e478] [cursor=pointer]:
+                      - /url: https://www.hearst.com/-/us-magazines-terms-of-use#_DISPUTE_RESOLUTION
+                    - text: ) and have reviewed
+                    - generic [ref=e479]:
+                      - text: the
+                      - link "Privacy Notice" [ref=e480] [cursor=pointer]:
+                        - /url: https://www.hearst.com/-/us-magazines-privacy-notice
+                      - text: .
+                    - text: This site is protected by reCAPTCHA and the Google
+                    - link "Privacy Policy" [ref=e481] [cursor=pointer]:
+                      - /url: https://policies.google.com/privacy
+                    - text: and
+                    - link "Terms of Service" [ref=e482] [cursor=pointer]:
+                      - /url: https://policies.google.com/terms
+                    - text: apply.
+      - generic [ref=e512]: Advertisement - Continue Reading Below
+      - generic [ref=e514]:
+        - generic [ref=e515]:
+          - heading "Most Popular" [level=2] [ref=e517]:
+            - link "Most Popular" [ref=e518] [cursor=pointer]:
+              - /url: /most-popular-delish-recipes/
+          - generic [ref=e519]:
+            - link "greek salad with cucumber, tomatoes, red onion, olives, and feta Greek Salad Star 20 mins Save recipe" [ref=e520] [cursor=pointer]:
+              - /url: /a54226/best-greek-salad-recipe/
+              - generic [ref=e522]:
+                - img "greek salad with cucumber, tomatoes, red onion, olives, and feta"
+              - generic [ref=e523]:
+                - paragraph [ref=e524]:
+                  - generic [ref=e525]: Greek Salad
+                - generic [ref=e526]:
+                  - img "Star" [ref=e530]
+                  - generic [ref=e531]:
+                    - generic [ref=e533]: 20 mins
+                    - button "Save recipe" [ref=e534]:
+                      - img [ref=e535]
+            - link "scalloped potatoes in a white baking dish with a silver serving spoon Scalloped Potatoes Star 1 hr 50 mins Save recipe" [ref=e536] [cursor=pointer]:
+              - /url: /a45455472/best-scalloped-potatoes-recipe/
+              - generic [ref=e538]:
+                - img "scalloped potatoes in a white baking dish with a silver serving spoon"
+              - generic [ref=e539]:
+                - paragraph [ref=e540]:
+                  - generic [ref=e541]: Scalloped Potatoes
+                - generic [ref=e542]:
+                  - img "Star" [ref=e546]
+                  - generic [ref=e547]:
+                    - generic [ref=e549]: 1 hr 50 mins
+                    - button "Save recipe" [ref=e550]:
+                      - img [ref=e551]
+            - link "deviled eggs piped in a star shape with paprika and chives Classic Deviled Eggs Star 25 mins Save recipe" [ref=e552] [cursor=pointer]:
+              - /url: /a51851/deviled-eggs-recipe/
+              - generic [ref=e554]:
+                - img "deviled eggs piped in a star shape with paprika and chives"
+              - generic [ref=e555]:
+                - paragraph [ref=e556]:
+                  - generic [ref=e557]: Classic Deviled Eggs
+                - generic [ref=e558]:
+                  - img "Star" [ref=e562]
+                  - generic [ref=e563]:
+                    - generic [ref=e565]: 25 mins
+                    - button "Save recipe" [ref=e566]:
+                      - img [ref=e567]
+            - link "chicken with caramelized onions and melted cheese topped with herbs French Onion Chicken Star 45 mins Save recipe" [ref=e568] [cursor=pointer]:
+              - /url: /a58148/french-onion-chicken-recipe/
+              - generic [ref=e570]:
+                - img "chicken with caramelized onions and melted cheese topped with herbs"
+              - generic [ref=e571]:
+                - paragraph [ref=e572]:
+                  - generic [ref=e573]: French Onion Chicken
+                - generic [ref=e574]:
+                  - img "Star" [ref=e578]
+                  - generic [ref=e579]:
+                    - generic [ref=e581]: 45 mins
+                    - button "Save recipe" [ref=e582]:
+                      - img [ref=e583]
+        - generic [ref=e587]:
+          - link "baked spiral ham with a ham glaze How To Cook A Ham Star 3 hrs 15 mins Save recipe" [ref=e588] [cursor=pointer]:
+            - /url: /a22827100/how-to-cook-a-ham/
+            - generic [ref=e590]:
+              - img "baked spiral ham with a ham glaze"
+            - generic [ref=e591]:
+              - paragraph [ref=e592]:
+                - generic [ref=e593]: How To Cook A Ham
+              - generic [ref=e594]:
+                - img "Star" [ref=e598]
+                - generic [ref=e599]:
+                  - generic [ref=e601]: 3 hrs 15 mins
+                  - button "Save recipe" [ref=e602]:
+                    - img [ref=e603]
+          - link "honey glazed carrots Honey-Glazed Carrots Star 35 mins Save recipe" [ref=e604] [cursor=pointer]:
+            - /url: /a58381/best-honey-glazed-carrots-recipe/
+            - generic [ref=e606]:
+              - img "honey glazed carrots"
+            - generic [ref=e607]:
+              - paragraph [ref=e608]:
+                - generic [ref=e609]: Honey-Glazed Carrots
+              - generic [ref=e610]:
+                - img "Star" [ref=e614]
+                - generic [ref=e615]:
+                  - generic [ref=e617]: 35 mins
+                  - button "Save recipe" [ref=e618]:
+                    - img [ref=e619]
+          - link "chicken breasts in a creamy sun dried tomato sauce Creamy Tuscan Chicken Star 45 mins Save recipe" [ref=e620] [cursor=pointer]:
+            - /url: /a19636089/creamy-tuscan-chicken-recipe/
+            - generic [ref=e622]:
+              - img "chicken breasts in a creamy sun dried tomato sauce"
+            - generic [ref=e623]:
+              - paragraph [ref=e624]:
+                - generic [ref=e625]: Creamy Tuscan Chicken
+              - generic [ref=e626]:
+                - img "Star" [ref=e630]
+                - generic [ref=e631]:
+                  - generic [ref=e633]: 45 mins
+                  - button "Save recipe" [ref=e634]:
+                    - img [ref=e635]
+          - link "spiral ham sliced with bourbon glaze Spiral Ham Star 2 hrs 15 mins Save recipe" [ref=e636] [cursor=pointer]:
+            - /url: /a64515615/spiral-ham-recipe/
+            - generic [ref=e638]:
+              - img "spiral ham sliced with bourbon glaze"
+            - generic [ref=e639]:
+              - paragraph [ref=e640]:
+                - generic [ref=e641]: Spiral Ham
+              - generic [ref=e642]:
+                - img "Star" [ref=e646]
+                - generic [ref=e647]:
+                  - generic [ref=e649]: 2 hrs 15 mins
+                  - button "Save recipe" [ref=e650]:
+                    - img [ref=e651]
+        - generic [ref=e653]:
+          - link "potatoes au gratin topped with thyme Potatoes Au Gratin Star 1 hr 45 mins Save recipe" [ref=e654] [cursor=pointer]:
+            - /url: /a63902265/best-potatoes-au-gratin-recipe/
+            - generic [ref=e656]:
+              - img "potatoes au gratin topped with thyme"
+            - generic [ref=e657]:
+              - paragraph [ref=e658]:
+                - generic [ref=e659]: Potatoes Au Gratin
+              - generic [ref=e660]:
+                - img "Star" [ref=e664]
+                - generic [ref=e665]:
+                  - generic [ref=e667]: 1 hr 45 mins
+                  - button "Save recipe" [ref=e668]:
+                    - img [ref=e669]
+          - link "chicken soup in a white pot Homemade Chicken Soup Star 1 hr 30 mins Save recipe" [ref=e670] [cursor=pointer]:
+            - /url: /a44475588/best-chicken-soup-recipe/
+            - generic [ref=e672]:
+              - img "chicken soup in a white pot"
+            - generic [ref=e673]:
+              - paragraph [ref=e674]:
+                - generic [ref=e675]: Homemade Chicken Soup
+              - generic [ref=e676]:
+                - img "Star" [ref=e680]
+                - generic [ref=e681]:
+                  - generic [ref=e683]: 1 hr 30 mins
+                  - button "Save recipe" [ref=e684]:
+                    - img [ref=e685]
+          - link "shrimp in an alfredo pasta bake Garlicky Shrimp Alfredo Bake Star 25 mins Save recipe" [ref=e686] [cursor=pointer]:
+            - /url: /a46095/garlic-shrimp-alfredo-bake-recipe/
+            - generic [ref=e688]:
+              - img "shrimp in an alfredo pasta bake"
+            - generic [ref=e689]:
+              - paragraph [ref=e690]:
+                - generic [ref=e691]: Garlicky Shrimp Alfredo Bake
+              - generic [ref=e692]:
+                - img "Star" [ref=e696]
+                - generic [ref=e697]:
+                  - generic [ref=e699]: 25 mins
+                  - button "Save recipe" [ref=e700]:
+                    - img [ref=e701]
+          - link "french onion soup with melted cheese and bread slices French Onion Soup Star 1 hr 5 mins Save recipe" [ref=e702] [cursor=pointer]:
+            - /url: /a44297/best-french-onion-soup-recipe/
+            - generic [ref=e704]:
+              - img "french onion soup with melted cheese and bread slices"
+            - generic [ref=e705]:
+              - paragraph [ref=e706]:
+                - generic [ref=e707]: French Onion Soup
+              - generic [ref=e708]:
+                - img "Star" [ref=e712]
+                - generic [ref=e713]:
+                  - generic [ref=e715]: 1 hr 5 mins
+                  - button "Save recipe" [ref=e716]:
+                    - img [ref=e717]
+        - generic [ref=e719]: Advertisement - Continue Reading Below
+    - contentinfo [ref=e721]:
+      - generic [ref=e722]:
+        - generic [ref=e723]:
+          - link "Delish" [ref=e724] [cursor=pointer]:
+            - /url: /
+            - img "Logo"
+          - generic [ref=e725]:
+            - link "x" [ref=e727] [cursor=pointer]:
+              - /url: https://x.com/delish
+              - img "x" [ref=e728]
+            - link "tiktok" [ref=e730] [cursor=pointer]:
+              - /url: https://www.tiktok.com/@delish?lang=en
+              - img "tiktok" [ref=e731]
+            - link "youtube" [ref=e733] [cursor=pointer]:
+              - /url: https://www.youtube.com/c/delish?sub_confirmation=1
+              - img "youtube" [ref=e734]
+            - link "facebook" [ref=e736] [cursor=pointer]:
+              - /url: https://www.facebook.com/delish
+              - img "facebook" [ref=e737]
+            - link "instagram" [ref=e739] [cursor=pointer]:
+              - /url: http://instagram.com/delish
+              - img "instagram" [ref=e740]
+            - link "pinterest" [ref=e742] [cursor=pointer]:
+              - /url: http://www.pinterest.com/Delish/?auto_follow=1
+              - img "pinterest" [ref=e743]
+        - navigation "Footer" [ref=e744]:
+          - link "Newsletter" [ref=e745] [cursor=pointer]:
+            - /url: https://delish.com/email/delish-newsletter
+          - link "Subscribe" [ref=e746] [cursor=pointer]:
+            - /url: https://store.delish.com/delish-unlimited-all-access-membership-2999.html?cds_tracking_code=del_footer
+          - link "Manage Subscription" [ref=e747] [cursor=pointer]:
+            - /url: https://service.delish.com/login?redirect=%2F
+          - link "About Us" [ref=e748] [cursor=pointer]:
+            - /url: /about/a26446372/about-us-contact-information-team-masthead/
+          - link "Delish Test Kitchen" [ref=e749] [cursor=pointer]:
+            - /url: /about/a60636180/approved-delish-kitchen-testing-process/
+          - link "Media Kit" [ref=e750] [cursor=pointer]:
+            - /url: https://www.delishmediakit.com/r5/home.asp
+          - link "Community Guidelines" [ref=e751] [cursor=pointer]:
+            - /url: /about/a41645/community-guidelines/
+          - link "Advertise With Us" [ref=e752] [cursor=pointer]:
+            - /url: /about/a41646/advertise-delish/
+          - link "Delish Membership Support" [ref=e753] [cursor=pointer]:
+            - /url: mailto:membersupport@delish.com
+          - link "Turn off Web Notifications" [ref=e754] [cursor=pointer]:
+            - /url: /about/a61795077/how-to-turn-off-web-notifications/
+        - img "Hearst Lifestyle and Design Group - A Part of Hearst Digital Media" [ref=e755]
+        - paragraph [ref=e756]: A Part of Hearst Digital Media
+        - paragraph [ref=e757]: We may earn commission from links on this page, but we only recommend products we back.
+        - paragraph [ref=e758]: ©2026 Hearst Magazine Media, Inc. All Rights Reserved.
+        - generic [ref=e759]:
+          - link "Privacy Notice" [ref=e760] [cursor=pointer]:
+            - /url: https://www.hearst.com/-/us-magazines-privacy-notice
+          - link "CA Notice at Collection" [ref=e761] [cursor=pointer]:
+            - /url: https://www.hearst.com/-/us-magazines-privacy-notice#_ADDITIONAL_INFO
+          - link "Your CA Privacy Rights/Shine the Light" [ref=e762] [cursor=pointer]:
+            - /url: https://www.hearst.com/-/us-magazines-privacy-notice#_ADDITIONAL_INFO
+          - link "DAA Industry Opt Out" [ref=e763] [cursor=pointer]:
+            - /url: https://www.hearst.com/-/us-magazines-privacy-notice#_OPT_OUTS
+          - link "Terms of Use" [ref=e764] [cursor=pointer]:
+            - /url: https://www.hearst.com/-/us-magazines-terms-of-use
+          - link "Site Map" [ref=e765] [cursor=pointer]:
+            - /url: /sitemap/
+        - link "Cookies Choices" [ref=e767] [cursor=pointer]:
+          - /url: "#"
+  - alert [ref=e768]

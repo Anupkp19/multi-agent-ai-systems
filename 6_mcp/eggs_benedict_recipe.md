@@ -1,0 +1,933 @@
+- generic [active] [ref=e1]:
+  - img:
+    - generic:
+      - generic:
+        - img
+      - generic:
+        - img
+      - generic:
+        - img
+      - generic:
+        - img
+      - generic:
+        - img
+      - generic:
+        - img
+      - generic:
+        - img
+      - generic:
+        - img
+      - generic:
+        - img
+      - generic:
+        - img
+      - generic:
+        - img
+      - generic:
+        - img
+      - generic:
+        - img
+      - generic:
+        - img
+      - generic:
+        - img
+      - generic:
+        - img
+      - generic:
+        - img
+      - generic:
+        - img
+      - generic:
+        - img
+      - generic:
+        - img
+      - generic:
+        - img
+      - generic:
+        - img
+      - generic:
+        - img
+      - generic:
+        - img
+      - generic:
+        - img
+      - generic:
+        - img
+      - generic:
+        - img
+      - generic:
+        - img
+      - generic:
+        - img
+      - generic:
+        - img
+      - generic:
+        - img
+      - generic:
+        - img
+      - generic:
+        - img
+      - generic:
+        - img
+      - generic:
+        - img
+      - generic:
+        - img
+      - generic:
+        - img
+      - generic:
+        - img
+      - generic:
+        - img
+      - generic:
+        - img
+      - generic:
+        - img
+      - generic:
+        - img
+      - generic:
+        - img
+      - generic:
+        - img
+      - generic:
+        - img
+      - generic:
+        - img
+      - generic:
+        - img
+  - link "Skip to Content" [ref=e2] [cursor=pointer]:
+    - /url: "#skip-to-content"
+    - generic [ref=e3]: Skip to Content
+  - banner [ref=e4]:
+    - generic [ref=e5]:
+      - link "Visit Simply Recipes's homepage" [ref=e7] [cursor=pointer]:
+        - /url: https://www.simplyrecipes.com/
+        - img [ref=e8]
+      - generic [ref=e10]:
+        - navigation [ref=e12]:
+          - list [ref=e13]:
+            - listitem [ref=e14] [cursor=pointer]:
+              - link "Recipe of the Day" [ref=e15]:
+                - /url: https://www.simplyrecipes.com/recipes-5090746
+              - img [ref=e16]
+            - listitem [ref=e18] [cursor=pointer]:
+              - link "Recipes" [ref=e19]:
+                - /url: https://www.simplyrecipes.com/recipes-5090746
+              - img [ref=e20]
+            - listitem [ref=e22] [cursor=pointer]:
+              - link "In the Kitchen" [ref=e23]:
+                - /url: https://www.simplyrecipes.com/cooking-how-tos-5090751
+              - img [ref=e24]
+            - listitem [ref=e26] [cursor=pointer]:
+              - link "Table Talk" [ref=e27]:
+                - /url: https://www.simplyrecipes.com/table-talk-5206565
+              - img [ref=e28]
+            - listitem [ref=e30] [cursor=pointer]:
+              - link "The 2026 Freezies Awards" [ref=e31]:
+                - /url: https://www.simplyrecipes.com/freezies-2026-11903212
+              - img [ref=e32]
+            - listitem [ref=e34] [cursor=pointer]:
+              - link "About us" [ref=e35]:
+                - /url: https://www.simplyrecipes.com/about-us-5096129
+        - generic [ref=e38] [cursor=pointer]: Newsletter
+        - link "Go to MyRecipes" [ref=e40] [cursor=pointer]:
+          - /url: https://www.myrecipes.com/
+          - img [ref=e41]
+          - generic [ref=e43]: My Saves
+        - search [ref=e44]:
+          - button "Open search form" [ref=e45] [cursor=pointer]:
+            - text: Search
+            - img [ref=e46]
+  - main [ref=e51]:
+    - article [ref=e52]:
+      - generic [ref=e53]:
+        - list [ref=e55]:
+          - listitem [ref=e56]:
+            - link "Recipes By Ingredients" [ref=e57] [cursor=pointer]:
+              - /url: https://www.simplyrecipes.com/recipes-by-ingredients-5091192
+            - img [ref=e58]
+          - listitem [ref=e60]:
+            - link "Eggs, Cheese, & Milk" [ref=e61] [cursor=pointer]:
+              - /url: https://www.simplyrecipes.com/eggs-cheese-and-milk-recipes-5091109
+            - img [ref=e62]
+          - listitem [ref=e64]:
+            - link "Eggs" [ref=e65] [cursor=pointer]:
+              - /url: https://www.simplyrecipes.com/egg-recipes-5091098
+            - img [ref=e66]
+          - listitem [ref=e68]:
+            - link "Poached Eggs" [ref=e69] [cursor=pointer]:
+              - /url: https://www.simplyrecipes.com/poached-egg-recipes-5091092
+        - generic [ref=e70]:
+          - heading "How to Make Eggs Benedict" [level=1] [ref=e71]
+          - paragraph [ref=e72]: Making eggs Benedict at home is worth the effort, and our easy to follow recipe is an excellent guide.
+        - generic [ref=e73]:
+          - generic [ref=e75]:
+            - generic [ref=e76]:
+              - text: By
+              - link "Elise Bauer" [ref=e78] [cursor=pointer]:
+                - /url: https://www.simplyrecipes.com/elise-bauer-5091824
+            - generic [ref=e79]: Updated February 07, 2026
+          - generic [ref=e80]:
+            - generic [ref=e81]:
+              - generic [ref=e82]:
+                - link "Rate 1-star" [ref=e83] [cursor=pointer]:
+                  - /url: "#"
+                  - img [ref=e84]
+                - link "Rate 2-star" [ref=e86] [cursor=pointer]:
+                  - /url: "#"
+                  - img [ref=e87]
+                - link "Rate 3-star" [ref=e89] [cursor=pointer]:
+                  - /url: "#"
+                  - img [ref=e90]
+                - link "Rate 4-star" [ref=e92] [cursor=pointer]:
+                  - /url: "#"
+                  - img [ref=e93]
+                - link "Rate 5-star" [ref=e95] [cursor=pointer]:
+                  - /url: "#"
+                  - img [ref=e96]
+              - generic [ref=e98]: 44 Ratings
+            - generic [ref=e99]:
+              - button "Save Recipe" [ref=e101] [cursor=pointer]:
+                - generic [ref=e102]: Save
+                - img [ref=e103]
+              - link "Write a Review" [ref=e1112] [cursor=pointer]:
+                - /url: "#"
+              - button "Print this article" [ref=e106] [cursor=pointer]: Print
+          - img "Elise Bauer" [ref=e107]
+      - generic [ref=e112]:
+        - generic [ref=e114]:
+          - generic [ref=e115]: In This Recipe
+          - list [ref=e116]:
+            - listitem [ref=e117]:
+              - link "Making Eggs Benedict" [ref=e119] [cursor=pointer]:
+                - /url: "#toc-how-to-make-eggs-benedict"
+            - listitem [ref=e120]:
+              - link "When to Serve" [ref=e122] [cursor=pointer]:
+                - /url: "#toc-when-to-serve-eggs-benedict"
+            - listitem [ref=e123]:
+              - link "What Is Eggs Benedict?" [ref=e125] [cursor=pointer]:
+                - /url: "#toc-what-is-eggs-benedict"
+            - listitem [ref=e126]:
+              - link "Perfect Poached Eggs" [ref=e128] [cursor=pointer]:
+                - /url: "#toc-how-to-make-perfect-poached-eggs"
+            - listitem [ref=e129]:
+              - link "Substitutions for Canadian Bacon" [ref=e131] [cursor=pointer]:
+                - /url: "#toc-substitutions-for-canadian-bacon"
+            - listitem [ref=e132]:
+              - link "Hollandaise Sauce Tips" [ref=e134] [cursor=pointer]:
+                - /url: "#toc-tips-for-a-hollandaise-sauce"
+            - listitem [ref=e135]:
+              - link "Make Ahead Tips" [ref=e137] [cursor=pointer]:
+                - /url: "#toc-make-ahead-tips"
+        - button "Jump to recipe" [ref=e139] [cursor=pointer]:
+          - text: Jump to recipe
+          - img [ref=e140]
+        - generic [ref=e142]:
+          - generic [ref=e143]:
+            - heading "Why Make This" [level=3] [ref=e144]
+            - list [ref=e146]:
+              - listitem [ref=e147]: • This approachable recipe breaks down eggs Benedict for the home cook.
+              - listitem [ref=e148]: • Blender hollandaise makes the classic sauce quick and mess-free to prepare.
+              - listitem [ref=e149]: • Serve these for a special breakfast or brunch to truly impress your guests.
+          - paragraph [ref=e150]: Making eggs Benedict requires careful orchestration.
+          - paragraph [ref=e151]: You have to have warm, crispy bacon, hot buttered toasted English muffins, eggs poached perfectly to your desire, and a warm, creamy, unbroken hollandaise sauce, all at about the same time.
+          - paragraph [ref=e152]: No wonder I rarely eat eggs Benedict unless I'm eating out, my brain is scrambled enough as it is in the morning without having to juggle in the kitchen.
+          - 'figure "Credit: Simply Recipes / Elise Bauer" [ref=e153]':
+            - img "Side view of eggs benedict on a plate." [ref=e156]
+            - generic [ref=e158]:
+              - text: "Credit:"
+              - paragraph [ref=e159]: Simply Recipes / Elise Bauer
+          - heading "How to Make Eggs Benedict" [level=2] [ref=e160]
+          - paragraph [ref=e161]:
+            - text: That said, if you know how to toast an English muffin, know how to cook bacon, and know
+            - link "how to poach eggs" [ref=e162] [cursor=pointer]:
+              - /url: https://www.simplyrecipes.com/recipes/easy_poached_eggs/
+            - text: ", then the only element that is not your standard fare is the"
+            - link "hollandaise sauce" [ref=e163] [cursor=pointer]:
+              - /url: https://www.simplyrecipes.com/recipes/easy_blender_hollandaise_sauce/
+            - text: ", which is actually quite easy if you have a blender."
+          - 'figure "Credit: Simply Recipes / Elise Bauer" [ref=e164]':
+            - img "Eggs Benedict resting on a white and gold plate" [ref=e167]
+            - generic [ref=e169]:
+              - text: "Credit:"
+              - paragraph [ref=e170]: Simply Recipes / Elise Bauer
+          - heading "When to Serve Eggs Benedict" [level=2] [ref=e171]
+          - paragraph [ref=e172]: There may be an occasion, such as Mother's Day for example, for which you might want to make a special someone, such as your mother, something special for breakfast or brunch. Eggs Benedict is as special as they come. Believe me, if you make these for me, I will worship the ground you walk on.
+        - generic [ref=e173]:
+          - generic [ref=e174]:
+            - heading "What Is Eggs Benedict?" [level=2] [ref=e175]
+            - paragraph [ref=e176]: Eggs Benedict is a traditional American breakfast and brunch recipe that originated in New York City. It consists of an English muffin, cut in half, toasted, and topped with Canadian bacon, poached eggs, and classic French hollandaise sauce. It's decadent, rich, and satisfying.
+            - heading "How to Make Perfect Poached Eggs" [level=2] [ref=e177]
+            - paragraph [ref=e178]: Not everyone poaches eggs right on the first try. Or the second. If you've never made poached eggs before, they can take some practice. For a better chance of getting it right, try these tips.
+            - list [ref=e179]:
+              - listitem [ref=e180]: • Start with the freshest eggs you can get. The older the eggs are, the more likely they are to fall apart in the simmering water.
+              - listitem [ref=e181]: • Make sure the water is barely simmering (with just a few bubbles appearing every now and then). If the water is at a full boil (lots of rapidly moving bubbles), the chances of the egg separating when it hits the water are greater.
+              - listitem [ref=e182]: • Don't forget to add the vinegar to the water.
+              - listitem [ref=e183]: • Crack the egg into a small bowl before adding it to the water. Then gently slide the egg from the bowl into the simmering water.
+              - listitem [ref=e184]: • Time the poaching egg carefully. Four minutes should be just about right.
+              - listitem [ref=e185]: "• Drain the poached eggs well. Hot tip: a stale piece of bread works even better than a paper towel."
+            - paragraph [ref=e186]:
+              - text: Looking for another option? Try our fast and super-easy
+              - link "Microwave Poached Eggs" [ref=e187] [cursor=pointer]:
+                - /url: https://www.simplyrecipes.com/recipes/microwave_poached_eggs/
+              - text: recipe.
+            - heading "Substitutions for Canadian Bacon" [level=2] [ref=e188]
+            - paragraph [ref=e189]: While Canadian bacon is the standard in eggs Benedict, it's okay to buck tradition with these alternatives.
+            - list [ref=e190]:
+              - listitem [ref=e191]: • Browned crab cakes
+              - listitem [ref=e192]: • Lobster
+              - listitem [ref=e193]: • Bacon
+              - listitem [ref=e194]: • Ham
+              - listitem [ref=e195]: • Smoked or cured salmon
+              - listitem [ref=e196]: • Taylor ham (or pork roll)
+              - listitem [ref=e197]:
+                - text: •
+                - link "Steamed asparagus" [ref=e198] [cursor=pointer]:
+                  - /url: https://www.simplyrecipes.com/recipes/how_to_cook_asparagus_on_the_stovetop/
+              - listitem [ref=e199]:
+                - text: •
+                - link "Sautéed spinach" [ref=e200] [cursor=pointer]:
+                  - /url: https://www.simplyrecipes.com/recipes/spinach/
+            - heading "Tips for A+ Hollandaise Sauce" [level=2] [ref=e201]
+            - paragraph [ref=e202]:
+              - text: Our
+              - link "Blender Hollandaise Sauce" [ref=e203] [cursor=pointer]:
+                - /url: https://www.simplyrecipes.com/recipes/easy_blender_hollandaise_sauce/
+              - text: is really a breeze to make. But you do need to follow the recipe closely. Stick to these tips and you'll be in good shape.
+            - list [ref=e204]:
+              - listitem [ref=e205]: • Blend the egg yolks a full 30 seconds. Blending them for less time makes for a runnier sauce, plus it heats the eggs yolks a bit.
+              - listitem [ref=e206]: • Melt the butter gently, so it's not hot and sputtering (this can cause the sauce to break).
+              - listitem [ref=e207]: • Add the butter in a slow, steady stream as the blender runs. Adding the butter too fast keeps the sauce from properly emulsifying.
+              - listitem [ref=e208]: • If the sauce is emulsified but too thin for your liking, pour it into the pot you melted the butter in and heat over low heat, whisking constantly until it gets more body.
+              - listitem [ref=e209]:
+                - text: • If your sauce is thin and greasy it's broken.
+                - link "Look here" [ref=e210] [cursor=pointer]:
+                  - /url: https://www.simplyrecipes.com/recipes/easy_blender_hollandaise_sauce/
+                - text: for ways you may be able to save it.
+            - link "How To Pasteurize Eggs at Home READ MORE:" [ref=e212] [cursor=pointer]:
+              - /url: https://www.simplyrecipes.com/how-to-pasteurize-eggs-at-home-8403964
+              - generic [ref=e213]: How To Pasteurize Eggs at Home
+              - generic [ref=e214]: "READ MORE:"
+            - heading "Make Ahead Tips" [level=2] [ref=e215]
+            - paragraph [ref=e216]: There are a lot of moving parts to eggs Benedict. If you'd like to make some of the dish ahead of time, you can poach the eggs up to five days early. Here's how.
+            - list [ref=e217]:
+              - listitem [ref=e218]: • When you're done poaching the eggs, plunge them in a bowl of ice water.
+              - listitem [ref=e219]: • Remove the eggs from the water with a slotted spoon and place them in a single layer in an airtight container. Refrigerate.
+              - listitem [ref=e220]: • Right before you're ready to assemble the eggs Benedict, reheat the pre-poached eggs in a bowl of hot—but not boiling—water for 2 to 3 minutes. Remove, then drain on paper towels or a slice of bread and proceed with the recipe.
+            - paragraph [ref=e221]: Don't make the hollandaise sauce or toast the English muffins ahead of time.
+            - heading "More Ways to Get Your Brunch On" [level=2] [ref=e222]
+            - list [ref=e223]:
+              - listitem [ref=e224]:
+                - text: •
+                - link "Cloud Eggs (Egg Nests)" [ref=e225] [cursor=pointer]:
+                  - /url: https://www.simplyrecipes.com/recipes/egg_nests/
+              - listitem [ref=e226]:
+                - text: •
+                - link "Baked Blueberry French Toast Casserole" [ref=e227] [cursor=pointer]:
+                  - /url: https://www.simplyrecipes.com/recipes/baked_blueberry_french_toast_casserole/
+              - listitem [ref=e228]:
+                - text: •
+                - link "How to Make French Crêpes" [ref=e229] [cursor=pointer]:
+                  - /url: https://www.simplyrecipes.com/recipes/how_to_make_french_crepes/
+              - listitem [ref=e230]:
+                - text: •
+                - link "Ham and Asparagus Quiche" [ref=e231] [cursor=pointer]:
+                  - /url: https://www.simplyrecipes.com/recipes/ham_and_asparagus_quiche/
+              - listitem [ref=e232]:
+                - text: •
+                - link "Japanese Soufflé Pancakes" [ref=e233] [cursor=pointer]:
+                  - /url: https://www.simplyrecipes.com/japanese-souffle-pancakes-recipe-5272290
+            - generic [ref=e235]: From the Editors Of Simply Recipes
+          - generic [ref=e236]:
+            - text: Recipe
+            - generic [ref=e237]:
+              - button "Print this article" [ref=e239] [cursor=pointer]:
+                - img [ref=e240]
+                - text: Print
+              - button "Save Recipe" [ref=e243] [cursor=pointer]:
+                - generic [ref=e244]: Save
+                - img [ref=e245]
+            - heading "How to Make Eggs Benedict" [level=2] [ref=e247]
+            - generic [ref=e249]:
+              - generic [ref=e250]:
+                - generic [ref=e252]:
+                  - generic [ref=e253]: Prep Time
+                  - generic [ref=e254]: 5 mins
+                - generic [ref=e256]:
+                  - generic [ref=e257]: Cook Time
+                  - generic [ref=e258]: 25 mins
+                - generic [ref=e260]:
+                  - generic [ref=e261]: Total Time
+                  - generic [ref=e262]: 30 mins
+              - generic [ref=e265]:
+                - generic [ref=e266]: Servings
+                - generic [ref=e267]: 4 servings
+            - generic [ref=e269]:
+              - text: "Note:"
+              - paragraph [ref=e270]: Eggs Benedict is also great made with slices of smoked salmon in place of the bacon. If you are in or around New Jersey, try it with Taylor ham.
+              - paragraph [ref=e271]:
+                - text: Don't have a blender? Make our
+                - link "stovetop hollandaise sauce" [ref=e272] [cursor=pointer]:
+                  - /url: https://www.simplyrecipes.com/hollandaise-sauce-recipe-5185441
+                - text: ", which is easier than you think."
+          - generic [ref=e273]:
+            - button "Toggle Screen Wake" [ref=e274] [cursor=pointer]
+            - generic [ref=e276] [cursor=pointer]: Keep Screen Awake
+          - generic [ref=e277]:
+            - heading "Ingredients" [level=3] [ref=e279]
+            - generic [ref=e281]:
+              - list [ref=e282]:
+                - listitem [ref=e283]:
+                  - text: •
+                  - paragraph [ref=e284]: 8 slices bacon or 4 slices Canadian bacon
+                - listitem [ref=e285]:
+                  - text: •
+                  - paragraph [ref=e286]: 4 large eggs
+                - listitem [ref=e287]:
+                  - text: •
+                  - paragraph [ref=e288]: 2 teaspoons white or rice vinegar
+                - listitem [ref=e289]:
+                  - text: •
+                  - paragraph [ref=e290]: 2 English muffins
+                - listitem [ref=e291]:
+                  - text: •
+                  - paragraph [ref=e292]: Butter
+                - listitem [ref=e293]:
+                  - text: •
+                  - paragraph [ref=e294]: 2 tablespoons chopped parsley, for garnish
+              - paragraph [ref=e295]: For the hollandaise sauce
+              - list [ref=e296]:
+                - listitem [ref=e297]:
+                  - text: •
+                  - paragraph [ref=e298]: 10 tablespoons unsalted butter (if using salted butter, omit the added salt)
+                - listitem [ref=e299]:
+                  - text: •
+                  - paragraph [ref=e300]: 3 large egg yolks
+                - listitem [ref=e301]:
+                  - text: •
+                  - paragraph [ref=e302]: 1 tablespoon lemon juice
+                - listitem [ref=e303]:
+                  - text: •
+                  - paragraph [ref=e304]: 1/2 teaspoon kosher salt
+                - listitem [ref=e305]:
+                  - text: •
+                  - paragraph [ref=e306]: Dash cayenne or Tabasco sauce
+          - generic [ref=e307]:
+            - heading "Method" [level=3] [ref=e309]
+            - generic [ref=e310]:
+              - list [ref=e312]:
+                - listitem [ref=e313]:
+                  - generic [ref=e314]: "Cook the bacon:"
+                  - paragraph [ref=e315]: Heat a large skillet on medium low heat. Add the strips of bacon or the slices of Canadian bacon. Slowly fry, turning occasionally, until the bacon is browned on both sides, and if using strip bacon, much of the fat is rendered out (about 10 minutes).
+                  - paragraph [ref=e316]: Use tongs or a fork to remove the bacon from the pan, set on a paper towel to absorb the excess fat.
+                  - generic [ref=e317]:
+                    - heading "Tip" [level=3] [ref=e318]
+                    - paragraph [ref=e320]: Don't pour the bacon fat left in the pan down the drain! Either sop it up with paper towels when it has cooled a bit, or pour it into a jar to be used later.
+                  - 'figure "Credit: Simply Recipes / Ciara Kehoe" [ref=e321]':
+                    - img "Crispy bacon on paper towels to make eggs benedict." [ref=e324]
+                    - generic [ref=e326]:
+                      - text: "Credit:"
+                      - paragraph [ref=e327]: Simply Recipes / Ciara Kehoe
+                - listitem [ref=e328]:
+                  - generic [ref=e329]: "Bring the poaching water to a simmer:"
+                  - paragraph [ref=e330]: While the bacon is cooking, bring a large saucepan two-thirds-filled with water to a boil, then add the vinegar. Bring the water to a boil again, then lower the heat to a bare simmer.
+                - listitem [ref=e331]:
+                  - generic [ref=e332]: "Make the hollandaise sauce:"
+                  - generic [ref=e333]:
+                    - heading "Tip" [level=3] [ref=e334]
+                    - paragraph [ref=e336]:
+                      - text: First time making hollandaise sauce? Check out our
+                      - link "Easy Blender Hollandaise Sauce" [ref=e337] [cursor=pointer]:
+                        - /url: https://www.simplyrecipes.com/recipes/easy_blender_hollandaise_sauce/
+                      - text: for additional details on making the sauce.
+                  - paragraph [ref=e338]: To make blender hollandaise, gently melt 10 tablespoons unsalted butter.
+                  - paragraph [ref=e339]: Put 3 egg yolks, a tablespoon of lemon juice, 1/2 teaspoon salt in a blender. Blend on medium to medium-high speed for 30 full seconds (count or time it), until eggs lighten in color.
+                  - paragraph [ref=e340]: Turn the blender down to lowest setting, slowly dribble in the hot melted butter, while continuing to blend. Taste for salt and acidity and add more salt or lemon juice to taste.
+                  - paragraph [ref=e341]: Transfer it to a container you can use for pouring and set it on a warm—but not hot—place on or near the stovetop.
+                  - 'figure "Credit: Simply Recipes / Ciara Kehoe" [ref=e342]':
+                    - img "Blender with egg yolks to make eggs benedict." [ref=e345]
+                    - generic [ref=e347]:
+                      - text: "Credit:"
+                      - paragraph [ref=e348]: Simply Recipes / Ciara Kehoe
+                  - 'figure "Credit: Simply Recipes / Ciara Kehoe" [ref=e349]':
+                    - img "Adding melted butter to egg yolks to make eggs benedict." [ref=e352]
+                    - generic [ref=e354]:
+                      - text: "Credit:"
+                      - paragraph [ref=e355]: Simply Recipes / Ciara Kehoe
+                  - 'figure "Credit: Simply Recipes / Ciara Kehoe" [ref=e356]':
+                    - img "Hollandaise sauce for eggs benedict recipe." [ref=e359]
+                    - generic [ref=e361]:
+                      - text: "Credit:"
+                      - paragraph [ref=e362]: Simply Recipes / Ciara Kehoe
+                - listitem [ref=e363]:
+                  - generic [ref=e364]: "Poach the eggs:"
+                  - paragraph [ref=e365]: Essentially, working one egg at a time you crack an egg into a small bowl and slip it into the barely simmering water. Once it begins to solidify, you can slip in another egg, until you have all four cooking.
+                  - paragraph [ref=e366]: Turn off the heat, cover the pan, and let sit for 4 minutes. (Remember which egg went in first, you'll want to take it out first.) When it comes time to remove the eggs, gently lift out with a slotted spoon.
+                  - paragraph [ref=e367]: Note that the timing is a little variable on the eggs, depending on the size of your pan, how much water, how many eggs, and how runny you like them. You might have to experiment a little with your set-up to figure out what you need to do to get the eggs exactly the way you like them.
+                  - paragraph [ref=e368]:
+                    - text: If you need some more instruction, here is
+                    - link "an easy method for poaching eggs" [ref=e369] [cursor=pointer]:
+                      - /url: https://www.simplyrecipes.com/recipes/easy_poached_eggs/
+                    - text: .
+                  - 'figure "Credit: Simply Recipes / Ciara Kehoe" [ref=e370]':
+                    - img "Poaching eggs in a pot of water" [ref=e373]
+                    - generic [ref=e375]:
+                      - text: "Credit:"
+                      - paragraph [ref=e376]: Simply Recipes / Ciara Kehoe
+                  - 'figure "Credit: Simply Recipes / Ciara Kehoe" [ref=e377]':
+                    - img "A Poached egg resting on a wooden spoon" [ref=e380]
+                    - generic [ref=e382]:
+                      - text: "Credit:"
+                      - paragraph [ref=e383]: Simply Recipes / Ciara Kehoe
+                - listitem [ref=e384]:
+                  - generic [ref=e385]: "Toast the English muffins:"
+                  - paragraph [ref=e386]: As soon as all the eggs are in the poaching water, begin toasting your English muffins. If you can’t get all the muffins toasted by the time the eggs are ready, gently remove the eggs from the poaching water and set in a bowl.
+                - listitem [ref=e387]:
+                  - generic [ref=e388]: "Assemble the eggs Benedict:"
+                  - paragraph [ref=e389]: To assemble, butter one side of an English muffin. Top with 2 slices of bacon or 1 slice of Canadian bacon. You can trim the bacon to fit the muffin if you’d like.
+                  - paragraph [ref=e390]: Put a poached egg on top of the bacon, then pour some hollandaise over. Sprinkle some parsley over it all and serve at once.
+                  - paragraph [ref=e391]:
+                    - strong [ref=e392]: Did you love this recipe? Let us know with a rating and review!
+                  - 'figure "Credit: Simply Recipes / Ciara Kehoe" [ref=e393]':
+                    - img "English muffins topped with bacon with hollandaise sauce on the side" [ref=e396]
+                    - generic [ref=e398]:
+                      - text: "Credit:"
+                      - paragraph [ref=e399]: Simply Recipes / Ciara Kehoe
+                  - 'figure "Credit: Simply Recipes / Ciara Kehoe" [ref=e400]':
+                    - img "English muffins with bacon, poached eggs, and being topped with hollandaise sauce" [ref=e403]
+                    - generic [ref=e405]:
+                      - text: "Credit:"
+                      - paragraph [ref=e406]: Simply Recipes / Ciara Kehoe
+              - generic [ref=e408]:
+                - text: "Filed Under:"
+                - list [ref=e409]:
+                  - listitem [ref=e410]:
+                    - link "Poached Eggs" [ref=e411] [cursor=pointer]:
+                      - /url: https://www.simplyrecipes.com/poached-egg-recipes-5091092
+                  - listitem [ref=e412]:
+                    - link "Easter" [ref=e413] [cursor=pointer]:
+                      - /url: https://www.simplyrecipes.com/easter-recipes-5091292
+                  - listitem [ref=e414]:
+                    - link "Mother's Day" [ref=e415] [cursor=pointer]:
+                      - /url: https://www.simplyrecipes.com/mothers-day-recipes-5091287
+                  - listitem [ref=e416]:
+                    - link "Poached Eggs" [ref=e417] [cursor=pointer]:
+                      - /url: https://www.simplyrecipes.com/poached-egg-recipes-5091092
+                  - listitem [ref=e418]:
+                    - link "Easter Side Dishes" [ref=e419] [cursor=pointer]:
+                      - /url: https://www.simplyrecipes.com/easter-side-recipes-5091289
+              - generic [ref=e420]:
+                - table [ref=e421]:
+                  - rowgroup [ref=e422]:
+                    - row "Nutrition Facts (per serving)" [ref=e423]:
+                      - columnheader "Nutrition Facts (per serving)" [ref=e424]:
+                        - text: Nutrition Facts
+                        - generic [ref=e425]: (per serving)
+                  - rowgroup [ref=e426]:
+                    - row "774 Calories" [ref=e427]:
+                      - cell "774" [ref=e428]
+                      - cell "Calories" [ref=e429]
+                    - row "59g Fat" [ref=e430]:
+                      - cell "59g" [ref=e431]
+                      - cell "Fat" [ref=e432]
+                    - row "38g Carbs" [ref=e433]:
+                      - cell "38g" [ref=e434]
+                      - cell "Carbs" [ref=e435]
+                    - row "24g Protein" [ref=e436]:
+                      - cell "24g" [ref=e437]
+                      - cell "Protein" [ref=e438]
+                - button "Show Full Nutrition Label" [ref=e440] [cursor=pointer]:
+                  - img [ref=e441]
+                  - text: Show Full Nutrition Label
+                - generic [ref=e443]: Nutrition information is calculated using an ingredient database and should be considered an estimate. In cases where multiple ingredient alternatives are given, the first listed is calculated for nutrition. Garnishes and optional ingredients are not included.
+    - generic [ref=e492]:
+      - generic [ref=e493]:
+        - link "Easy homemade omelette recipe in a pan Save Recipe Easy Breakfast How to Make an Omelette 6 mins" [ref=e495] [cursor=pointer]:
+          - /url: https://www.simplyrecipes.com/recipes/how_to_make_an_omelet/
+          - generic [ref=e496]:
+            - img "Easy homemade omelette recipe in a pan" [ref=e498]
+            - button "Save Recipe" [ref=e500]:
+              - img [ref=e501]
+          - generic [ref=e503]:
+            - generic [ref=e504]:
+              - generic [ref=e505]: Easy Breakfast
+              - generic [ref=e506]: How to Make an Omelette
+            - generic [ref=e507]:
+              - generic [ref=e508]:
+                - img [ref=e509]
+                - generic [ref=e511]: 6 mins
+              - generic [ref=e514]:
+                - img [ref=e516]
+                - img [ref=e519]
+                - img [ref=e522]
+                - img [ref=e525]
+                - img [ref=e528]
+        - link "Easy Scrambled Eggs with toast on a plate Save Recipe Brunch How to Make the Best Scrambled Eggs 9 mins" [ref=e531] [cursor=pointer]:
+          - /url: https://www.simplyrecipes.com/recipes/how_to_make_fluffy_scrambled_eggs/
+          - generic [ref=e532]:
+            - img "Easy Scrambled Eggs with toast on a plate" [ref=e534]
+            - button "Save Recipe" [ref=e536]:
+              - img [ref=e537]
+          - generic [ref=e539]:
+            - generic [ref=e540]:
+              - generic [ref=e541]: Brunch
+              - generic [ref=e542]: How to Make the Best Scrambled Eggs
+            - generic [ref=e543]:
+              - generic [ref=e544]:
+                - img [ref=e545]
+                - generic [ref=e547]: 9 mins
+              - generic [ref=e550]:
+                - img [ref=e552]
+                - img [ref=e555]
+                - img [ref=e558]
+                - img [ref=e561]
+                - img [ref=e564]
+        - link "Monte Cristo croissant casserole in a casserole dish and in the surroundings, a serving on a small plate with a fork, a container of jelly, and cups of coffee Save Recipe Breakfast Casseroles Monte Cristo Croissant Casserole 50 mins" [ref=e567] [cursor=pointer]:
+          - /url: https://www.simplyrecipes.com/monte-cristo-casserole-recipe-8406783
+          - generic [ref=e568]:
+            - img "Monte Cristo croissant casserole in a casserole dish and in the surroundings, a serving on a small plate with a fork, a container of jelly, and cups of coffee" [ref=e570]
+            - button "Save Recipe" [ref=e572]:
+              - img [ref=e573]
+          - generic [ref=e575]:
+            - generic [ref=e576]:
+              - generic [ref=e577]: Breakfast Casseroles
+              - generic [ref=e578]: Monte Cristo Croissant Casserole
+            - generic [ref=e579]:
+              - generic [ref=e580]:
+                - img [ref=e581]
+                - generic [ref=e583]: 50 mins
+              - generic [ref=e586]:
+                - img [ref=e588]
+                - img [ref=e591]
+                - img [ref=e594]
+                - img [ref=e597]
+                - img [ref=e600]
+        - link "Poached Egg Bacon Salad Lyonnaise Save Recipe Salads Poached Egg and Bacon Salad (Salade Lyonnaise) 20 mins" [ref=e603] [cursor=pointer]:
+          - /url: https://www.simplyrecipes.com/recipes/poached_egg_and_bacon_salad___salad_lyonnaise/
+          - generic [ref=e604]:
+            - img "Poached Egg Bacon Salad Lyonnaise" [ref=e606]
+            - button "Save Recipe" [ref=e608]:
+              - img [ref=e609]
+          - generic [ref=e611]:
+            - generic [ref=e612]:
+              - generic [ref=e613]: Salads
+              - generic [ref=e614]: Poached Egg and Bacon Salad (Salade Lyonnaise)
+            - generic [ref=e615]:
+              - generic [ref=e616]:
+                - img [ref=e617]
+                - generic [ref=e619]: 20 mins
+              - generic [ref=e622]:
+                - img [ref=e624]
+                - img [ref=e627]
+                - img [ref=e630]
+                - img [ref=e633]
+                - img [ref=e636]
+        - link "Over easy eggs on a blue rimmed plate with a side of bacon. Save Recipe Brunch How to Fry an Egg 4 mins" [ref=e639] [cursor=pointer]:
+          - /url: https://www.simplyrecipes.com/recipes/how_to_fry_an_egg/
+          - generic [ref=e640]:
+            - img "Over easy eggs on a blue rimmed plate with a side of bacon." [ref=e642]
+            - button "Save Recipe" [ref=e644]:
+              - img [ref=e645]
+          - generic [ref=e647]:
+            - generic [ref=e648]:
+              - generic [ref=e649]: Brunch
+              - generic [ref=e650]: How to Fry an Egg
+            - generic [ref=e651]:
+              - generic [ref=e652]:
+                - img [ref=e653]
+                - generic [ref=e655]: 4 mins
+              - generic [ref=e658]:
+                - img [ref=e660]
+                - img [ref=e663]
+                - img [ref=e666]
+                - img [ref=e669]
+                - img [ref=e672]
+        - link "Asparagus Eggs Caper Vinaigrette Save Recipe Side Dishes Asparagus Mimosa With Hard Boiled Eggs and Capers 25 mins" [ref=e675] [cursor=pointer]:
+          - /url: https://www.simplyrecipes.com/recipes/boiled_asparagus_with_sieved_eggs_and_caper_vinaigrette/
+          - generic [ref=e676]:
+            - img "Asparagus Eggs Caper Vinaigrette" [ref=e678]
+            - button "Save Recipe" [ref=e680]:
+              - img [ref=e681]
+          - generic [ref=e683]:
+            - generic [ref=e684]:
+              - generic [ref=e685]: Side Dishes
+              - generic [ref=e686]: Asparagus Mimosa With Hard Boiled Eggs and Capers
+            - generic [ref=e688]:
+              - img [ref=e689]
+              - generic [ref=e691]: 25 mins
+        - link "Best Caramelized Onion Quiche Save Recipe Quiches Caramelized Onion Quiche 2 hrs" [ref=e693] [cursor=pointer]:
+          - /url: https://www.simplyrecipes.com/recipes/caramelized_onion_quiche/
+          - generic [ref=e694]:
+            - img "Best Caramelized Onion Quiche" [ref=e696]
+            - button "Save Recipe" [ref=e698]:
+              - img [ref=e699]
+          - generic [ref=e701]:
+            - generic [ref=e702]:
+              - generic [ref=e703]: Quiches
+              - generic [ref=e704]: Caramelized Onion Quiche
+            - generic [ref=e705]:
+              - generic [ref=e706]:
+                - img [ref=e707]
+                - generic [ref=e709]: 2 hrs
+              - generic [ref=e712]:
+                - img [ref=e714]
+                - img [ref=e717]
+                - img [ref=e720]
+                - img [ref=e723]
+                - img [ref=e726]
+        - link "Overhead shot of the finished breakfast casserole in a 9x13 baking dish Save Recipe Brunch Easy Breakfast Casserole 65 mins" [ref=e729] [cursor=pointer]:
+          - /url: https://www.simplyrecipes.com/recipes/as_you_like_it_breakfast_casserole/
+          - generic [ref=e730]:
+            - img "Overhead shot of the finished breakfast casserole in a 9x13 baking dish" [ref=e732]
+            - button "Save Recipe" [ref=e734]:
+              - img [ref=e735]
+          - generic [ref=e737]:
+            - generic [ref=e738]:
+              - generic [ref=e739]: Brunch
+              - generic [ref=e740]: Easy Breakfast Casserole
+            - generic [ref=e742]:
+              - img [ref=e743]
+              - generic [ref=e745]: 65 mins
+      - generic [ref=e748]:
+        - link "Overhead view of a platter of Classic Deviled Eggs. Save Recipe Easy Snacks and Appetizers Deviled Eggs 30 mins" [ref=e750] [cursor=pointer]:
+          - /url: https://www.simplyrecipes.com/recipes/deviled_eggs/
+          - generic [ref=e751]:
+            - img "Overhead view of a platter of Classic Deviled Eggs." [ref=e753]
+            - button "Save Recipe" [ref=e755]:
+              - img [ref=e756]
+          - generic [ref=e758]:
+            - generic [ref=e759]:
+              - generic [ref=e760]: Easy Snacks and Appetizers
+              - generic [ref=e761]: Deviled Eggs
+            - generic [ref=e762]:
+              - generic [ref=e763]:
+                - img [ref=e764]
+                - generic [ref=e766]: 30 mins
+              - generic [ref=e769]:
+                - img [ref=e771]
+                - img [ref=e774]
+                - img [ref=e777]
+                - img [ref=e780]
+                - img [ref=e783]
+        - link "A slice of best deep dish quiche on a decorative china plate. A handful of arugula is to the right of the quiche. A fork is to the left of the plate and a table linen is above the plate. Save Recipe Brunch Deep-Dish Bacon and Cheddar Quiche 3 hrs" [ref=e786] [cursor=pointer]:
+          - /url: https://www.simplyrecipes.com/recipes/deep_dish_bacon_and_cheddar_quiche/
+          - generic [ref=e787]:
+            - img "A slice of best deep dish quiche on a decorative china plate. A handful of arugula is to the right of the quiche. A fork is to the left of the plate and a table linen is above the plate." [ref=e789]
+            - button "Save Recipe" [ref=e791]:
+              - img [ref=e792]
+          - generic [ref=e794]:
+            - generic [ref=e795]:
+              - generic [ref=e796]: Brunch
+              - generic [ref=e797]: Deep-Dish Bacon and Cheddar Quiche
+            - generic [ref=e798]:
+              - generic [ref=e799]:
+                - img [ref=e800]
+                - generic [ref=e802]: 3 hrs
+              - generic [ref=e805]:
+                - img [ref=e807]
+                - img [ref=e810]
+                - img [ref=e813]
+                - img [ref=e816]
+                - img [ref=e819]
+        - link "Save Recipe Snacks and Appetizers Eggs Mimosa with Artichoke Tapenade 40 mins" [ref=e822] [cursor=pointer]:
+          - /url: https://www.simplyrecipes.com/recipes/eggs_mimosa_with_artichoke_tapenade/
+          - button "Save Recipe" [ref=e826]:
+            - img [ref=e827]
+          - generic [ref=e829]:
+            - generic [ref=e830]:
+              - generic [ref=e831]: Snacks and Appetizers
+              - generic [ref=e832]: Eggs Mimosa with Artichoke Tapenade
+            - generic [ref=e833]:
+              - generic [ref=e834]:
+                - img [ref=e835]
+                - generic [ref=e837]: 40 mins
+              - generic [ref=e840]:
+                - img [ref=e842]
+                - img [ref=e845]
+                - img [ref=e848]
+                - img [ref=e851]
+                - img [ref=e854]
+        - link "Serving of spinach florentine breakfast casserole lifted from a casserole dish Save Recipe Egg Casseroles Spinach Florentine Breakfast Casserole 85 mins" [ref=e857] [cursor=pointer]:
+          - /url: https://www.simplyrecipes.com/spinach-florentine-breakfast-casserole-recipe-8406845
+          - generic [ref=e858]:
+            - img "Serving of spinach florentine breakfast casserole lifted from a casserole dish" [ref=e860]
+            - button "Save Recipe" [ref=e862]:
+              - img [ref=e863]
+          - generic [ref=e865]:
+            - generic [ref=e866]:
+              - generic [ref=e867]: Egg Casseroles
+              - generic [ref=e868]: Spinach Florentine Breakfast Casserole
+            - generic [ref=e869]:
+              - generic [ref=e870]:
+                - img [ref=e871]
+                - generic [ref=e873]: 85 mins
+              - generic [ref=e876]:
+                - img [ref=e878]
+                - img [ref=e881]
+                - img [ref=e884]
+                - img [ref=e887]
+                - img [ref=e890]
+        - link "Horizontal image of the best corned beef omelet. The folded omelet is covered in browned corned beef. Grated cheese and parsley are on the top of the omelet. A white cotton napkin is partially under the plate. A fork rests on the napkin which is to the right of the plate. A partial view of a glass of orange juice is above the plate. Halved strawberries are to the left of the omelet on the plate. Save Recipe Quick Breakfast Quick and Easy Corned Beef Omelet 25 mins" [ref=e893] [cursor=pointer]:
+          - /url: https://www.simplyrecipes.com/recipes/quick_and_easy_corned_beef_omelet/
+          - generic [ref=e894]:
+            - img "Horizontal image of the best corned beef omelet. The folded omelet is covered in browned corned beef. Grated cheese and parsley are on the top of the omelet. A white cotton napkin is partially under the plate. A fork rests on the napkin which is to the right of the plate. A partial view of a glass of orange juice is above the plate. Halved strawberries are to the left of the omelet on the plate." [ref=e896]
+            - button "Save Recipe" [ref=e898]:
+              - img [ref=e899]
+          - generic [ref=e901]:
+            - generic [ref=e902]:
+              - generic [ref=e903]: Quick Breakfast
+              - generic [ref=e904]: Quick and Easy Corned Beef Omelet
+            - generic [ref=e905]:
+              - generic [ref=e906]:
+                - img [ref=e907]
+                - generic [ref=e909]: 25 mins
+              - generic [ref=e912]:
+                - img [ref=e914]
+                - img [ref=e917]
+                - img [ref=e920]
+                - img [ref=e923]
+                - img [ref=e926]
+        - link "Peeled and sliced Instant pot hard boiled eggs on a plate Save Recipe Easy Breakfast How to Make Instant Pot Easy-Peel Hard Boiled Eggs 4 mins" [ref=e929] [cursor=pointer]:
+          - /url: https://www.simplyrecipes.com/recipes/easy_peel_hard_boiled_eggs_in_the_pressure_cooker/
+          - generic [ref=e930]:
+            - img "Peeled and sliced Instant pot hard boiled eggs on a plate" [ref=e932]
+            - button "Save Recipe" [ref=e934]:
+              - img [ref=e935]
+          - generic [ref=e937]:
+            - generic [ref=e938]:
+              - generic [ref=e939]: Easy Breakfast
+              - generic [ref=e940]: How to Make Instant Pot Easy-Peel Hard Boiled Eggs
+            - generic [ref=e941]:
+              - generic [ref=e942]:
+                - img [ref=e943]
+                - generic [ref=e945]: 4 mins
+              - generic [ref=e948]:
+                - img [ref=e950]
+                - img [ref=e953]
+                - img [ref=e956]
+                - img [ref=e959]
+                - img [ref=e962]
+        - link "Tuscan Scrambled Eggs Save Recipe Healthy Breakfast Tuscan Scrambled Eggs 55 mins" [ref=e965] [cursor=pointer]:
+          - /url: https://www.simplyrecipes.com/recipes/tuscan_scrambled_eggs/
+          - generic [ref=e966]:
+            - img "Tuscan Scrambled Eggs" [ref=e968]
+            - button "Save Recipe" [ref=e970]:
+              - img [ref=e971]
+          - generic [ref=e973]:
+            - generic [ref=e974]:
+              - generic [ref=e975]: Healthy Breakfast
+              - generic [ref=e976]: Tuscan Scrambled Eggs
+            - generic [ref=e977]:
+              - generic [ref=e978]:
+                - img [ref=e979]
+                - generic [ref=e981]: 55 mins
+              - generic [ref=e984]:
+                - img [ref=e986]
+                - img [ref=e989]
+                - img [ref=e992]
+                - img [ref=e995]
+                - img [ref=e998]
+        - link "Best Mushroom Quiche Save Recipe Quiches Mushroom Quiche 85 mins" [ref=e1001] [cursor=pointer]:
+          - /url: https://www.simplyrecipes.com/recipes/mushroom_quiche/
+          - generic [ref=e1002]:
+            - img "Best Mushroom Quiche" [ref=e1004]
+            - button "Save Recipe" [ref=e1006]:
+              - img [ref=e1007]
+          - generic [ref=e1009]:
+            - generic [ref=e1010]:
+              - generic [ref=e1011]: Quiches
+              - generic [ref=e1012]: Mushroom Quiche
+            - generic [ref=e1013]:
+              - generic [ref=e1014]:
+                - img [ref=e1015]
+                - generic [ref=e1017]: 85 mins
+              - generic [ref=e1020]:
+                - img [ref=e1022]
+                - img [ref=e1025]
+                - img [ref=e1028]
+                - img [ref=e1031]
+                - img [ref=e1034]
+  - contentinfo [ref=e1038]:
+    - generic [ref=e1040]:
+      - generic [ref=e1041]:
+        - link "Visit Simply Recipes's homepage" [ref=e1043] [cursor=pointer]:
+          - /url: https://www.simplyrecipes.com/
+          - img [ref=e1044]
+        - generic [ref=e1046]:
+          - generic [ref=e1047]:
+            - generic [ref=e1048]: Ready to cook?
+            - generic [ref=e1049]: Sign up for our weekly newsletters!
+          - generic [ref=e1051]:
+            - generic [ref=e1052]: Email Address
+            - textbox "Email Address" [ref=e1053]:
+              - /placeholder: Enter your email
+            - button "Sign up" [ref=e1054] [cursor=pointer]
+        - generic [ref=e1055]:
+          - generic [ref=e1056]: Let's be friends!
+          - list [ref=e1057]:
+            - listitem [ref=e1058]:
+              - link "Visit Simply Recipes's facebook" [ref=e1059] [cursor=pointer]:
+                - /url: https://www.facebook.com/simplyrecipes
+                - img [ref=e1060]
+            - listitem [ref=e1062]:
+              - link "Visit Simply Recipes's instagram" [ref=e1063] [cursor=pointer]:
+                - /url: https://www.instagram.com/simplyrecipes
+                - img [ref=e1064]
+            - listitem [ref=e1066]:
+              - link "Visit Simply Recipes's pinterest" [ref=e1067] [cursor=pointer]:
+                - /url: https://www.pinterest.com/simplyrecipes
+                - img [ref=e1068]
+            - listitem [ref=e1070]:
+              - link "Visit Simply Recipes's youtube" [ref=e1071] [cursor=pointer]:
+                - /url: https://www.youtube.com/c/simplyrecipes
+                - img [ref=e1072]
+      - generic [ref=e1074]:
+        - list [ref=e1075]:
+          - listitem [ref=e1076]:
+            - link "Recipes" [ref=e1077] [cursor=pointer]:
+              - /url: https://www.simplyrecipes.com/recipes-5090746
+          - listitem [ref=e1078]:
+            - link "Quick & Easy" [ref=e1079] [cursor=pointer]:
+              - /url: https://www.simplyrecipes.com/recipes-by-time-and-ease-5090817
+          - listitem [ref=e1080]:
+            - link "In the Kitchen" [ref=e1081] [cursor=pointer]:
+              - /url: https://www.simplyrecipes.com/cooking-how-tos-5090751
+          - listitem [ref=e1082]:
+            - link "Buying Guides" [ref=e1083] [cursor=pointer]:
+              - /url: https://www.simplyrecipes.com/kitchen-food-buying-guides-5090755
+          - listitem [ref=e1084]:
+            - link "Holidays & Seasons" [ref=e1085] [cursor=pointer]:
+              - /url: https://www.simplyrecipes.com/holiday-and-seasonal-recipes-5091321
+        - list [ref=e1086]:
+          - listitem [ref=e1087]:
+            - link "About Us" [ref=e1088] [cursor=pointer]:
+              - /url: https://www.simplyrecipes.com/about-us-5096129
+          - listitem [ref=e1089]:
+            - link "Advertise" [ref=e1090] [cursor=pointer]:
+              - /url: https://www.people.inc/advertising
+          - listitem [ref=e1091]:
+            - link "Terms of Service" [ref=e1092] [cursor=pointer]:
+              - /url: https://www.people.inc/brands-termsofservice
+          - listitem [ref=e1093]:
+            - link "Careers" [ref=e1094] [cursor=pointer]:
+              - /url: https://www.people.inc/careers
+          - listitem [ref=e1095]:
+            - link "Editorial Guidelines" [ref=e1096] [cursor=pointer]:
+              - /url: https://www.simplyrecipes.com/about-us-5096129#toc-recipe-development--testing
+          - listitem [ref=e1097]:
+            - link "Sweepstakes" [ref=e1098] [cursor=pointer]:
+              - /url: https://www.simplyrecipes.com/sweepstakes
+          - listitem [ref=e1099]:
+            - link "Privacy Policy" [ref=e1100] [cursor=pointer]:
+              - /url: https://www.people.inc/brands-privacy
+          - listitem [ref=e1101]:
+            - link "Contact" [ref=e1102] [cursor=pointer]:
+              - /url: https://www.simplyrecipes.com/about-us-5096129#toc-contact-us
+    - generic [ref=e1105]:
+      - img [ref=e1106]
+      - generic [ref=e1109]:
+        - text: Simply Recipes is part of the
+        - link "People Inc." [ref=e1110] [cursor=pointer]:
+          - /url: https://www.people.inc
+        - text: publishing family.
+  - iframe
