@@ -1,29 +1,59 @@
-# ⚙️ Setup Instructions
+# multi-agent-ai-systems
 
-I’ve put together these steps to keep the setup process as smooth and predictable as possible.
+A collection of examples, templates, and guides for building multi-agent AI systems using tools like crewAI, LangGraph, Autogen and related frameworks. The repository contains notebooks, example projects, and utilities organized by topic.
 
-## 🖥️ Choose Your Platform
+Language composition: Jupyter Notebooks (main), Python code.
 
-- **Windows:** [Setup Guide](setup/SETUP-PC.md)  
-- **Mac:** [Setup Guide](setup/SETUP-mac.md)  
-- **Linux:** [Setup Guide](setup/SETUP-linux.md)  
+## Repository structure
 
-If you run into any issues, feel free to reach out.
+- 1_foundations/ — foundational examples, theory and notebooks
+- 2_openai/ — OpenAI examples and integrations
+- 3_crew/ — crewAI example crews (coder, debate, ...)
+  - 3_crew/coder/ — Coder crew example (agents for coding tasks)
+  - 3_crew/debate/ — Debate crew example (agents debating a topic)
+- 4_langgraph/ — LangGraph examples and utilities
+- 5_autogen/ — Autogen-based agent examples
+- 6_mcp/ — MCP experiments and demos
+- guides/ — longer-form guides and walkthroughs
+- setup/ — platform-specific setup instructions (Windows, Mac, Linux)
 
----
+## Quick start
 
-### ⚠️ Important Note for Windows Users
+1. Review the platform-specific setup instructions in the `setup/` folder:
+   - Windows: `setup/SETUP-PC.md`
+   - macOS: `setup/SETUP-mac.md`
+   - Linux: `setup/SETUP-linux.md`
 
-Before anything else, make sure you’ve completed **“Gotcha #4”** in the Windows setup guide:  
-👉 Installing **Microsoft Build Tools**
+2. Install Python (recommended 3.10–3.12) and a virtual environment.
 
-If you skip this, CrewAI may fail with a confusing **Chroma-related error**.
-
----
-
-## 🚀 Installing CrewAI
-
-Run the following command in your **Cursor terminal** from the project root directory:
+3. Install dependencies. This repository uses different tools in subprojects; a common starting point is:
 
 ```bash
-uv tool install crewai==0.130.0 --python 3.12
+pip install -r requirements.txt
+```
+
+Some examples use `uv` and `crewai` for dependency and project handling; see each subproject README for details.
+
+4. Set required environment variables (examples):
+
+```bash
+export OPENAI_API_KEY="sk-..."
+```
+
+5. Run an example crew (from repo root):
+
+```bash
+# from repo root
+crewai run
+```
+
+or open and run the Jupyter notebooks in the folders (use Jupyter or VS Code).
+
+## Notebooks
+Most of the repository content is in Jupyter notebooks. Open them with Jupyter Lab or VS Code for interactive exploration.
+
+## Contributing
+Contributions, bug reports and feature requests are welcome. Please open an issue describing your change and follow the code/styles in the repo.
+
+## License
+This project is distributed under the terms of the LICENSE file in the repository.
